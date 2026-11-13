@@ -1,0 +1,309 @@
+{
+  "counts": {
+    "routes": 11,
+    "stops": 172,
+    "route_stops": 177
+  },
+  "errors": [],
+  "warnings": [
+    "stops.csv data row 1 (V2S001): missing coordinates retained as null.",
+    "stops.csv data row 2 (V2S002): missing coordinates retained as null.",
+    "stops.csv data row 3 (V2S003): missing coordinates retained as null.",
+    "stops.csv data row 4 (V2S004): missing coordinates retained as null.",
+    "stops.csv data row 5 (V2S005): missing coordinates retained as null.",
+    "stops.csv data row 6 (V2S006): missing coordinates retained as null.",
+    "stops.csv data row 7 (V2S007): missing coordinates retained as null.",
+    "stops.csv data row 8 (V2S008): missing coordinates retained as null.",
+    "stops.csv data row 11 (V2S011): missing coordinates retained as null.",
+    "stops.csv data row 12 (V2S012): missing coordinates retained as null.",
+    "stops.csv data row 13 (V2S013): missing coordinates retained as null.",
+    "stops.csv data row 16 (V2S016): missing coordinates retained as null.",
+    "stops.csv data row 17 (V2S017): missing coordinates retained as null.",
+    "stops.csv data row 18 (V2S018): missing coordinates retained as null.",
+    "stops.csv data row 19 (V2S019): missing coordinates retained as null.",
+    "stops.csv data row 20 (V2S020): missing coordinates retained as null.",
+    "stops.csv data row 21 (V2S021): missing coordinates retained as null.",
+    "stops.csv data row 22 (V2S022): missing coordinates retained as null.",
+    "stops.csv data row 23 (V2S023): missing coordinates retained as null.",
+    "stops.csv data row 24 (V2S024): missing coordinates retained as null.",
+    "stops.csv data row 25 (V2S025): missing coordinates retained as null.",
+    "stops.csv data row 26 (V2S026): missing coordinates retained as null.",
+    "stops.csv data row 27 (V2S027): missing coordinates retained as null.",
+    "stops.csv data row 28 (V2S028): missing coordinates retained as null.",
+    "stops.csv data row 29 (V2S029): missing coordinates retained as null.",
+    "stops.csv data row 30 (V2S030): missing coordinates retained as null.",
+    "stops.csv data row 31 (V2S031): missing coordinates retained as null.",
+    "stops.csv data row 32 (V2S032): missing coordinates retained as null.",
+    "stops.csv data row 33 (V2S033): missing coordinates retained as null.",
+    "stops.csv data row 34 (V2S034): missing coordinates retained as null.",
+    "stops.csv data row 35 (V2S035): missing coordinates retained as null.",
+    "stops.csv data row 37 (V2S037): missing coordinates retained as null.",
+    "stops.csv data row 38 (V2S038): missing coordinates retained as null.",
+    "stops.csv data row 39 (V2S039): missing coordinates retained as null.",
+    "stops.csv data row 40 (V2S040): missing coordinates retained as null.",
+    "stops.csv data row 41 (V2S041): missing coordinates retained as null.",
+    "stops.csv data row 42 (V2S042): missing coordinates retained as null.",
+    "stops.csv data row 43 (V2S043): missing coordinates retained as null.",
+    "stops.csv data row 44 (V2S044): missing coordinates retained as null.",
+    "stops.csv data row 45 (V2S045): missing coordinates retained as null.",
+    "stops.csv data row 46 (V2S046): missing coordinates retained as null.",
+    "stops.csv data row 47 (V2S047): missing coordinates retained as null.",
+    "stops.csv data row 48 (V2S048): missing coordinates retained as null.",
+    "stops.csv data row 49 (V2S049): missing coordinates retained as null.",
+    "stops.csv data row 50 (V2S050): missing coordinates retained as null.",
+    "stops.csv data row 51 (V2S051): missing coordinates retained as null.",
+    "stops.csv data row 52 (V2S052): missing coordinates retained as null.",
+    "stops.csv data row 53 (V2S053): missing coordinates retained as null.",
+    "stops.csv data row 54 (V2S054): missing coordinates retained as null.",
+    "stops.csv data row 55 (V2S055): missing coordinates retained as null.",
+    "stops.csv data row 56 (V2S056): missing coordinates retained as null.",
+    "stops.csv data row 57 (V2S057): missing coordinates retained as null.",
+    "stops.csv data row 58 (V2S058): missing coordinates retained as null.",
+    "stops.csv data row 59 (V2S059): missing coordinates retained as null.",
+    "stops.csv data row 60 (V2S060): missing coordinates retained as null.",
+    "stops.csv data row 61 (V2S061): missing coordinates retained as null.",
+    "stops.csv data row 62 (V2S062): missing coordinates retained as null.",
+    "stops.csv data row 63 (V2S063): missing coordinates retained as null.",
+    "stops.csv data row 64 (V2S064): missing coordinates retained as null.",
+    "stops.csv data row 65 (V2S065): missing coordinates retained as null.",
+    "stops.csv data row 67 (V2S067): missing coordinates retained as null.",
+    "stops.csv data row 68 (V2S068): missing coordinates retained as null.",
+    "stops.csv data row 69 (V2S069): missing coordinates retained as null.",
+    "stops.csv data row 70 (V2S070): missing coordinates retained as null.",
+    "stops.csv data row 71 (V2S071): missing coordinates retained as null.",
+    "stops.csv data row 73 (V2S073): missing coordinates retained as null.",
+    "stops.csv data row 74 (V2S074): missing coordinates retained as null.",
+    "stops.csv data row 75 (V2S075): missing coordinates retained as null.",
+    "stops.csv data row 76 (V2S076): missing coordinates retained as null.",
+    "stops.csv data row 77 (V2S077): missing coordinates retained as null.",
+    "stops.csv data row 78 (V2S078): missing coordinates retained as null.",
+    "stops.csv data row 79 (V2S079): missing coordinates retained as null.",
+    "stops.csv data row 80 (V2S080): missing coordinates retained as null.",
+    "stops.csv data row 81 (V2S081): missing coordinates retained as null.",
+    "stops.csv data row 82 (V2S082): missing coordinates retained as null.",
+    "stops.csv data row 83 (V2S083): missing coordinates retained as null.",
+    "stops.csv data row 84 (V2S084): missing coordinates retained as null.",
+    "stops.csv data row 85 (V2S085): missing coordinates retained as null.",
+    "stops.csv data row 86 (V2S086): missing coordinates retained as null.",
+    "stops.csv data row 87 (V2S087): missing coordinates retained as null.",
+    "stops.csv data row 90 (V2S090): blank stop_name retained; no name invented.",
+    "stops.csv data row 95 (V2S095): blank stop_name retained; no name invented.",
+    "stops.csv data row 97 (V2S097): blank stop_name retained; no name invented.",
+    "stops.csv data row 100 (V2S100): blank stop_name retained; no name invented.",
+    "stops.csv data row 102 (V2S102): blank stop_name retained; no name invented.",
+    "stops.csv data row 103 (V2S103): blank stop_name retained; no name invented.",
+    "stops.csv data row 105 (V2S105): blank stop_name retained; no name invented.",
+    "stops.csv data row 109 (V2S109): blank stop_name retained; no name invented.",
+    "stops.csv data row 111 (V2S111): blank stop_name retained; no name invented.",
+    "stops.csv data row 112 (V2S112): blank stop_name retained; no name invented.",
+    "stops.csv data row 114 (V2S114): blank stop_name retained; no name invented.",
+    "stops.csv data row 121 (V2S121): blank stop_name retained; no name invented.",
+    "stops.csv data row 126 (V2S126): blank stop_name retained; no name invented.",
+    "stops.csv data row 128 (V2S128): blank stop_name retained; no name invented.",
+    "stops.csv data row 130 (V2S130): blank stop_name retained; no name invented.",
+    "stops.csv data row 140 (V2S140): blank stop_name retained; no name invented.",
+    "stops.csv data row 159 (V2S159): blank stop_name retained; no name invented.",
+    "near duplicate names: V2S141 (bustop) / V2S152 (Bus Stop). Kept separate."
+  ],
+  "metrics": {
+    "unnamed_stops": 17,
+    "stops_missing_coordinates": 80
+  },
+  "verificationStatuses": {
+    "routes": {
+      "official_operator_source": 8,
+      "verified_current_app_segment;intermediate_stops_partially_verified": 2,
+      "osm_only;current_service_unverified": 1
+    },
+    "stops": {
+      "official_operator_source": 82,
+      "official_operator_source;osm_coordinate_match": 5,
+      "osm_only": 79,
+      "candidate_from_osm": 5,
+      "verified_destination_in_app": 1
+    },
+    "route_stops": {
+      "official_operator_source": 155,
+      "verified_current_app": 4,
+      "partially_verified": 10,
+      "osm_only;provisional_order": 8
+    }
+  },
+  "coordinateStatuses": {
+    "pending_osm_match": 80,
+    "provided_by_osm_extract": 14,
+    "matched_osm_exact_name": 5,
+    "osm_coordinates_present": 73
+  },
+  "sources": {
+    "routes": {
+      "Sajha Yatayat official Short Routes": 8,
+      "KTM Public Transport app + OpenStreetMap": 2,
+      "OpenStreetMap relation 2282101": 1
+    },
+    "stops": {
+      "Sajha Yatayat official Short Routes": 80,
+      "Sajha Yatayat official Short Routes + KTM Public Transport app + OpenStreetMap": 2,
+      "Sajha Yatayat official Short Routes + OpenStreetMap + KTM Public Transport app + OpenStreetMap": 2,
+      "Sajha Yatayat official Short Routes + OpenStreetMap": 3,
+      "OpenStreetMap": 76,
+      "OpenStreetMap + KTM Public Transport app + OpenStreetMap": 3,
+      "KTM Public Transport app + OpenStreetMap": 6
+    },
+    "route_stops": {
+      "Sajha Yatayat official Short Routes": 155,
+      "KTM Public Transport app + OpenStreetMap": 14,
+      "OpenStreetMap relation 2282101 + project OSM extraction": 8
+    }
+  },
+  "sourceUrls": {
+    "routes": {
+      "https://sajhayatayat.com.np/short-routes/": 8,
+      "https://play.google.com/store/apps/details?id=com.fccpta.ktmpublictransport": 2,
+      "https://www.openstreetmap.org/relation/2282101": 1
+    },
+    "stops": {
+      "https://sajhayatayat.com.np/short-routes/": 80,
+      "https://sajhayatayat.com.np/short-routes/ | https://play.google.com/store/apps/details?id=com.fccpta.ktmpublictransport": 2,
+      "https://sajhayatayat.com.np/short-routes/ | https://www.openstreetmap.org/node/2127168043 | https://play.google.com/store/apps/details?id=com.fccpta.ktmpublictransport": 1,
+      "https://sajhayatayat.com.np/short-routes/ | https://www.openstreetmap.org/node/10685761805": 1,
+      "https://sajhayatayat.com.np/short-routes/ | https://www.openstreetmap.org/node/1945933025": 1,
+      "https://sajhayatayat.com.np/short-routes/ | https://www.openstreetmap.org/node/5720133821 | https://play.google.com/store/apps/details?id=com.fccpta.ktmpublictransport": 1,
+      "https://sajhayatayat.com.np/short-routes/ | https://www.openstreetmap.org/node/4109691391": 1,
+      "https://www.openstreetmap.org/node/31147572": 1,
+      "https://www.openstreetmap.org/node/268116939 | https://play.google.com/store/apps/details?id=com.fccpta.ktmpublictransport": 1,
+      "https://www.openstreetmap.org/node/724363694": 1,
+      "https://www.openstreetmap.org/node/845503448": 1,
+      "https://www.openstreetmap.org/node/1143907471": 1,
+      "https://www.openstreetmap.org/node/1399507923": 1,
+      "https://www.openstreetmap.org/node/1497159559": 1,
+      "https://www.openstreetmap.org/node/1497194467": 1,
+      "https://www.openstreetmap.org/node/1523307368": 1,
+      "https://www.openstreetmap.org/node/1622172127": 1,
+      "https://www.openstreetmap.org/node/1845683513": 1,
+      "https://www.openstreetmap.org/node/1875745723": 1,
+      "https://www.openstreetmap.org/node/1886633796": 1,
+      "https://www.openstreetmap.org/node/1898593311": 1,
+      "https://www.openstreetmap.org/node/2077260194": 1,
+      "https://www.openstreetmap.org/node/2090601791": 1,
+      "https://www.openstreetmap.org/node/2165424725": 1,
+      "https://www.openstreetmap.org/node/2166417333": 1,
+      "https://www.openstreetmap.org/node/2166427223": 1,
+      "https://www.openstreetmap.org/node/2396022574": 1,
+      "https://www.openstreetmap.org/node/2968523086": 1,
+      "https://www.openstreetmap.org/node/3074566733": 1,
+      "https://www.openstreetmap.org/node/3074581508": 1,
+      "https://www.openstreetmap.org/node/3074584433": 1,
+      "https://www.openstreetmap.org/node/3074602191": 1,
+      "https://www.openstreetmap.org/node/3322873041": 1,
+      "https://www.openstreetmap.org/node/3461553726": 1,
+      "https://www.openstreetmap.org/node/3806463148": 1,
+      "https://www.openstreetmap.org/node/4135808094": 1,
+      "https://www.openstreetmap.org/node/4141131095": 1,
+      "https://www.openstreetmap.org/node/4204194789": 1,
+      "https://www.openstreetmap.org/node/4206479489": 1,
+      "https://www.openstreetmap.org/node/4266695860": 1,
+      "https://www.openstreetmap.org/node/4366575209": 1,
+      "https://www.openstreetmap.org/node/4407978700": 1,
+      "https://www.openstreetmap.org/node/4428730600": 1,
+      "https://www.openstreetmap.org/node/4539565993": 1,
+      "https://www.openstreetmap.org/node/4607638798": 1,
+      "https://www.openstreetmap.org/node/4615652290": 1,
+      "https://www.openstreetmap.org/node/4671940789": 1,
+      "https://www.openstreetmap.org/node/4731419521": 1,
+      "https://www.openstreetmap.org/node/4784205922": 1,
+      "https://www.openstreetmap.org/node/4824360524": 1,
+      "https://www.openstreetmap.org/node/4834526521": 1,
+      "https://www.openstreetmap.org/node/4851758928 | https://play.google.com/store/apps/details?id=com.fccpta.ktmpublictransport": 1,
+      "https://www.openstreetmap.org/node/4903081921": 1,
+      "https://www.openstreetmap.org/node/4920024521": 1,
+      "https://www.openstreetmap.org/node/4940227523": 1,
+      "https://www.openstreetmap.org/node/4954663823": 1,
+      "https://www.openstreetmap.org/node/5081406121": 1,
+      "https://www.openstreetmap.org/node/5086421321": 1,
+      "https://www.openstreetmap.org/node/5181221232": 1,
+      "https://www.openstreetmap.org/node/5528676227": 1,
+      "https://www.openstreetmap.org/node/5529727021": 1,
+      "https://www.openstreetmap.org/node/5538962121": 1,
+      "https://www.openstreetmap.org/node/5619165231": 1,
+      "https://www.openstreetmap.org/node/5784633469 | https://play.google.com/store/apps/details?id=com.fccpta.ktmpublictransport": 1,
+      "https://www.openstreetmap.org/node/5864596986": 1,
+      "https://www.openstreetmap.org/node/5907660838": 1,
+      "https://www.openstreetmap.org/node/6100126497": 1,
+      "https://www.openstreetmap.org/node/6482645186": 1,
+      "https://www.openstreetmap.org/node/6585014732": 1,
+      "https://www.openstreetmap.org/node/6945144593": 1,
+      "https://www.openstreetmap.org/node/9412182417": 1,
+      "https://www.openstreetmap.org/node/9524374618": 1,
+      "https://www.openstreetmap.org/node/10228706017": 1,
+      "https://www.openstreetmap.org/node/10814739406": 1,
+      "https://www.openstreetmap.org/node/10945732625": 1,
+      "https://www.openstreetmap.org/node/11962120770": 1,
+      "https://www.openstreetmap.org/node/11962125369": 1,
+      "https://www.openstreetmap.org/node/12832655801": 1,
+      "https://www.openstreetmap.org/node/12901879540": 1,
+      "https://www.openstreetmap.org/node/12993759258": 1,
+      "https://play.google.com/store/apps/details?id=com.fccpta.ktmpublictransport": 4,
+      "https://play.google.com/store/apps/details?id=com.fccpta.ktmpublictransport | https://www.openstreetmap.org/relation/2282101": 2,
+      "https://www.openstreetmap.org/relation/2282101": 6
+    },
+    "route_stops": {
+      "https://sajhayatayat.com.np/short-routes/": 155,
+      "https://play.google.com/store/apps/details?id=com.fccpta.ktmpublictransport": 14,
+      "https://www.openstreetmap.org/relation/2282101": 8
+    }
+  },
+  "nearDuplicateNames": [
+    {
+      "kind": "near duplicate",
+      "stops": [
+        {
+          "stop_id": "V2S141",
+          "stop_name": "bustop"
+        },
+        {
+          "stop_id": "V2S152",
+          "stop_name": "Bus Stop"
+        }
+      ]
+    }
+  ],
+  "suppliedQualityReport": [
+    {
+      "metric": "routes_total",
+      "value": "11",
+      "notes": "8 official Sajha + 2 current-app-supported candidate segments + 1 OSM-only route"
+    },
+    {
+      "metric": "stops_total",
+      "value": "172",
+      "notes": "Includes all 79 stops from the project OSM Kathmandu export plus official-route stops not matched in OSM"
+    },
+    {
+      "metric": "route_stop_links",
+      "value": "177",
+      "notes": "Ordered route-stop relationships"
+    },
+    {
+      "metric": "unnamed_stops",
+      "value": "17",
+      "notes": "Mapped OSM stop points with coordinates but no usable name; retained with blank stop_name"
+    },
+    {
+      "metric": "stops_missing_coordinates",
+      "value": "80",
+      "notes": "Mostly official Sajha stop names not confidently matched by exact name to the current project OSM export"
+    },
+    {
+      "metric": "osm_raw_stops_timestamp",
+      "value": "2026-09-01T20:00:46Z",
+      "notes": "Timestamp embedded in uploaded project OSM export"
+    },
+    {
+      "metric": "osm_only_route_current_status",
+      "value": "unverified",
+      "notes": "Ratna Park-Sundarijal exists as OSM relation but current service was not independently confirmed"
+    }
+  ],
+  "datasetReadme": "# Kathmandu Valley Bus Route Finder Dataset — Version 2\n\n## Purpose\nThis dataset is a representative static public-transport dataset for an undergraduate FYP route-finder prototype. It is designed for direct-route search, one-transfer search, MongoDB import, and map visualisation. It intentionally contains no timetable, ETA, fixed departure/arrival, or live-vehicle fields.\n\n## Contents\n- `routes.csv`\n- `stops.csv`\n- `route_stops.csv`\n- `data_quality_report.csv`\n- `raw_sources/`\n\n## Coverage\nVersion 2 combines:\n1. **8 Sajha Yatayat intracity routes** from the official operator Short Routes page.\n2. **All 79 bus-stop features contained in the project's Kathmandu OpenStreetMap export** dated 2026-09-01T20:00:46Z.\n3. **Jamal–Chabahil** and **Ratna Park–Balaju** journey segments supported by current KTM Public Transport app screenshots collected for the project, with intermediate stops treated as partially verified OSM candidates.\n4. **Ratna Park–Sundarijal (OSM relation 2282101)** retained as `osm_only` and explicitly marked as not currently verified.\n\n## Important limitation\nThis is **not a complete database of every operating bus in Kathmandu Valley**. OpenStreetMap is community-maintained and can be incomplete or outdated. The local OSM export available to this project contains 79 mapped stop features, but it is not a live full-Valley Overpass dump of every current bus relation. A later Version 3 can replace/extend these records after a fresh Kathmandu Valley Overpass extraction.\n\n## Verification rules\n- `official_operator_source`: route order published by Sajha Yatayat.\n- `verified_current_app`: endpoint/segment visible in the current KTM Public Transport app evidence collected by the project.\n- `partially_verified`: some elements are source-supported, but intermediate sequence is not fully authoritative.\n- `osm_only`: present in OpenStreetMap only; does not prove current service.\n- `pending_osm_match`: coordinate still needs a confident geographic match.\n- `matched_osm_exact_name`: coordinate matched only where the canonical stop name had one exact normalized OSM name match.\n\n## Sources\n- Sajha Yatayat Short Routes: https://sajhayatayat.com.np/short-routes/\n- KTM Public Transport app listing: https://play.google.com/store/apps/details?id=com.fccpta.ktmpublictransport\n- OpenStreetMap: https://www.openstreetmap.org/\n- OSM relation 2282101: https://www.openstreetmap.org/relation/2282101\n\nOpenStreetMap data is made available under the Open Database License (ODbL).\n\n## Academic use\nDescribe this as a **representative, multi-source prototype dataset**, not as a complete or authoritative Kathmandu Valley transport database. Keep verification status visible in development and evaluation.\n"
+}

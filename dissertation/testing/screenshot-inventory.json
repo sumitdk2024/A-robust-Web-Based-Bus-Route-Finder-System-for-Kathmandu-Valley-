@@ -1,0 +1,14 @@
+{
+  "indexed_evidence_screenshots": 16,
+  "indexed_application_screenshots": 12,
+  "indexed_test_report_screenshots": 4,
+  "additional_automated_artifact_png_files": 30,
+  "all_testing_png_files": 46,
+  "distinct_png_sha256_hashes": 35,
+  "files_by_group": {
+    "screenshots": 16,
+    "report-rerun-artifacts": 15,
+    "playwright-artifacts": 15
+  },
+  "note": "Includes two enlarged views captured6 November from unchanged native5 November report; no new tests. Existing files and duplicate artifacts preserved; PDF review renders excluded."
+}

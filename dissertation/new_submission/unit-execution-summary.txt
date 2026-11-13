@@ -1,0 +1,4 @@
+Actual tool-observed execution, 12 November 2026.
+Frontend: npm.cmd test; pretest generateMainDataset.js; node --test src/utils/*.test.js. 68 tests, 68 pass, 0 fail, 0 cancelled, 0 skipped, 0 todo; duration 734.2588 ms.
+Backend: npm.cmd test; node --test tests/mainDataset.test.js tests/walkingRoute.test.js tests/geocoding.test.js. 5 tests, 5 pass, 0 fail, 0 cancelled, 0 skipped, 0 todo; duration 7106.1799 ms.
+These are transcribed execution summaries, not raw stdout files. Full browser and independent-check results are separately retained.

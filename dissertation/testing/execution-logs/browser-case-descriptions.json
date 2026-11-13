@@ -1,0 +1,162 @@
+[
+  [
+    "Enter Bouddha\u2192Kapan, Thankot\u2192Airport and Lagankhel\u2192Balaju requests; repeat last and choose View Journey",
+    "Each gives journey and estimate; preference/alternative controls absent; repeat stable; result focus and one endpoint marker each"
+  ],
+  [
+    "Ask Kapan\u2192Boudha, Thankot\u2192airport, Kapan\u2192Balaju; then omit origin and ask Kapan\u2192Mars",
+    "Recognised journeys found; Boudha becomes Bouddha Stupa; missing origin requests start; Mars rejected and markers cleared"
+  ],
+  [
+    "Ask Lagankhel\u2192Bhaktapur, Kapan\u2192Baneshwor; choose New Baneshwor; ask unsupported museum",
+    "Bhaktapur resolves Koteshwor Bhaktapur Stop; ambiguous Baneshwor offers two choices; chosen stop continues; museum rejected"
+  ],
+  [
+    "Emulate Baluwatar; ask location\u2192Ratna Park; test 375/768/1280 widths; reset then location\u2192Airport",
+    "One recommendation; no alternatives; origin matches helper-selected candidate; walking visible; no overflow; second search found"
+  ],
+  [
+    "Hold assistant GPS callback; request my location\u2192airport; reset then release callback",
+    "Pending button disabled; callback after reset creates no recommendation and leaves origin empty"
+  ],
+  [
+    "Ask I want to travel from kapan to Thankot",
+    "Fields resolve Kapan and Thankot; journey found; recommendation includes Thankot; interpreted debug panel absent"
+  ],
+  [
+    "Type rAt; ArrowDown twice, ArrowUp, Enter; fill Chabahil; type unknown origin, Escape and reset",
+    "Rata Makai Chowk selected; menu closes; unknown input flagged; Escape closes; reset empties origin"
+  ],
+  [
+    "At 375px choose Chuchepati and Ratna Park; swap, search, clear origin",
+    "Fields independent; swapped Ratna Park\u2192Chuchepati found; ten initial suggestions; no overflow"
+  ],
+  [
+    "At 1920/1440/1366/768/390 widths search example; expand assistant; visit About and old destinations anchor",
+    "Single reused map; valid result; no overflow; desktop alignment and 420\u2013500px map, mobile 320px; About excludes planner; tourist absent"
+  ],
+  [
+    "Submit empty; select Kapan only; select Kapan twice; enter unsupported text each field; recover Kapan\u2192Balaju; reset",
+    "Specific missing/same/invalid messages; valid journey recovered with endpoint/transfer markers; reset clears inputs and map layers"
+  ],
+  [
+    "Select Kapan\u2192Balaju; click search five times",
+    "Result text identical across five repetitions; each browser click-to-visible assertion under 3000ms; local check only"
+  ],
+  [
+    "Emulate Denmark (55.6761,12.5683); choose Balaju, use location; recover manually Kapan\u2192Balaju",
+    "Outside-Nepal message; empty origin; zero provider calls/location layers; manual search still works"
+  ],
+  [
+    "Emulate India (26.7606,83.3732); choose Balaju, use location; recover manually Kapan\u2192Balaju",
+    "Outside-Nepal message; empty origin; zero provider calls/location layers; manual search still works"
+  ],
+  [
+    "Emulate Pokhara (28.2096,83.9856); use location",
+    "No supported nearby-stop message; zero provider calls and location/walking layers"
+  ],
+  [
+    "Emulate near Thankot; return three pedestrian fixtures with second candidate 480s/720m; select and search Airport",
+    "Three provider calls; second candidate chosen; real fixture geometry layer; ~8min/720m displayed; search reuses cached metrics"
+  ],
+  [
+    "Emulate Thankot; force walking endpoint HTTP503; search Airport",
+    "Thankot retained; unavailable message; approximate connection layer/caption and approximate walking label"
+  ],
+  [
+    "Delay walking responses at (27.7,85.3); start location then reset and release",
+    "Finding-walking status before reset; no restored origin/location/walking layers; status empty afterwards"
+  ],
+  [
+    "Search direct, one-transfer and two-transfer cases; inspect markers, permanent labels and leg paths",
+    "One marker per unique stop; only endpoint/transfer permanent labels; transfer markers match unique transfers; one path per leg"
+  ],
+  [
+    "At 390\u00d7844 touch viewport search first example; focus/Enter intermediate marker; focus via stop list then tap; reset",
+    "44px+ hit target and 12px dot; keyboard and tap popups show intermediate stop; no overflow; reset clears layers"
+  ],
+  [
+    "Save Home=Ratna Park; reload; use From/To; edit College=Lagankhel; reload then delete and reload",
+    "Saved stop persists; From/To fill correctly; edit updates origin; deletion persists; storage array empty"
+  ],
+  [
+    "Open Add place; Escape; reopen Home with Unsupported stop and save",
+    "Label initially focused; Escape restores Add focus; unsupported stop alert prevents save"
+  ],
+  [
+    "Mock New Baneshwor/Lagankhel geocodes and 650m/360s walks; save Home/Office; use both, swap, reset, reload",
+    "Two ~6min walks and address markers; correct walking endpoints; swap reverses destination walk; reset preserves cards; zero GPS calls"
+  ],
+  [
+    "Mock Denmark HTTP400, missing address HTTP404 and Pokhara coordinates; try address searches",
+    "Supported-area and not-found messages; Pokhara has no nearby stop; no saved card created"
+  ],
+  [
+    "Save mocked Baneshwor address Home; use as origin to Kapan with walking HTTP503",
+    "Journey has approximate walking label; one saved-address walking layer and approximate map caption"
+  ],
+  [
+    "Preload ten saved stops; click Add place",
+    "Limit message You can save up to 10 places; no dialog opens"
+  ],
+  [
+    "Inject Storage.setItem quota exception; enter Home=Ratna Park and save",
+    "Unable to save alert; dialog retains Home text"
+  ],
+  [
+    "Save College=Lagankhel; emulate Thankot GPS; use location then College destination",
+    "Thankot origin and one location marker; exactly one saved College card; current location not saved; journey found"
+  ],
+  [
+    "At 390\u00d7844 save College=Lagankhel; open Add dialog",
+    "No document horizontal overflow; dialog contents fit own width; screenshots saved"
+  ],
+  [
+    "Emulate Thankot; use location; inspect three nearby stops; select second then first; search Airport and reset",
+    "Thankot first at 0m; three options and location marker; selection changes origin; direct journey; reset clears location and nearby panel"
+  ],
+  [
+    "Select Jamal; inject geolocation error code1 after location button click",
+    "Pending button disabled; denied-access message; button reenabled; Jamal preserved"
+  ],
+  [
+    "Select Jamal; inject geolocation error code2 after location button click",
+    "Pending button disabled; unable-to-obtain-location message; button reenabled; Jamal preserved"
+  ],
+  [
+    "Select Jamal; inject geolocation error code3 after location button click",
+    "Pending button disabled; timeout message; button reenabled; Jamal preserved"
+  ],
+  [
+    "Hold GPS callback; click Use location then Reset; release callback",
+    "Origin stays empty and no location marker restored"
+  ],
+  [
+    "Provide 1px local tile fixture; search Kapan\u2192Balaju; open dialog; assistant Thankot\u2192Airport; reset; visit About",
+    "One transfer then direct found; retired/debug/preference UI absent; reset clears markers; no collected console/page errors under fixture"
+  ],
+  [
+    "Click direct example then transfer example; expand details, focus first stop, show all",
+    "Direct R01_A and28 markers; transfer25 markers and change instruction; Kapan popup; expanded list25 stops"
+  ],
+  [
+    "Search empty; choose first example, swap; search then reset",
+    "Missing-origin message; swapped origin Airport; search found; reset empties origin and markers"
+  ],
+  [
+    "At widths375/768/1280 search first example",
+    "Direct Route heading visible and no horizontal document overflow at all three widths"
+  ],
+  [
+    "Inspect homepage controls",
+    "My Places heading/Add place present; no Quick stops or journey alternatives"
+  ],
+  [
+    "Select Baadbhanjyan(Thankot)\u2192Petrol Pump Panipokhari; search and expand first leg",
+    "2 Transfers heading;3 legs,2 transfer instructions,2 transfer markers; segment stop list opens"
+  ],
+  [
+    "Emulate near Thankot with walking HTTP503; choose nearby stop, search Airport; inspect estimate; test widths; manually reselect and swap",
+    "Walking and total/helper-derived range displayed initially; estimate details visible; no overflow; manual origin/swap remove location walking"
+  ]
+]

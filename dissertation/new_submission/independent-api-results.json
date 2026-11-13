@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-12T21:19:07.108Z",
+  "server": "isolated ephemeral HTTP listener; CSV only; no database writes; no external provider requests",
+  "results": [
+    {
+      "id": "API01",
+      "path": "/api/routes/not-a-route",
+      "body": null,
+      "expectedStatus": 404,
+      "expectedMessage": "Route not found",
+      "actualStatus": 404,
+      "actual": {
+        "message": "Route not found"
+      },
+      "pass": true
+    },
+    {
+      "id": "API02",
+      "path": "/api/stops/not-a-stop",
+      "body": null,
+      "expectedStatus": 404,
+      "expectedMessage": "Stop not found",
+      "actualStatus": 404,
+      "actual": {
+        "message": "Stop not found"
+      },
+      "pass": true
+    },
+    {
+      "id": "API03",
+      "path": "/api/routes/not-a-route/stops",
+      "body": null,
+      "expectedStatus": 404,
+      "expectedMessage": "Route not found",
+      "actualStatus": 404,
+      "actual": {
+        "message": "Route not found"
+      },
+      "pass": true
+    },
+    {
+      "id": "API04",
+      "path": "/api/no-such-endpoint",
+      "body": null,
+      "expectedStatus": 404,
+      "expectedMessage": "Endpoint not found",
+      "actualStatus": 404,
+      "actual": {
+        "message": "Endpoint not found"
+      },
+      "pass": true
+    },
+    {
+      "id": "API05",
+      "path": "/api/walking-route",
+      "body": "{}",
+      "expectedStatus": 400,
+      "expectedMessage": null,
+      "actualStatus": 400,
+      "actual": {
+        "message": "Walking routes require valid locations within Nepal."
+      },
+      "pass": true
+    },
+    {
+      "id": "API06",
+      "path": "/api/walking-route",
+      "body": "{invalid",
+      "expectedStatus": 400,
+      "expectedMessage": "Invalid request body",
+      "actualStatus": 400,
+      "actual": {
+        "message": "Invalid request body"
+      },
+      "pass": true
+    }
+  ]
+}

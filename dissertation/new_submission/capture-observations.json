@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-12",
+  "network": "No interception; real application. No physical GPS or participant study.",
+  "records": [
+    {
+      "id": "UI01",
+      "actual": "Journey search\n\nPlease select a starting location."
+    },
+    {
+      "id": "direct",
+      "actual": "Your journey\n\nDirect Route found. 28 stops.\n\nDirect Route\nSajha Yatayat\n\nThankot → Tribhuvan Airport\n\nEstimated travel time\nApprox. 65–75 min\nStops\n28 stops\nBus changes\n0 transfers\nApproximate bus distance\nApprox. 16.7 km\nAbout this estimate\nSajha Yatayat\nR01_A\n\noutbound · Thankot ⇄ Airport\n\nBoard\nThankot\nShow 26 intermediate stops\nAlight\nTribhuvan Airport\nView journey details",
+      "markers": 28,
+      "loadedTiles": 8
+    },
+    {
+      "id": "transfer",
+      "actual": "Your journey\n\n1 Transfer found. 25 stops.\n\n1 Transfer\nBus connections\n\nKapan → Balaju\n\nEstimated travel time\nApprox. 50–60 min\nStops\n25 stops\nBus changes\n1 transfer\nApproximate bus distance\nApprox. 11.1 km\nAbout this estimate\nNepal Yatayat\nR16_A\n\noutbound · Kapan ⇄ Tikathali\n\nBoard\nKapan\nShow 17 intermediate stops\nAlight\nNarayan Gopal Chowk\nChange bus here\n\nTransfer at Narayan Gopal Chowk\n\nMahanagar Yatayat\nR11_B\n\ninbound · Ringroad\n\nBoard\nNarayan Gopal Chowk\nShow 5 intermediate stops\nAlight\nBalaju\nView journey details",
+      "markers": 25,
+      "loadedTiles": 9
+    },
+    {
+      "id": "mobile",
+      "overflow": false
+    }
+  ]
+}

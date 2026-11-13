@@ -1,0 +1,1216 @@
+﻿route_id,logical_route_number,direction,company,stop_order,stop_id,stop_name,latitude,longitude
+R01_A,1,outbound,Sajha Yatayat,1,baadbhanjyan(thankot),Baadbhanjyan (Thankot),27.696,85.2175
+R01_A,1,outbound,Sajha Yatayat,2,kharibot,Kharibot,27.689,85.227
+R01_A,1,outbound,Sajha Yatayat,3,thankot,Thankot,27.6855,85.231
+R01_A,1,outbound,Sajha Yatayat,4,thankot_checkpost,Thankot Checkpost,27.6845,85.2365
+R01_A,1,outbound,Sajha Yatayat,5,gurjudhara,Gurjudhara,27.6835,85.245
+R01_A,1,outbound,Sajha Yatayat,6,satungal,Satungal,27.683,85.258
+R01_A,1,outbound,Sajha Yatayat,7,balkhu_pul,Balkhu Pul,27.684,85.277
+R01_A,1,outbound,Sajha Yatayat,8,naikap,Naikap,27.687,85.27
+R01_A,1,outbound,Sajha Yatayat,9,tinthana,Tinthana,27.691,85.274
+R01_A,1,outbound,Sajha Yatayat,10,dhungeadda,Dhungeadda,27.6945,85.277
+R01_A,1,outbound,Sajha Yatayat,11,kalanki,Kalanki,27.6965,85.281
+R01_A,1,outbound,Sajha Yatayat,12,kalanki_mandir,Kalanki Mandir,27.6972,85.283
+R01_A,1,outbound,Sajha Yatayat,13,ravi_bhawan,Ravi Bhawan,27.6985,85.292
+R01_A,1,outbound,Sajha Yatayat,14,soltimod,Soltimod,27.6998,85.298
+R01_A,1,outbound,Sajha Yatayat,15,kalimati,Kalimati,27.7015,85.304
+R01_A,1,outbound,Sajha Yatayat,16,teku,Teku,27.701,85.309
+R01_A,1,outbound,Sajha Yatayat,17,tripureshwor,Tripureshwor,27.701,85.3115
+R01_A,1,outbound,Sajha Yatayat,18,sundhara,Sundhara,27.7023,85.3147
+R01_A,1,outbound,Sajha Yatayat,19,ratnapark,Ratna Park,27.706,85.314
+R01_A,1,outbound,Sajha Yatayat,20,bhrikutimandap,Bhrikutimandap,27.7053,85.3128
+R01_A,1,outbound,Sajha Yatayat,21,bhadrakali,Bhadrakali,27.7035,85.3135
+R01_A,1,outbound,Sajha Yatayat,22,maitighar,Maitighar,27.6995,85.3198
+R01_A,1,outbound,Sajha Yatayat,23,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R01_A,1,outbound,Sajha Yatayat,24,new_baneshwor,New Baneshwor,27.696,85.3355
+R01_A,1,outbound,Sajha Yatayat,25,civil_hospital,Civil Hospital,27.694,85.339
+R01_A,1,outbound,Sajha Yatayat,26,shantinagar,Shantinagar,27.6912,85.3425
+R01_A,1,outbound,Sajha Yatayat,27,tinkune_chowk,Tinkune Chowk,27.6878,85.3455
+R01_A,1,outbound,Sajha Yatayat,28,tinkune,Tinkune,27.6862,85.347
+R01_A,1,outbound,Sajha Yatayat,29,sinamangal,Sinamangal,27.694,85.3558
+R01_A,1,outbound,Sajha Yatayat,30,airport,Tribhuvan Airport,27.6966,85.3591
+R01_B,1,inbound,Sajha Yatayat,1,airport,Tribhuvan Airport,27.6966,85.3591
+R01_B,1,inbound,Sajha Yatayat,2,sinamangal,Sinamangal,27.694,85.3558
+R01_B,1,inbound,Sajha Yatayat,3,tinkune,Tinkune,27.6862,85.347
+R01_B,1,inbound,Sajha Yatayat,4,tinkune_chowk,Tinkune Chowk,27.6878,85.3455
+R01_B,1,inbound,Sajha Yatayat,5,shantinagar,Shantinagar,27.6912,85.3425
+R01_B,1,inbound,Sajha Yatayat,6,civil_hospital,Civil Hospital,27.694,85.339
+R01_B,1,inbound,Sajha Yatayat,7,new_baneshwor,New Baneshwor,27.696,85.3355
+R01_B,1,inbound,Sajha Yatayat,8,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R01_B,1,inbound,Sajha Yatayat,9,babar_mahal,Babar Mahal,27.7013,85.3218
+R01_B,1,inbound,Sajha Yatayat,10,maitighar,Maitighar,27.6995,85.3198
+R01_B,1,inbound,Sajha Yatayat,11,bhadrakali,Bhadrakali,27.7035,85.3135
+R01_B,1,inbound,Sajha Yatayat,12,tripureshwor,Tripureshwor,27.701,85.3115
+R01_B,1,inbound,Sajha Yatayat,13,teku,Teku,27.701,85.309
+R01_B,1,inbound,Sajha Yatayat,14,kalimati,Kalimati,27.7015,85.304
+R01_B,1,inbound,Sajha Yatayat,15,soltimod,Soltimod,27.6998,85.298
+R01_B,1,inbound,Sajha Yatayat,16,ravi_bhawan,Ravi Bhawan,27.6985,85.292
+R01_B,1,inbound,Sajha Yatayat,17,kalanki_mandir,Kalanki Mandir,27.6972,85.283
+R01_B,1,inbound,Sajha Yatayat,18,kalanki,Kalanki,27.6965,85.281
+R01_B,1,inbound,Sajha Yatayat,19,dhungeadda,Dhungeadda,27.6945,85.277
+R01_B,1,inbound,Sajha Yatayat,20,tinthana,Tinthana,27.691,85.274
+R01_B,1,inbound,Sajha Yatayat,21,naikap,Naikap,27.687,85.27
+R01_B,1,inbound,Sajha Yatayat,22,balkhu_pul,Balkhu Pul,27.684,85.277
+R01_B,1,inbound,Sajha Yatayat,23,satungal,Satungal,27.683,85.258
+R01_B,1,inbound,Sajha Yatayat,24,gurjudhara,Gurjudhara,27.6835,85.245
+R01_B,1,inbound,Sajha Yatayat,25,thankot_checkpost,Thankot Checkpost,27.6845,85.2365
+R01_B,1,inbound,Sajha Yatayat,26,thankot,Thankot,27.6855,85.231
+R01_B,1,inbound,Sajha Yatayat,27,kharibot,Kharibot,27.689,85.227
+R01_B,1,inbound,Sajha Yatayat,28,thankot(baadbhanjyan),Thankot (Baadbhanjyan),27.696,85.2175
+R02_A,2,outbound,Sajha Yatayat,1,naya_bus_park,Naya Bus Park,27.7358,85.3043
+R02_A,2,outbound,Sajha Yatayat,2,gongabu_chowk,Gongabu Chowk,27.7328,85.3058
+R02_A,2,outbound,Sajha Yatayat,3,samakhusi,Samakhusi,27.7295,85.305
+R02_A,2,outbound,Sajha Yatayat,4,talim_kendra,Talim Kendra,27.7262,85.3042
+R02_A,2,outbound,Sajha Yatayat,5,basundhara_chauki,Basundhara Chauki,27.723,85.3038
+R02_A,2,outbound,Sajha Yatayat,6,basundhara,Basundhara,27.721,85.3042
+R02_A,2,outbound,Sajha Yatayat,7,us_embassy,U.S. Embassy,27.7193,85.3055
+R02_A,2,outbound,Sajha Yatayat,8,teaching_hospital,Teaching Hospital,27.7172,85.3055
+R02_A,2,outbound,Sajha Yatayat,9,petrol_pump-panipokhari,Petrol Pump Panipokhari,27.7155,85.3068
+R02_A,2,outbound,Sajha Yatayat,10,lazimpat,Lazimpat,27.7128,85.3098
+R02_A,2,outbound,Sajha Yatayat,11,jamal,Jamal,27.709,85.3145
+R02_A,2,outbound,Sajha Yatayat,12,bhrikutimandap,Bhrikutimandap,27.7053,85.3128
+R02_A,2,outbound,Sajha Yatayat,13,sahid_gate,Sahid Gate,27.7038,85.3132
+R02_A,2,outbound,Sajha Yatayat,14,tripureshwor,Tripureshwor,27.701,85.3115
+R02_A,2,outbound,Sajha Yatayat,15,thapathali,Thapathali,27.6988,85.3115
+R02_A,2,outbound,Sajha Yatayat,16,kupondole,Kupondole,27.697,85.3098
+R02_A,2,outbound,Sajha Yatayat,17,harihar_bhawan,Harihar Bhawan,27.6952,85.308
+R02_A,2,outbound,Sajha Yatayat,18,pulchowk,Pulchowk,27.6935,85.3062
+R02_A,2,outbound,Sajha Yatayat,19,jawalakhel,Jawalakhel,27.6912,85.3048
+R02_A,2,outbound,Sajha Yatayat,20,kumaripati,Kumaripati,27.6888,85.3028
+R02_A,2,outbound,Sajha Yatayat,21,lagankhel,Lagankhel,27.6865,85.301
+R02_B,2,inbound,Sajha Yatayat,1,lagankhel,Lagankhel,27.6865,85.301
+R02_B,2,inbound,Sajha Yatayat,2,kumaripati,Kumaripati,27.6888,85.3028
+R02_B,2,inbound,Sajha Yatayat,3,jawalakhel,Jawalakhel,27.6912,85.3048
+R02_B,2,inbound,Sajha Yatayat,4,pulchowk,Pulchowk,27.6935,85.3062
+R02_B,2,inbound,Sajha Yatayat,5,harihar_bhawan,Harihar Bhawan,27.6952,85.308
+R02_B,2,inbound,Sajha Yatayat,6,kupondole,Kupondole,27.697,85.3098
+R02_B,2,inbound,Sajha Yatayat,7,sundhara,Sundhara,27.7023,85.3147
+R02_B,2,inbound,Sajha Yatayat,8,lainchour,Lainchour,27.7112,85.312
+R02_B,2,inbound,Sajha Yatayat,9,lazimpat,Lazimpat,27.7128,85.3098
+R02_B,2,inbound,Sajha Yatayat,10,panipokhari,Panipokhari,27.7148,85.3072
+R02_B,2,inbound,Sajha Yatayat,11,teaching_hospital,Teaching Hospital,27.7172,85.3055
+R02_B,2,inbound,Sajha Yatayat,12,us_embassy,U.S. Embassy,27.7193,85.3055
+R02_B,2,inbound,Sajha Yatayat,13,narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348
+R02_B,2,inbound,Sajha Yatayat,14,basundhara,Basundhara,27.721,85.3042
+R02_B,2,inbound,Sajha Yatayat,15,basundhara_chauki,Basundhara Chauki,27.723,85.3038
+R02_B,2,inbound,Sajha Yatayat,16,talim_kendra,Talim Kendra,27.7262,85.3042
+R02_B,2,inbound,Sajha Yatayat,17,samakhusi,Samakhusi,27.7295,85.305
+R02_B,2,inbound,Sajha Yatayat,18,gongabu_chowk,Gongabu Chowk,27.7328,85.3058
+R02_B,2,inbound,Sajha Yatayat,19,naya_bus_park,Naya Bus Park,27.7358,85.3043
+R03_A,3,outbound,Sajha Yatayat,1,budhanilkantha,Budhanilkantha,27.78,85.3618
+R03_A,3,outbound,Sajha Yatayat,2,narayanthan_chowk-budhanilkantha,Narayanthan Chowk,27.7752,85.3598
+R03_A,3,outbound,Sajha Yatayat,3,deuba_chowk,Deuba Chowk,27.7722,85.357
+R03_A,3,outbound,Sajha Yatayat,4,naya_chowk,Naya Chowk,27.77,85.3548
+R03_A,3,outbound,Sajha Yatayat,5,rudreshwor_chowk,Rudreshwor Chowk,27.7675,85.352
+R03_A,3,outbound,Sajha Yatayat,6,chapali_ghumti,Chapali Ghumti,27.765,85.35
+R03_A,3,outbound,Sajha Yatayat,7,ganesh_chowk,Ganesh Chowk,27.762,85.3478
+R03_A,3,outbound,Sajha Yatayat,8,hattigauda_chowk,Hattigauda Chowk,27.759,85.3455
+R03_A,3,outbound,Sajha Yatayat,9,golfutar,Golfutar,27.756,85.3428
+R03_A,3,outbound,Sajha Yatayat,10,neuro_hospital,Neuro Hospital,27.7528,85.3405
+R03_A,3,outbound,Sajha Yatayat,11,ganga_lal_hospital,Ganga Lal Hospital,27.7498,85.3382
+R03_A,3,outbound,Sajha Yatayat,12,bansbari,Bansbari,27.7468,85.3358
+R03_A,3,outbound,Sajha Yatayat,13,narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348
+R03_A,3,outbound,Sajha Yatayat,14,chakrapat_bus_stop,Chakrapat Bus Stop,27.725,85.3348
+R03_A,3,outbound,Sajha Yatayat,15,us_embassy,U.S. Embassy,27.7193,85.3055
+R03_A,3,outbound,Sajha Yatayat,16,teaching_hospital,Teaching Hospital,27.7172,85.3055
+R03_A,3,outbound,Sajha Yatayat,17,police_academy,Police Academy,27.7165,85.3062
+R03_A,3,outbound,Sajha Yatayat,18,petrol_pump-panipokhari,Petrol Pump Panipokhari,27.7155,85.3068
+R03_A,3,outbound,Sajha Yatayat,19,radisson_hotel,Radisson Hotel,27.714,85.3088
+R03_A,3,outbound,Sajha Yatayat,20,lazimpat,Lazimpat,27.7128,85.3098
+R03_A,3,outbound,Sajha Yatayat,21,jamal,Jamal,27.709,85.3145
+R03_A,3,outbound,Sajha Yatayat,22,bhrikutimandap,Bhrikutimandap,27.7053,85.3128
+R03_A,3,outbound,Sajha Yatayat,23,sahid_gate,Sahid Gate,27.7038,85.3132
+R03_A,3,outbound,Sajha Yatayat,24,tripureshwor,Tripureshwor,27.701,85.3115
+R03_A,3,outbound,Sajha Yatayat,25,thapathali,Thapathali,27.6988,85.3115
+R03_A,3,outbound,Sajha Yatayat,26,kupondole,Kupondole,27.697,85.3098
+R03_A,3,outbound,Sajha Yatayat,27,harihar_bhawan,Harihar Bhawan,27.6952,85.308
+R03_A,3,outbound,Sajha Yatayat,28,pulchowk,Pulchowk,27.6935,85.3062
+R03_A,3,outbound,Sajha Yatayat,29,jawalakhel,Jawalakhel,27.6912,85.3048
+R03_A,3,outbound,Sajha Yatayat,30,kumaripati,Kumaripati,27.6888,85.3028
+R03_A,3,outbound,Sajha Yatayat,31,lagankhel,Lagankhel,27.6865,85.301
+R03_B,3,inbound,Sajha Yatayat,1,lagankhel,Lagankhel,27.6865,85.301
+R03_B,3,inbound,Sajha Yatayat,2,kumaripati,Kumaripati,27.6888,85.3028
+R03_B,3,inbound,Sajha Yatayat,3,jawalakhel,Jawalakhel,27.6912,85.3048
+R03_B,3,inbound,Sajha Yatayat,4,pulchowk,Pulchowk,27.6935,85.3062
+R03_B,3,inbound,Sajha Yatayat,5,harihar_bhawan,Harihar Bhawan,27.6952,85.308
+R03_B,3,inbound,Sajha Yatayat,6,kupondole,Kupondole,27.697,85.3098
+R03_B,3,inbound,Sajha Yatayat,7,sundhara,Sundhara,27.7023,85.3147
+R03_B,3,inbound,Sajha Yatayat,8,RNAC,RNAC,27.7028,85.312
+R03_B,3,inbound,Sajha Yatayat,9,lainchour,Lainchour,27.7112,85.312
+R03_B,3,inbound,Sajha Yatayat,10,lazimpat,Lazimpat,27.7128,85.3098
+R03_B,3,inbound,Sajha Yatayat,11,panipokhari,Panipokhari,27.7148,85.3072
+R03_B,3,inbound,Sajha Yatayat,12,police_academy,Police Academy,27.7165,85.3062
+R03_B,3,inbound,Sajha Yatayat,13,teaching_hospital,Teaching Hospital,27.7172,85.3055
+R03_B,3,inbound,Sajha Yatayat,14,us_embassy,U.S. Embassy,27.7193,85.3055
+R03_B,3,inbound,Sajha Yatayat,15,narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348
+R03_B,3,inbound,Sajha Yatayat,16,bansbari,Bansbari,27.7468,85.3358
+R03_B,3,inbound,Sajha Yatayat,17,ganga_lal_hospital,Ganga Lal Hospital,27.7498,85.3382
+R03_B,3,inbound,Sajha Yatayat,18,neuro_hospital,Neuro Hospital,27.7528,85.3405
+R03_B,3,inbound,Sajha Yatayat,19,golfutar,Golfutar,27.756,85.3428
+R03_B,3,inbound,Sajha Yatayat,20,hattigauda_chowk,Hattigauda Chowk,27.759,85.3455
+R03_B,3,inbound,Sajha Yatayat,21,chapali,Chapali,27.7655,85.3502
+R03_B,3,inbound,Sajha Yatayat,22,rudreshwor_chowk,Rudreshwor Chowk,27.7675,85.352
+R03_B,3,inbound,Sajha Yatayat,23,deuba_chowk,Deuba Chowk,27.7722,85.357
+R03_B,3,inbound,Sajha Yatayat,24,narayanthan_chowk-budhanilkantha,Narayanthan Chowk,27.7752,85.3598
+R03_B,3,inbound,Sajha Yatayat,25,budhanilkantha,Budhanilkantha,27.78,85.3618
+R04_A,4,outbound,Sajha Yatayat,1,nagdhunga,Nagdhunga,27.701,85.212
+R04_A,4,outbound,Sajha Yatayat,2,thankot(baadbhanjyan),Thankot (Baadbhanjyan),27.696,85.2175
+R04_A,4,outbound,Sajha Yatayat,3,kharibot,Kharibot,27.689,85.227
+R04_A,4,outbound,Sajha Yatayat,4,thankot,Thankot,27.6855,85.231
+R04_A,4,outbound,Sajha Yatayat,5,thankot_checkpost,Thankot Checkpost,27.6845,85.2365
+R04_A,4,outbound,Sajha Yatayat,6,gurjudhara,Gurjudhara,27.6835,85.245
+R04_A,4,outbound,Sajha Yatayat,7,satungal,Satungal,27.683,85.258
+R04_A,4,outbound,Sajha Yatayat,8,balkhu_pul,Balkhu Pul,27.684,85.277
+R04_A,4,outbound,Sajha Yatayat,9,naikap,Naikap,27.687,85.27
+R04_A,4,outbound,Sajha Yatayat,10,tinthana,Tinthana,27.691,85.274
+R04_A,4,outbound,Sajha Yatayat,11,dhungeadda,Dhungeadda,27.6945,85.277
+R04_A,4,outbound,Sajha Yatayat,12,kalanki,Kalanki,27.6965,85.281
+R04_A,4,outbound,Sajha Yatayat,13,bafal,Bafal,27.7018,85.2872
+R04_A,4,outbound,Sajha Yatayat,14,sitapaila,Sitapaila,27.7068,85.2848
+R04_A,4,outbound,Sajha Yatayat,15,swayambhu,Swayambhu,27.7148,85.29
+R04_A,4,outbound,Sajha Yatayat,16,sano_bharyang,Sano Bharyang,27.718,85.2952
+R04_A,4,outbound,Sajha Yatayat,17,dhungedhara,Dhungedhara,27.7205,85.299
+R04_A,4,outbound,Sajha Yatayat,18,banasthali,Banasthali,27.7228,85.3012
+R04_A,4,outbound,Sajha Yatayat,19,balaju,Balaju,27.7258,85.3025
+R04_A,4,outbound,Sajha Yatayat,20,machha_pokhari,Machha Pokhari,27.7295,85.3038
+R04_A,4,outbound,Sajha Yatayat,21,naya_bus_park,Naya Bus Park,27.7358,85.3043
+R04_A,4,outbound,Sajha Yatayat,22,gongabu_chowk,Gongabu Chowk,27.7328,85.3058
+R04_A,4,outbound,Sajha Yatayat,23,samakhusi,Samakhusi,27.7295,85.305
+R04_A,4,outbound,Sajha Yatayat,24,talim_kendra,Talim Kendra,27.7262,85.3042
+R04_A,4,outbound,Sajha Yatayat,25,basundhara_chauki,Basundhara Chauki,27.723,85.3038
+R04_A,4,outbound,Sajha Yatayat,26,basundhara,Basundhara,27.721,85.3042
+R04_A,4,outbound,Sajha Yatayat,27,narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348
+R04_A,4,outbound,Sajha Yatayat,28,bansbari,Bansbari,27.7468,85.3358
+R04_A,4,outbound,Sajha Yatayat,29,ganga_lal_hospital,Ganga Lal Hospital,27.7498,85.3382
+R04_A,4,outbound,Sajha Yatayat,30,neuro_hospital,Neuro Hospital,27.7528,85.3405
+R04_A,4,outbound,Sajha Yatayat,31,golfutar,Golfutar,27.756,85.3428
+R04_A,4,outbound,Sajha Yatayat,32,hattigauda_chowk,Hattigauda Chowk,27.759,85.3455
+R04_A,4,outbound,Sajha Yatayat,33,ganesh_chowk,Ganesh Chowk,27.762,85.3478
+R04_A,4,outbound,Sajha Yatayat,34,chapali,Chapali,27.7655,85.3502
+R04_A,4,outbound,Sajha Yatayat,35,rudreshwor_chowk,Rudreshwor Chowk,27.7675,85.352
+R04_A,4,outbound,Sajha Yatayat,36,deuba_chowk,Deuba Chowk,27.7722,85.357
+R04_A,4,outbound,Sajha Yatayat,37,narayanthan_chowk-budhanilkantha,Narayanthan Chowk,27.7752,85.3598
+R04_A,4,outbound,Sajha Yatayat,38,budhanilkantha,Budhanilkantha,27.78,85.3618
+R04_B,4,inbound,Sajha Yatayat,1,budhanilkantha,Budhanilkantha,27.78,85.3618
+R04_B,4,inbound,Sajha Yatayat,2,narayanthan_chowk-budhanilkantha,Narayanthan Chowk,27.7752,85.3598
+R04_B,4,inbound,Sajha Yatayat,3,deuba_chowk,Deuba Chowk,27.7722,85.357
+R04_B,4,inbound,Sajha Yatayat,4,naya_chowk,Naya Chowk,27.77,85.3548
+R04_B,4,inbound,Sajha Yatayat,5,rudreshwor_chowk,Rudreshwor Chowk,27.7675,85.352
+R04_B,4,inbound,Sajha Yatayat,6,chapali_ghumti,Chapali Ghumti,27.765,85.35
+R04_B,4,inbound,Sajha Yatayat,7,ganesh_chowk,Ganesh Chowk,27.762,85.3478
+R04_B,4,inbound,Sajha Yatayat,8,hattigauda_chowk,Hattigauda Chowk,27.759,85.3455
+R04_B,4,inbound,Sajha Yatayat,9,golfutar,Golfutar,27.756,85.3428
+R04_B,4,inbound,Sajha Yatayat,10,neuro_hospital,Neuro Hospital,27.7528,85.3405
+R04_B,4,inbound,Sajha Yatayat,11,ganga_lal_hospital,Ganga Lal Hospital,27.7498,85.3382
+R04_B,4,inbound,Sajha Yatayat,12,bansbari,Bansbari,27.7468,85.3358
+R04_B,4,inbound,Sajha Yatayat,13,narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348
+R04_B,4,inbound,Sajha Yatayat,14,basundhara,Basundhara,27.721,85.3042
+R04_B,4,inbound,Sajha Yatayat,15,basundhara_chauki,Basundhara Chauki,27.723,85.3038
+R04_B,4,inbound,Sajha Yatayat,16,talim_kendra,Talim Kendra,27.7262,85.3042
+R04_B,4,inbound,Sajha Yatayat,17,samakhusi,Samakhusi,27.7295,85.305
+R04_B,4,inbound,Sajha Yatayat,18,gongabu_chowk,Gongabu Chowk,27.7328,85.3058
+R04_B,4,inbound,Sajha Yatayat,19,machha_pokhari,Machha Pokhari,27.7295,85.3038
+R04_B,4,inbound,Sajha Yatayat,20,balaju,Balaju,27.7258,85.3025
+R04_B,4,inbound,Sajha Yatayat,21,banasthali,Banasthali,27.7228,85.3012
+R04_B,4,inbound,Sajha Yatayat,22,sano_bharyang,Sano Bharyang,27.718,85.2952
+R04_B,4,inbound,Sajha Yatayat,23,swayambhu,Swayambhu,27.7148,85.29
+R04_B,4,inbound,Sajha Yatayat,24,sitapaila,Sitapaila,27.7068,85.2848
+R04_B,4,inbound,Sajha Yatayat,25,bafal,Bafal,27.7018,85.2872
+R04_B,4,inbound,Sajha Yatayat,26,kalanki,Kalanki,27.6965,85.281
+R04_B,4,inbound,Sajha Yatayat,27,dhungeadda,Dhungeadda,27.6945,85.277
+R04_B,4,inbound,Sajha Yatayat,28,tinthana,Tinthana,27.691,85.274
+R04_B,4,inbound,Sajha Yatayat,29,naikap,Naikap,27.687,85.27
+R04_B,4,inbound,Sajha Yatayat,30,balkhu_pul,Balkhu Pul,27.684,85.277
+R04_B,4,inbound,Sajha Yatayat,31,satungal,Satungal,27.683,85.258
+R04_B,4,inbound,Sajha Yatayat,32,gurjudhara,Gurjudhara,27.6835,85.245
+R04_B,4,inbound,Sajha Yatayat,33,thankot_checkpost,Thankot Checkpost,27.6845,85.2365
+R04_B,4,inbound,Sajha Yatayat,34,thankot,Thankot,27.6855,85.231
+R04_B,4,inbound,Sajha Yatayat,35,kharibot,Kharibot,27.689,85.227
+R04_B,4,inbound,Sajha Yatayat,36,thankot(baadbhanjyan),Thankot (Baadbhanjyan),27.696,85.2175
+R04_B,4,inbound,Sajha Yatayat,37,nagdhunga,Nagdhunga,27.701,85.212
+R05_A,5,outbound,Sajha Yatayat,1,jamal,Jamal,27.709,85.3145
+R05_A,5,outbound,Sajha Yatayat,2,bhrikutimandap,Bhrikutimandap,27.7053,85.3128
+R05_A,5,outbound,Sajha Yatayat,3,maitighar,Maitighar,27.6995,85.3198
+R05_A,5,outbound,Sajha Yatayat,4,thapathali,Thapathali,27.6988,85.3115
+R05_A,5,outbound,Sajha Yatayat,5,kupondole,Kupondole,27.697,85.3098
+R05_A,5,outbound,Sajha Yatayat,6,harihar_bhawan,Harihar Bhawan,27.6952,85.308
+R05_A,5,outbound,Sajha Yatayat,7,pulchowk,Pulchowk,27.6935,85.3062
+R05_A,5,outbound,Sajha Yatayat,8,jawalakhel,Jawalakhel,27.6912,85.3048
+R05_A,5,outbound,Sajha Yatayat,9,ekantakuna,Ekantakuna,27.6758,85.3012
+R05_A,5,outbound,Sajha Yatayat,10,vaisnavi_devi,Vaishnavi Devi,27.672,85.2982
+R05_A,5,outbound,Sajha Yatayat,11,nakhu,Nakhu,27.6688,85.296
+R05_A,5,outbound,Sajha Yatayat,12,nakhu_pul,Nakhu Pul,27.6655,85.2952
+R05_A,5,outbound,Sajha Yatayat,13,phulbari_marg,Phulbari Marg,27.662,85.2988
+R05_A,5,outbound,Sajha Yatayat,14,charghari,Charghari,27.658,85.3018
+R05_A,5,outbound,Sajha Yatayat,15,bhaisepati_chowk,Bhaisepati Chowk,27.6545,85.3045
+R05_A,5,outbound,Sajha Yatayat,16,mahila_ghar,Mahila Ghar,27.651,85.3065
+R05_A,5,outbound,Sajha Yatayat,17,kalika,Kalika,27.6472,85.3082
+R05_A,5,outbound,Sajha Yatayat,18,khokana_dobato,Khokana Dobato,27.6438,85.3098
+R05_A,5,outbound,Sajha Yatayat,19,sorahkhutte,Sorahkhutte,27.6398,85.3108
+R05_A,5,outbound,Sajha Yatayat,20,bungamati,Bungamati,27.6355,85.312
+R05_B,5,inbound,Sajha Yatayat,1,bungamati,Bungamati,27.6355,85.312
+R05_B,5,inbound,Sajha Yatayat,2,sorahkhutte,Sorahkhutte,27.6398,85.3108
+R05_B,5,inbound,Sajha Yatayat,3,khokana_dobato,Khokana Dobato,27.6438,85.3098
+R05_B,5,inbound,Sajha Yatayat,4,kalika,Kalika,27.6472,85.3082
+R05_B,5,inbound,Sajha Yatayat,5,mahila_ghar,Mahila Ghar,27.651,85.3065
+R05_B,5,inbound,Sajha Yatayat,6,bhaisepati_chowk,Bhaisepati Chowk,27.6545,85.3045
+R05_B,5,inbound,Sajha Yatayat,7,charghari,Charghari,27.658,85.3018
+R05_B,5,inbound,Sajha Yatayat,8,phulbari_marg,Phulbari Marg,27.662,85.2988
+R05_B,5,inbound,Sajha Yatayat,9,nakhu_pul,Nakhu Pul,27.6655,85.2952
+R05_B,5,inbound,Sajha Yatayat,10,vaisnavi_devi,Vaishnavi Devi,27.672,85.2982
+R05_B,5,inbound,Sajha Yatayat,11,ekantakuna,Ekantakuna,27.6758,85.3012
+R05_B,5,inbound,Sajha Yatayat,12,jawalakhel,Jawalakhel,27.6912,85.3048
+R05_B,5,inbound,Sajha Yatayat,13,pulchowk,Pulchowk,27.6935,85.3062
+R05_B,5,inbound,Sajha Yatayat,14,harihar_bhawan,Harihar Bhawan,27.6952,85.308
+R05_B,5,inbound,Sajha Yatayat,15,kupondole,Kupondole,27.697,85.3098
+R05_B,5,inbound,Sajha Yatayat,16,maitighar,Maitighar,27.6995,85.3198
+R05_B,5,inbound,Sajha Yatayat,17,RNAC,RNAC,27.7028,85.312
+R05_B,5,inbound,Sajha Yatayat,18,jamal,Jamal,27.709,85.3145
+R06_A,6,outbound,Sajha Yatayat,1,jamal,Jamal,27.709,85.3145
+R06_A,6,outbound,Sajha Yatayat,2,bhrikutimandap,Bhrikutimandap,27.7053,85.3128
+R06_A,6,outbound,Sajha Yatayat,3,sahid_gate,Sahid Gate,27.7038,85.3132
+R06_A,6,outbound,Sajha Yatayat,4,tripureshwor,Tripureshwor,27.701,85.3115
+R06_A,6,outbound,Sajha Yatayat,5,kupondole,Kupondole,27.697,85.3098
+R06_A,6,outbound,Sajha Yatayat,6,pulchowk,Pulchowk,27.6935,85.3062
+R06_A,6,outbound,Sajha Yatayat,7,jawalakhel,Jawalakhel,27.6912,85.3048
+R06_A,6,outbound,Sajha Yatayat,8,lagankhel,Lagankhel,27.6865,85.301
+R06_A,6,outbound,Sajha Yatayat,9,satdobato,Satdobato,27.679,85.3228
+R06_A,6,outbound,Sajha Yatayat,10,hattiban,Hattiban,27.6745,85.3298
+R06_A,6,outbound,Sajha Yatayat,11,harishiddhi,Harisiddhi,27.6702,85.3398
+R06_A,6,outbound,Sajha Yatayat,12,thaiba,Thaiba,27.6638,85.3478
+R06_A,6,outbound,Sajha Yatayat,13,badegaun,Badegaun,27.6598,85.3535
+R06_A,6,outbound,Sajha Yatayat,14,toukhel,Toukhel,27.6178,85.3808
+R06_A,6,outbound,Sajha Yatayat,15,godawari,Godawari,27.5975,85.3885
+R06_B,6,inbound,Sajha Yatayat,1,godawari,Godawari,27.5975,85.3885
+R06_B,6,inbound,Sajha Yatayat,2,toukhel,Toukhel,27.6178,85.3808
+R06_B,6,inbound,Sajha Yatayat,3,badegaun,Badegaun,27.6598,85.3535
+R06_B,6,inbound,Sajha Yatayat,4,thaiba,Thaiba,27.6638,85.3478
+R06_B,6,inbound,Sajha Yatayat,5,harishiddhi,Harisiddhi,27.6702,85.3398
+R06_B,6,inbound,Sajha Yatayat,6,hattiban,Hattiban,27.6745,85.3298
+R06_B,6,inbound,Sajha Yatayat,7,satdobato,Satdobato,27.679,85.3228
+R06_B,6,inbound,Sajha Yatayat,8,lagankhel,Lagankhel,27.6865,85.301
+R06_B,6,inbound,Sajha Yatayat,9,jawalakhel,Jawalakhel,27.6912,85.3048
+R06_B,6,inbound,Sajha Yatayat,10,pulchowk,Pulchowk,27.6935,85.3062
+R06_B,6,inbound,Sajha Yatayat,11,kupondole,Kupondole,27.697,85.3098
+R06_B,6,inbound,Sajha Yatayat,12,sundhara,Sundhara,27.7023,85.3147
+R06_B,6,inbound,Sajha Yatayat,13,jamal,Jamal,27.709,85.3145
+R07_A,7,outbound,Sajha Yatayat,1,jamal,Jamal,27.709,85.3145
+R07_A,7,outbound,Sajha Yatayat,2,bhrikutimandap,Bhrikutimandap,27.7053,85.3128
+R07_A,7,outbound,Sajha Yatayat,3,sahid_gate,Sahid Gate,27.7038,85.3132
+R07_A,7,outbound,Sajha Yatayat,4,tripureshwor,Tripureshwor,27.701,85.3115
+R07_A,7,outbound,Sajha Yatayat,5,thapathali,Thapathali,27.6988,85.3115
+R07_A,7,outbound,Sajha Yatayat,6,kupondole,Kupondole,27.697,85.3098
+R07_A,7,outbound,Sajha Yatayat,7,harihar_bhawan,Harihar Bhawan,27.6952,85.308
+R07_A,7,outbound,Sajha Yatayat,8,pulchowk,Pulchowk,27.6935,85.3062
+R07_A,7,outbound,Sajha Yatayat,9,jawalakhel,Jawalakhel,27.6912,85.3048
+R07_A,7,outbound,Sajha Yatayat,10,kumaripati,Kumaripati,27.6888,85.3028
+R07_A,7,outbound,Sajha Yatayat,11,lagankhel,Lagankhel,27.6865,85.301
+R07_A,7,outbound,Sajha Yatayat,12,satdobato,Satdobato,27.679,85.3228
+R07_A,7,outbound,Sajha Yatayat,13,chapagaun_dobato,Chapagaun Dobato,27.666,85.3192
+R07_A,7,outbound,Sajha Yatayat,14,khumaltar,Khumaltar,27.6638,85.3165
+R07_A,7,outbound,Sajha Yatayat,15,dholahiti,Dholahiti,27.661,85.3142
+R07_A,7,outbound,Sajha Yatayat,16,sunakothi,Sunakothi,27.6578,85.312
+R07_A,7,outbound,Sajha Yatayat,17,thecho,Thecho,27.654,85.3098
+R07_A,7,outbound,Sajha Yatayat,18,chapagaun,Chapagaun,27.648,85.3062
+R07_A,7,outbound,Sajha Yatayat,19,pyangaun,Pyangaun,27.6428,85.3042
+R07_A,7,outbound,Sajha Yatayat,20,tahakhel,Tahakhel,27.6382,85.3025
+R07_A,7,outbound,Sajha Yatayat,21,tikabhairav,Tikabhairav,27.6338,85.301
+R07_A,7,outbound,Sajha Yatayat,22,lele,Lele,27.6148,85.3252
+R07_B,7,inbound,Sajha Yatayat,1,lele,Lele,27.6148,85.3252
+R07_B,7,inbound,Sajha Yatayat,2,tikabhairav,Tikabhairav,27.6338,85.301
+R07_B,7,inbound,Sajha Yatayat,3,tahakhel,Tahakhel,27.6382,85.3025
+R07_B,7,inbound,Sajha Yatayat,4,pyangaun,Pyangaun,27.6428,85.3042
+R07_B,7,inbound,Sajha Yatayat,5,chapagaun,Chapagaun,27.648,85.3062
+R07_B,7,inbound,Sajha Yatayat,6,thecho,Thecho,27.654,85.3098
+R07_B,7,inbound,Sajha Yatayat,7,sunakothi,Sunakothi,27.6578,85.312
+R07_B,7,inbound,Sajha Yatayat,8,dholahiti,Dholahiti,27.661,85.3142
+R07_B,7,inbound,Sajha Yatayat,9,khumaltar,Khumaltar,27.6638,85.3165
+R07_B,7,inbound,Sajha Yatayat,10,chapagaun_dobato,Chapagaun Dobato,27.666,85.3192
+R07_B,7,inbound,Sajha Yatayat,11,satdobato,Satdobato,27.679,85.3228
+R07_B,7,inbound,Sajha Yatayat,12,lagankhel,Lagankhel,27.6865,85.301
+R07_B,7,inbound,Sajha Yatayat,13,kumaripati,Kumaripati,27.6888,85.3028
+R07_B,7,inbound,Sajha Yatayat,14,jawalakhel,Jawalakhel,27.6912,85.3048
+R07_B,7,inbound,Sajha Yatayat,15,pulchowk,Pulchowk,27.6935,85.3062
+R07_B,7,inbound,Sajha Yatayat,16,harihar_bhawan,Harihar Bhawan,27.6952,85.308
+R07_B,7,inbound,Sajha Yatayat,17,kupondole,Kupondole,27.697,85.3098
+R07_B,7,inbound,Sajha Yatayat,18,sundhara,Sundhara,27.7023,85.3147
+R07_B,7,inbound,Sajha Yatayat,19,jamal,Jamal,27.709,85.3145
+R08_A,8,outbound,Sajha Yatayat,1,jamal,Jamal,27.709,85.3145
+R08_A,8,outbound,Sajha Yatayat,2,bhrikutimandap,Bhrikutimandap,27.7053,85.3128
+R08_A,8,outbound,Sajha Yatayat,3,sahid_gate,Sahid Gate,27.7038,85.3132
+R08_A,8,outbound,Sajha Yatayat,4,tripureshwor,Tripureshwor,27.701,85.3115
+R08_A,8,outbound,Sajha Yatayat,5,thapathali,Thapathali,27.6988,85.3115
+R08_A,8,outbound,Sajha Yatayat,6,kupondole,Kupondole,27.697,85.3098
+R08_A,8,outbound,Sajha Yatayat,7,harihar_bhawan,Harihar Bhawan,27.6952,85.308
+R08_A,8,outbound,Sajha Yatayat,8,pulchowk,Pulchowk,27.6935,85.3062
+R08_A,8,outbound,Sajha Yatayat,9,jawalakhel,Jawalakhel,27.6912,85.3048
+R08_A,8,outbound,Sajha Yatayat,10,kumaripati,Kumaripati,27.6888,85.3028
+R08_A,8,outbound,Sajha Yatayat,11,lagankhel,Lagankhel,27.6865,85.301
+R08_A,8,outbound,Sajha Yatayat,12,satdobato,Satdobato,27.679,85.3228
+R08_A,8,outbound,Sajha Yatayat,13,gwarko,Gwarko,27.6808,85.3398
+R08_A,8,outbound,Sajha Yatayat,14,ratamakai_chowk,Rata Makai Chowk,27.6682,85.3448
+R08_A,8,outbound,Sajha Yatayat,15,imadol_krishna_mandir,Imadol Krishna Mandir,27.666,85.3472
+R08_A,8,outbound,Sajha Yatayat,16,gabisa,Gabisa,27.6578,85.3618
+R08_A,8,outbound,Sajha Yatayat,17,rajkulo,Rajkulo,27.6498,85.3648
+R08_A,8,outbound,Sajha Yatayat,18,goalbhatta,Goalbhatta,27.6398,85.3695
+R08_A,8,outbound,Sajha Yatayat,19,sanagaun,Sanagaun,27.6322,85.3728
+R08_A,8,outbound,Sajha Yatayat,20,lubhu,Lubhu,27.6258,85.3748
+R08_A,8,outbound,Sajha Yatayat,21,lamatar,Lamatar,27.6175,85.3785
+R08_A,8,outbound,Sajha Yatayat,22,dhungin,Dhungin,27.6098,85.3818
+R08_B,8,inbound,Sajha Yatayat,1,dhungin,Dhungin,27.6098,85.3818
+R08_B,8,inbound,Sajha Yatayat,2,lamatar,Lamatar,27.6175,85.3785
+R08_B,8,inbound,Sajha Yatayat,3,lubhu,Lubhu,27.6258,85.3748
+R08_B,8,inbound,Sajha Yatayat,4,kwo_lachhi,Kwo Lachhi,27.6288,85.3738
+R08_B,8,inbound,Sajha Yatayat,5,sanagaun,Sanagaun,27.6322,85.3728
+R08_B,8,inbound,Sajha Yatayat,6,goalbhatta,Goalbhatta,27.6398,85.3695
+R08_B,8,inbound,Sajha Yatayat,7,imadol_kamalpokhari,Imadol Kamalpokhari,27.6648,85.349
+R08_B,8,inbound,Sajha Yatayat,8,imadol_krishna_mandir,Imadol Krishna Mandir,27.666,85.3472
+R08_B,8,inbound,Sajha Yatayat,9,imadol_kharibot,Imadol Kharibot,27.6658,85.346
+R08_B,8,inbound,Sajha Yatayat,10,kist_hospital,KIST Hospital,27.6672,85.344
+R08_B,8,inbound,Sajha Yatayat,11,gwarko,Gwarko,27.6808,85.3398
+R08_B,8,inbound,Sajha Yatayat,12,satdobato,Satdobato,27.679,85.3228
+R08_B,8,inbound,Sajha Yatayat,13,lagankhel,Lagankhel,27.6865,85.301
+R08_B,8,inbound,Sajha Yatayat,14,kumaripati,Kumaripati,27.6888,85.3028
+R08_B,8,inbound,Sajha Yatayat,15,jawalakhel,Jawalakhel,27.6912,85.3048
+R08_B,8,inbound,Sajha Yatayat,16,pulchowk,Pulchowk,27.6935,85.3062
+R08_B,8,inbound,Sajha Yatayat,17,harihar_bhawan,Harihar Bhawan,27.6952,85.308
+R08_B,8,inbound,Sajha Yatayat,18,kupondole,Kupondole,27.697,85.3098
+R08_B,8,inbound,Sajha Yatayat,19,sundhara,Sundhara,27.7023,85.3147
+R08_B,8,inbound,Sajha Yatayat,20,jamal,Jamal,27.709,85.3145
+R09_A,9,outbound,Local Bus,1,lagankhel,Lagankhel,27.6865,85.301
+R09_A,9,outbound,Local Bus,2,satdobato(lagankhel side),Satdobato (Lagankhel Side),27.6792,85.3218
+R09_A,9,outbound,Local Bus,3,satdobato(godawari side),Satdobato (Godawari Side),27.6788,85.3235
+R09_A,9,outbound,Local Bus,4,dhapakhel_dobato,Dhapakhel Dobato,27.6658,85.3562
+R09_A,9,outbound,Local Bus,5,sumeru_hospital,Sumeru Hospital,27.664,85.3578
+R09_A,9,outbound,Local Bus,6,GEMS_school,GEMS School,27.6622,85.3595
+R09_A,9,outbound,Local Bus,7,tewa,Tewa,27.66,85.361
+R09_A,9,outbound,Local Bus,8,pashupati_temple(dhapakhel),Pashupati Temple (Dhapakhel),27.6578,85.3628
+R09_A,9,outbound,Local Bus,9,tinkune(dhapakhel),Tinkune (Dhapakhel),27.6558,85.3645
+R09_A,9,outbound,Local Bus,10,nagdaha,Nagdaha,27.653,85.3668
+R09_A,9,outbound,Local Bus,11,ganesh_mandir,Ganesh Mandir,27.6505,85.3688
+R09_A,9,outbound,Local Bus,12,jharuwarashi_pipalbot_chowk,Jharuwarashi Pipalbot Chowk,27.6478,85.3708
+R09_A,9,outbound,Local Bus,13,santaneshwor_mahadev_bus_stop,Santaneshwor Mahadev Bus Stop,27.6452,85.3725
+R09_B,9,inbound,Local Bus,1,santaneshwor_mahadev_bus_stop,Santaneshwor Mahadev Bus Stop,27.6452,85.3725
+R09_B,9,inbound,Local Bus,2,jharuwarashi_pipalbot_chowk,Jharuwarashi Pipalbot Chowk,27.6478,85.3708
+R09_B,9,inbound,Local Bus,3,ganesh_mandir,Ganesh Mandir,27.6505,85.3688
+R09_B,9,inbound,Local Bus,4,nagdaha,Nagdaha,27.653,85.3668
+R09_B,9,inbound,Local Bus,5,tinkune(dhapakhel),Tinkune (Dhapakhel),27.6558,85.3645
+R09_B,9,inbound,Local Bus,6,pashupati_temple(dhapakhel),Pashupati Temple (Dhapakhel),27.6578,85.3628
+R09_B,9,inbound,Local Bus,7,tewa,Tewa,27.66,85.361
+R09_B,9,inbound,Local Bus,8,GEMS_school,GEMS School,27.6622,85.3595
+R09_B,9,inbound,Local Bus,9,sumeru_hospital,Sumeru Hospital,27.664,85.3578
+R09_B,9,inbound,Local Bus,10,dhapakhel_dobato,Dhapakhel Dobato,27.6658,85.3562
+R09_B,9,inbound,Local Bus,11,satdobato(godawari side),Satdobato (Godawari Side),27.6788,85.3235
+R09_B,9,inbound,Local Bus,12,satdobato(lagankhel side),Satdobato (Lagankhel Side),27.6792,85.3218
+R09_B,9,inbound,Local Bus,13,lagankhel,Lagankhel,27.6865,85.301
+R10_A,10,outbound,Local Bus,1,lagankhel,Lagankhel,27.6865,85.301
+R10_A,10,outbound,Local Bus,2,satdobato(lagankhel side),Satdobato (Lagankhel Side),27.6792,85.3218
+R10_A,10,outbound,Local Bus,3,satdobato,Satdobato,27.679,85.3228
+R10_A,10,outbound,Local Bus,4,satdobato_swimming_pool,Satdobato Swimming Pool,27.6782,85.3255
+R10_A,10,outbound,Local Bus,5,B&B_hospital,B&B Hospital,27.6778,85.3305
+R10_A,10,outbound,Local Bus,6,gwarko_chowk(imadol side),Gwarko Chowk (Imadol Side),27.679,85.3358
+R10_A,10,outbound,Local Bus,7,kist_hospital,KIST Hospital,27.6672,85.344
+R10_A,10,outbound,Local Bus,8,ratamakai_chowk,Rata Makai Chowk,27.6682,85.3448
+R10_A,10,outbound,Local Bus,9,imadol_pipalbot,Imadol Pipalbot,27.667,85.3458
+R10_A,10,outbound,Local Bus,10,imadol_krishna_mandir,Imadol Krishna Mandir,27.666,85.3472
+R10_A,10,outbound,Local Bus,11,manakamana_mandir(kathmandu),Manakamana Mandir,27.6648,85.35
+R10_A,10,outbound,Local Bus,12,mahendra_adarsha_school,Mahendra Adarsha School,27.672,85.3582
+R10_A,10,outbound,Local Bus,13,ansari_medical,Ansari Medical,27.6738,85.3598
+R10_A,10,outbound,Local Bus,14,pawan_prakriti_school,Pawan Prakriti School,27.6752,85.3612
+R10_A,10,outbound,Local Bus,15,tikathali_tinkune,Tikathali Tinkune,27.6768,85.3628
+R10_A,10,outbound,Local Bus,16,tikathali_bus_stop,Tikathali Bus Stop,27.678,85.3642
+R10_B,10,inbound,Local Bus,1,tikathali_bus_stop,Tikathali Bus Stop,27.678,85.3642
+R10_B,10,inbound,Local Bus,2,tikathali_tinkune,Tikathali Tinkune,27.6768,85.3628
+R10_B,10,inbound,Local Bus,3,pawan_prakriti_school,Pawan Prakriti School,27.6752,85.3612
+R10_B,10,inbound,Local Bus,4,ansari_medical,Ansari Medical,27.6738,85.3598
+R10_B,10,inbound,Local Bus,5,mahendra_adarsha_school,Mahendra Adarsha School,27.672,85.3582
+R10_B,10,inbound,Local Bus,6,manakamana_mandir(kathmandu),Manakamana Mandir,27.6648,85.35
+R10_B,10,inbound,Local Bus,7,imadol_krishna_mandir,Imadol Krishna Mandir,27.666,85.3472
+R10_B,10,inbound,Local Bus,8,imadol_pipalbot,Imadol Pipalbot,27.667,85.3458
+R10_B,10,inbound,Local Bus,9,ratamakai_chowk,Rata Makai Chowk,27.6682,85.3448
+R10_B,10,inbound,Local Bus,10,kist_hospital,KIST Hospital,27.6672,85.344
+R10_B,10,inbound,Local Bus,11,gwarko_chowk(imadol side),Gwarko Chowk (Imadol Side),27.679,85.3358
+R10_B,10,inbound,Local Bus,12,gwarko,Gwarko,27.6808,85.3398
+R10_B,10,inbound,Local Bus,13,satdobato_swimming_pool,Satdobato Swimming Pool,27.6782,85.3255
+R10_B,10,inbound,Local Bus,14,satdobato(lagankhel side),Satdobato (Lagankhel Side),27.6792,85.3218
+R10_B,10,inbound,Local Bus,15,lagankhel,Lagankhel,27.6865,85.301
+R11_A,11,outbound,Mahanagar Yatayat,1,gwarko,Gwarko,27.6808,85.3398
+R11_A,11,outbound,Mahanagar Yatayat,2,satdobato_swimming_pool,Satdobato Swimming Pool,27.6782,85.3255
+R11_A,11,outbound,Mahanagar Yatayat,3,satdobato,Satdobato,27.679,85.3228
+R11_A,11,outbound,Mahanagar Yatayat,4,chapagaun_dobato,Chapagaun Dobato,27.666,85.3192
+R11_A,11,outbound,Mahanagar Yatayat,5,talchikhel,Talchikhel,27.672,85.317
+R11_A,11,outbound,Mahanagar Yatayat,6,mahalaxmisthan,Mahalaxmisthan,27.6692,85.3138
+R11_A,11,outbound,Mahanagar Yatayat,7,kusunti,Kusunti,27.666,85.31
+R11_A,11,outbound,Mahanagar Yatayat,8,ekantakuna,Ekantakuna,27.6758,85.3012
+R11_A,11,outbound,Mahanagar Yatayat,9,nakhu,Nakhu,27.6688,85.296
+R11_A,11,outbound,Mahanagar Yatayat,10,dhobigat,Dhobigat,27.6728,85.301
+R11_A,11,outbound,Mahanagar Yatayat,11,star_hospital,Star Hospital,27.6748,85.3038
+R11_A,11,outbound,Mahanagar Yatayat,12,sanepa,Sanepa,27.678,85.3072
+R11_A,11,outbound,Mahanagar Yatayat,13,balkhu,Balkhu,27.6858,85.2872
+R11_A,11,outbound,Mahanagar Yatayat,14,advanced_college_of_engineering,Advance College of Engineering,27.6908,85.2852
+R11_A,11,outbound,Mahanagar Yatayat,15,khasi_bazar,Khasi Bazar,27.6938,85.284
+R11_A,11,outbound,Mahanagar Yatayat,16,kalanki_makalu_stop,Kalanki Makalu Stop,27.6958,85.282
+R11_A,11,outbound,Mahanagar Yatayat,17,bafal,Bafal,27.7018,85.2872
+R11_A,11,outbound,Mahanagar Yatayat,18,sitapaila,Sitapaila,27.7068,85.2848
+R11_A,11,outbound,Mahanagar Yatayat,19,swayambhu,Swayambhu,27.7148,85.29
+R11_A,11,outbound,Mahanagar Yatayat,20,thulo_bharyang,Thulo Bharyang,27.716,85.2928
+R11_A,11,outbound,Mahanagar Yatayat,21,sano_bharyang,Sano Bharyang,27.718,85.2952
+R11_A,11,outbound,Mahanagar Yatayat,22,dhungedhara,Dhungedhara,27.7205,85.299
+R11_A,11,outbound,Mahanagar Yatayat,23,banasthali,Banasthali,27.7228,85.3012
+R11_A,11,outbound,Mahanagar Yatayat,24,balaju,Balaju,27.7258,85.3025
+R11_A,11,outbound,Mahanagar Yatayat,25,machha_pokhari,Machha Pokhari,27.7295,85.3038
+R11_A,11,outbound,Mahanagar Yatayat,26,gongabu_chowk,Gongabu Chowk,27.7328,85.3058
+R11_A,11,outbound,Mahanagar Yatayat,27,samakhusi,Samakhusi,27.7295,85.305
+R11_A,11,outbound,Mahanagar Yatayat,28,basundhara,Basundhara,27.721,85.3042
+R11_A,11,outbound,Mahanagar Yatayat,29,chiray_hospital,Chiray Hospital,27.7215,85.3348
+R11_A,11,outbound,Mahanagar Yatayat,30,narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348
+R11_A,11,outbound,Mahanagar Yatayat,31,chhapal_karkhana,Chhapal Karkhana,27.7238,85.3368
+R11_A,11,outbound,Mahanagar Yatayat,32,dhumbarahi,Dhumbarahi,27.7248,85.3388
+R11_A,11,outbound,Mahanagar Yatayat,33,gopi_krishna,Gopi Krishna,27.7262,85.3412
+R11_A,11,outbound,Mahanagar Yatayat,34,chabahil,Chabahil,27.7228,85.345
+R11_A,11,outbound,Mahanagar Yatayat,35,mitrapark,Mitrapark,27.7192,85.3495
+R11_A,11,outbound,Mahanagar Yatayat,36,jay bageshwori,Jay Bageshwori,27.715,85.3538
+R11_A,11,outbound,Mahanagar Yatayat,37,gaushala,Gaushala,27.7098,85.358
+R11_A,11,outbound,Mahanagar Yatayat,38,pashupati_temple,Pashupati Temple,27.71,85.3488
+R11_A,11,outbound,Mahanagar Yatayat,39,tilganga_eye_hospital,Tilganga Eye Hospital,27.7068,85.3548
+R11_A,11,outbound,Mahanagar Yatayat,40,airport,Tribhuvan Airport,27.6966,85.3591
+R11_A,11,outbound,Mahanagar Yatayat,41,sinamangal,Sinamangal,27.694,85.3558
+R11_A,11,outbound,Mahanagar Yatayat,42,sinamangal_Ooralo,Sinamangal Ooralo,27.6952,85.3518
+R11_A,11,outbound,Mahanagar Yatayat,43,tinkune,Tinkune,27.6862,85.347
+R11_A,11,outbound,Mahanagar Yatayat,44,koteshwor_bhaktapur_stop,Koteshwor Bhaktapur Stop,27.6882,85.3528
+R11_A,11,outbound,Mahanagar Yatayat,45,koteshwor,Koteshwor,27.687,85.3512
+R11_A,11,outbound,Mahanagar Yatayat,46,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R11_A,11,outbound,Mahanagar Yatayat,47,balkumari_pul,Balkumari Pul,27.6842,85.3482
+R11_A,11,outbound,Mahanagar Yatayat,48,balkumari,Balkumari,27.6828,85.3468
+R11_A,11,outbound,Mahanagar Yatayat,49,balkumari_kharibot,Balkumari Kharibot,27.6812,85.345
+R11_A,11,outbound,Mahanagar Yatayat,50,royal_tulip_hotel,Royal Tulip Hotel,27.68,85.3432
+R11_B,11,inbound,Mahanagar Yatayat,1,balkumari_kharibot,Balkumari Kharibot,27.6812,85.345
+R11_B,11,inbound,Mahanagar Yatayat,2,balkumari,Balkumari,27.6828,85.3468
+R11_B,11,inbound,Mahanagar Yatayat,3,balkumari_pool,Balkumari Pool,27.6835,85.3475
+R11_B,11,inbound,Mahanagar Yatayat,4,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R11_B,11,inbound,Mahanagar Yatayat,5,koteshwor,Koteshwor,27.687,85.3512
+R11_B,11,inbound,Mahanagar Yatayat,6,koteshwor_bhaktapur_stop,Koteshwor Bhaktapur Stop,27.6882,85.3528
+R11_B,11,inbound,Mahanagar Yatayat,7,tinkune,Tinkune,27.6862,85.347
+R11_B,11,inbound,Mahanagar Yatayat,8,sinamangal_Ooralo,Sinamangal Ooralo,27.6952,85.3518
+R11_B,11,inbound,Mahanagar Yatayat,9,sinamangal,Sinamangal,27.694,85.3558
+R11_B,11,inbound,Mahanagar Yatayat,10,airport,Tribhuvan Airport,27.6966,85.3591
+R11_B,11,inbound,Mahanagar Yatayat,11,tilganga_eye_hospital,Tilganga Eye Hospital,27.7068,85.3548
+R11_B,11,inbound,Mahanagar Yatayat,12,pashupati_temple,Pashupati Temple,27.71,85.3488
+R11_B,11,inbound,Mahanagar Yatayat,13,gaushala,Gaushala,27.7098,85.358
+R11_B,11,inbound,Mahanagar Yatayat,14,jay bageshwori,Jay Bageshwori,27.715,85.3538
+R11_B,11,inbound,Mahanagar Yatayat,15,mitrapark,Mitrapark,27.7192,85.3495
+R11_B,11,inbound,Mahanagar Yatayat,16,chabahil,Chabahil,27.7228,85.345
+R11_B,11,inbound,Mahanagar Yatayat,17,gopi_krishna,Gopi Krishna,27.7262,85.3412
+R11_B,11,inbound,Mahanagar Yatayat,18,dhumbarahi,Dhumbarahi,27.7248,85.3388
+R11_B,11,inbound,Mahanagar Yatayat,19,chhapal_karkhana,Chhapal Karkhana,27.7238,85.3368
+R11_B,11,inbound,Mahanagar Yatayat,20,narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348
+R11_B,11,inbound,Mahanagar Yatayat,21,chiray_hospital,Chiray Hospital,27.7215,85.3348
+R11_B,11,inbound,Mahanagar Yatayat,22,basundhara,Basundhara,27.721,85.3042
+R11_B,11,inbound,Mahanagar Yatayat,23,samakhusi,Samakhusi,27.7295,85.305
+R11_B,11,inbound,Mahanagar Yatayat,24,gongabu_chowk,Gongabu Chowk,27.7328,85.3058
+R11_B,11,inbound,Mahanagar Yatayat,25,machha_pokhari,Machha Pokhari,27.7295,85.3038
+R11_B,11,inbound,Mahanagar Yatayat,26,balaju,Balaju,27.7258,85.3025
+R11_B,11,inbound,Mahanagar Yatayat,27,banasthali,Banasthali,27.7228,85.3012
+R11_B,11,inbound,Mahanagar Yatayat,28,dhungedhara,Dhungedhara,27.7205,85.299
+R11_B,11,inbound,Mahanagar Yatayat,29,sano_bharyang,Sano Bharyang,27.718,85.2952
+R11_B,11,inbound,Mahanagar Yatayat,30,thulo_bharyang,Thulo Bharyang,27.716,85.2928
+R11_B,11,inbound,Mahanagar Yatayat,31,swayambhu,Swayambhu,27.7148,85.29
+R11_B,11,inbound,Mahanagar Yatayat,32,sitapaila,Sitapaila,27.7068,85.2848
+R11_B,11,inbound,Mahanagar Yatayat,33,bafal,Bafal,27.7018,85.2872
+R11_B,11,inbound,Mahanagar Yatayat,34,kalanki_makalu_stop,Kalanki Makalu Stop,27.6958,85.282
+R11_B,11,inbound,Mahanagar Yatayat,35,khasi_bazar,Khasi Bazar,27.6938,85.284
+R11_B,11,inbound,Mahanagar Yatayat,36,advanced_college_of_engineering,Advance College of Engineering,27.6908,85.2852
+R11_B,11,inbound,Mahanagar Yatayat,37,balkhu,Balkhu,27.6858,85.2872
+R11_B,11,inbound,Mahanagar Yatayat,38,sanepa,Sanepa,27.678,85.3072
+R11_B,11,inbound,Mahanagar Yatayat,39,star_hospital,Star Hospital,27.6748,85.3038
+R11_B,11,inbound,Mahanagar Yatayat,40,dhobigat,Dhobigat,27.6728,85.301
+R11_B,11,inbound,Mahanagar Yatayat,41,nakhu,Nakhu,27.6688,85.296
+R11_B,11,inbound,Mahanagar Yatayat,42,ekantakuna,Ekantakuna,27.6758,85.3012
+R11_B,11,inbound,Mahanagar Yatayat,43,kusunti,Kusunti,27.666,85.31
+R11_B,11,inbound,Mahanagar Yatayat,44,mahalaxmisthan,Mahalaxmisthan,27.6692,85.3138
+R11_B,11,inbound,Mahanagar Yatayat,45,talchikhel,Talchikhel,27.672,85.317
+R11_B,11,inbound,Mahanagar Yatayat,46,chapagaun_dobato,Chapagaun Dobato,27.666,85.3192
+R11_B,11,inbound,Mahanagar Yatayat,47,satdobato,Satdobato,27.679,85.3228
+R11_B,11,inbound,Mahanagar Yatayat,48,satdobato_swimming_pool,Satdobato Swimming Pool,27.6782,85.3255
+R11_B,11,inbound,Mahanagar Yatayat,49,B&B_hospital,B&B Hospital,27.6778,85.3305
+R11_B,11,inbound,Mahanagar Yatayat,50,gwarko,Gwarko,27.6808,85.3398
+R12_A,12,outbound,Bhaktapur Yatayat,1,kamalbinayak,Kamalbinayak,27.6715,85.4285
+R12_A,12,outbound,Bhaktapur Yatayat,2,chaymasing,Chaymasing,27.6725,85.4212
+R12_A,12,outbound,Bhaktapur Yatayat,3,dhara,Dhara,27.6728,85.4152
+R12_A,12,outbound,Bhaktapur Yatayat,4,jagati,Jagati,27.6732,85.4068
+R12_A,12,outbound,Bhaktapur Yatayat,5,suryabinayak,Suryabinayak,27.6718,85.3985
+R12_A,12,outbound,Bhaktapur Yatayat,6,chundevi,Chundevi,27.6762,85.3925
+R12_A,12,outbound,Bhaktapur Yatayat,7,sallaghari,Sallaghari,27.6785,85.3875
+R12_A,12,outbound,Bhaktapur Yatayat,8,srijan_nagar,Srijan Nagar,27.6798,85.3835
+R12_A,12,outbound,Bhaktapur Yatayat,9,radhe radhe,Radhe Radhe,27.6812,85.3798
+R12_A,12,outbound,Bhaktapur Yatayat,10,thimi,Thimi,27.6832,85.3758
+R12_A,12,outbound,Bhaktapur Yatayat,11,tuberculosis_hospital,Tuberculosis Hospital,27.6848,85.3715
+R12_A,12,outbound,Bhaktapur Yatayat,12,chardobato,Chardobato,27.6855,85.3668
+R12_A,12,outbound,Bhaktapur Yatayat,13,gatthagar,Gatthagar,27.686,85.3618
+R12_A,12,outbound,Bhaktapur Yatayat,14,kaushaltar,Kaushaltar,27.6865,85.3572
+R12_A,12,outbound,Bhaktapur Yatayat,15,lockanthali,Lockanthali,27.6868,85.3538
+R12_A,12,outbound,Bhaktapur Yatayat,16,jadibutti,Jadibutti,27.687,85.35
+R12_A,12,outbound,Bhaktapur Yatayat,17,koteshwor,Koteshwor,27.687,85.3512
+R12_A,12,outbound,Bhaktapur Yatayat,18,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R12_A,12,outbound,Bhaktapur Yatayat,19,balkumari_pool,Balkumari Pool,27.6835,85.3475
+R12_A,12,outbound,Bhaktapur Yatayat,20,balkumari,Balkumari,27.6828,85.3468
+R12_A,12,outbound,Bhaktapur Yatayat,21,balkumari_kharibot,Balkumari Kharibot,27.6812,85.345
+R12_A,12,outbound,Bhaktapur Yatayat,22,royal_tulip_hotel,Royal Tulip Hotel,27.68,85.3432
+R12_A,12,outbound,Bhaktapur Yatayat,23,gwarko,Gwarko,27.6808,85.3398
+R12_A,12,outbound,Bhaktapur Yatayat,24,satdobato_swimming_pool,Satdobato Swimming Pool,27.6782,85.3255
+R12_A,12,outbound,Bhaktapur Yatayat,25,satdobato,Satdobato,27.679,85.3228
+R12_A,12,outbound,Bhaktapur Yatayat,26,chapagaun_dobato,Chapagaun Dobato,27.666,85.3192
+R12_A,12,outbound,Bhaktapur Yatayat,27,talchikhel,Talchikhel,27.672,85.317
+R12_A,12,outbound,Bhaktapur Yatayat,28,mahalaxmisthan,Mahalaxmisthan,27.6692,85.3138
+R12_A,12,outbound,Bhaktapur Yatayat,29,kusunti,Kusunti,27.666,85.31
+R12_A,12,outbound,Bhaktapur Yatayat,30,ekantakuna,Ekantakuna,27.6758,85.3012
+R12_A,12,outbound,Bhaktapur Yatayat,31,nakhu,Nakhu,27.6688,85.296
+R12_A,12,outbound,Bhaktapur Yatayat,32,dhobigat,Dhobigat,27.6728,85.301
+R12_A,12,outbound,Bhaktapur Yatayat,33,star_hospital,Star Hospital,27.6748,85.3038
+R12_A,12,outbound,Bhaktapur Yatayat,34,sanepa,Sanepa,27.678,85.3072
+R12_A,12,outbound,Bhaktapur Yatayat,35,balkhu,Balkhu,27.6858,85.2872
+R12_A,12,outbound,Bhaktapur Yatayat,36,advanced_college_of_engineering,Advance College of Engineering,27.6908,85.2852
+R12_A,12,outbound,Bhaktapur Yatayat,37,khasi_bazar,Khasi Bazar,27.6938,85.284
+R12_A,12,outbound,Bhaktapur Yatayat,38,kalanki_makalu_stop,Kalanki Makalu Stop,27.6958,85.282
+R12_B,12,inbound,Bhaktapur Yatayat,1,kalanki_makalu_stop,Kalanki Makalu Stop,27.6958,85.282
+R12_B,12,inbound,Bhaktapur Yatayat,2,khasi_bazar,Khasi Bazar,27.6938,85.284
+R12_B,12,inbound,Bhaktapur Yatayat,3,advanced_college_of_engineering,Advance College of Engineering,27.6908,85.2852
+R12_B,12,inbound,Bhaktapur Yatayat,4,balkhu,Balkhu,27.6858,85.2872
+R12_B,12,inbound,Bhaktapur Yatayat,5,sanepa,Sanepa,27.678,85.3072
+R12_B,12,inbound,Bhaktapur Yatayat,6,star_hospital,Star Hospital,27.6748,85.3038
+R12_B,12,inbound,Bhaktapur Yatayat,7,dhobigat,Dhobigat,27.6728,85.301
+R12_B,12,inbound,Bhaktapur Yatayat,8,nakhu,Nakhu,27.6688,85.296
+R12_B,12,inbound,Bhaktapur Yatayat,9,ekantakuna,Ekantakuna,27.6758,85.3012
+R12_B,12,inbound,Bhaktapur Yatayat,10,kusunti,Kusunti,27.666,85.31
+R12_B,12,inbound,Bhaktapur Yatayat,11,mahalaxmisthan,Mahalaxmisthan,27.6692,85.3138
+R12_B,12,inbound,Bhaktapur Yatayat,12,talchikhel,Talchikhel,27.672,85.317
+R12_B,12,inbound,Bhaktapur Yatayat,13,chapagaun_dobato,Chapagaun Dobato,27.666,85.3192
+R12_B,12,inbound,Bhaktapur Yatayat,14,satdobato,Satdobato,27.679,85.3228
+R12_B,12,inbound,Bhaktapur Yatayat,15,satdobato_swimming_pool,Satdobato Swimming Pool,27.6782,85.3255
+R12_B,12,inbound,Bhaktapur Yatayat,16,B&B_hospital,B&B Hospital,27.6778,85.3305
+R12_B,12,inbound,Bhaktapur Yatayat,17,gwarko,Gwarko,27.6808,85.3398
+R12_B,12,inbound,Bhaktapur Yatayat,18,balkumari_kharibot,Balkumari Kharibot,27.6812,85.345
+R12_B,12,inbound,Bhaktapur Yatayat,19,balkumari,Balkumari,27.6828,85.3468
+R12_B,12,inbound,Bhaktapur Yatayat,20,balkumari_pool,Balkumari Pool,27.6835,85.3475
+R12_B,12,inbound,Bhaktapur Yatayat,21,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R12_B,12,inbound,Bhaktapur Yatayat,22,koteshwor,Koteshwor,27.687,85.3512
+R12_B,12,inbound,Bhaktapur Yatayat,23,jadibutti,Jadibutti,27.687,85.35
+R12_B,12,inbound,Bhaktapur Yatayat,24,lockanthali,Lockanthali,27.6868,85.3538
+R12_B,12,inbound,Bhaktapur Yatayat,25,kaushaltar,Kaushaltar,27.6865,85.3572
+R12_B,12,inbound,Bhaktapur Yatayat,26,gatthagar,Gatthagar,27.686,85.3618
+R12_B,12,inbound,Bhaktapur Yatayat,27,chardobato,Chardobato,27.6855,85.3668
+R12_B,12,inbound,Bhaktapur Yatayat,28,tuberculosis_hospital,Tuberculosis Hospital,27.6848,85.3715
+R12_B,12,inbound,Bhaktapur Yatayat,29,thimi,Thimi,27.6832,85.3758
+R12_B,12,inbound,Bhaktapur Yatayat,30,radhe radhe,Radhe Radhe,27.6812,85.3798
+R12_B,12,inbound,Bhaktapur Yatayat,31,srijan_nagar,Srijan Nagar,27.6798,85.3835
+R12_B,12,inbound,Bhaktapur Yatayat,32,sallaghari,Sallaghari,27.6785,85.3875
+R12_B,12,inbound,Bhaktapur Yatayat,33,chundevi,Chundevi,27.6762,85.3925
+R12_B,12,inbound,Bhaktapur Yatayat,34,suryabinayak,Suryabinayak,27.6718,85.3985
+R12_B,12,inbound,Bhaktapur Yatayat,35,jagati,Jagati,27.6732,85.4068
+R12_B,12,inbound,Bhaktapur Yatayat,36,dhara,Dhara,27.6728,85.4152
+R12_B,12,inbound,Bhaktapur Yatayat,37,chaymasing,Chaymasing,27.6725,85.4212
+R12_B,12,inbound,Bhaktapur Yatayat,38,kamalbinayak,Kamalbinayak,27.6715,85.4285
+R13_A,13,outbound,Bhaktapur Yatayat,1,kamalbinayak,Kamalbinayak,27.6715,85.4285
+R13_A,13,outbound,Bhaktapur Yatayat,2,chaymasing,Chaymasing,27.6725,85.4212
+R13_A,13,outbound,Bhaktapur Yatayat,3,dhara,Dhara,27.6728,85.4152
+R13_A,13,outbound,Bhaktapur Yatayat,4,jagati,Jagati,27.6732,85.4068
+R13_A,13,outbound,Bhaktapur Yatayat,5,suryabinayak,Suryabinayak,27.6718,85.3985
+R13_A,13,outbound,Bhaktapur Yatayat,6,chundevi,Chundevi,27.6762,85.3925
+R13_A,13,outbound,Bhaktapur Yatayat,7,sallaghari,Sallaghari,27.6785,85.3875
+R13_A,13,outbound,Bhaktapur Yatayat,8,srijan_nagar,Srijan Nagar,27.6798,85.3835
+R13_A,13,outbound,Bhaktapur Yatayat,9,radhe radhe,Radhe Radhe,27.6812,85.3798
+R13_A,13,outbound,Bhaktapur Yatayat,10,thimi,Thimi,27.6832,85.3758
+R13_A,13,outbound,Bhaktapur Yatayat,11,tuberculosis_hospital,Tuberculosis Hospital,27.6848,85.3715
+R13_A,13,outbound,Bhaktapur Yatayat,12,chardobato,Chardobato,27.6855,85.3668
+R13_A,13,outbound,Bhaktapur Yatayat,13,gatthagar,Gatthagar,27.686,85.3618
+R13_A,13,outbound,Bhaktapur Yatayat,14,kaushaltar,Kaushaltar,27.6865,85.3572
+R13_A,13,outbound,Bhaktapur Yatayat,15,lockanthali,Lockanthali,27.6868,85.3538
+R13_A,13,outbound,Bhaktapur Yatayat,16,jadibutti,Jadibutti,27.687,85.35
+R13_A,13,outbound,Bhaktapur Yatayat,17,koteshwor,Koteshwor,27.687,85.3512
+R13_A,13,outbound,Bhaktapur Yatayat,18,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R13_A,13,outbound,Bhaktapur Yatayat,19,balkumari_pool,Balkumari Pool,27.6835,85.3475
+R13_A,13,outbound,Bhaktapur Yatayat,20,balkumari,Balkumari,27.6828,85.3468
+R13_A,13,outbound,Bhaktapur Yatayat,21,balkumari_kharibot,Balkumari Kharibot,27.6812,85.345
+R13_A,13,outbound,Bhaktapur Yatayat,22,royal_tulip_hotel,Royal Tulip Hotel,27.68,85.3432
+R13_A,13,outbound,Bhaktapur Yatayat,23,gwarko,Gwarko,27.6808,85.3398
+R13_A,13,outbound,Bhaktapur Yatayat,24,satdobato_swimming_pool,Satdobato Swimming Pool,27.6782,85.3255
+R13_A,13,outbound,Bhaktapur Yatayat,25,satdobato,Satdobato,27.679,85.3228
+R13_A,13,outbound,Bhaktapur Yatayat,26,lagankhel,Lagankhel,27.6865,85.301
+R13_B,13,inbound,Bhaktapur Yatayat,1,lagankhel,Lagankhel,27.6865,85.301
+R13_B,13,inbound,Bhaktapur Yatayat,2,satdobato(godawari side),Satdobato (Godawari Side),27.6788,85.3235
+R13_B,13,inbound,Bhaktapur Yatayat,3,satdobato,Satdobato,27.679,85.3228
+R13_B,13,inbound,Bhaktapur Yatayat,4,satdobato_swimming_pool,Satdobato Swimming Pool,27.6782,85.3255
+R13_B,13,inbound,Bhaktapur Yatayat,5,B&B_hospital,B&B Hospital,27.6778,85.3305
+R13_B,13,inbound,Bhaktapur Yatayat,6,gwarko,Gwarko,27.6808,85.3398
+R13_B,13,inbound,Bhaktapur Yatayat,7,balkumari_kharibot,Balkumari Kharibot,27.6812,85.345
+R13_B,13,inbound,Bhaktapur Yatayat,8,balkumari,Balkumari,27.6828,85.3468
+R13_B,13,inbound,Bhaktapur Yatayat,9,balkumari_pool,Balkumari Pool,27.6835,85.3475
+R13_B,13,inbound,Bhaktapur Yatayat,10,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R13_B,13,inbound,Bhaktapur Yatayat,11,koteshwor,Koteshwor,27.687,85.3512
+R13_B,13,inbound,Bhaktapur Yatayat,12,jadibutti,Jadibutti,27.687,85.35
+R13_B,13,inbound,Bhaktapur Yatayat,13,lockanthali,Lockanthali,27.6868,85.3538
+R13_B,13,inbound,Bhaktapur Yatayat,14,kaushaltar,Kaushaltar,27.6865,85.3572
+R13_B,13,inbound,Bhaktapur Yatayat,15,gatthagar,Gatthagar,27.686,85.3618
+R13_B,13,inbound,Bhaktapur Yatayat,16,chardobato,Chardobato,27.6855,85.3668
+R13_B,13,inbound,Bhaktapur Yatayat,17,tuberculosis_hospital,Tuberculosis Hospital,27.6848,85.3715
+R13_B,13,inbound,Bhaktapur Yatayat,18,thimi,Thimi,27.6832,85.3758
+R13_B,13,inbound,Bhaktapur Yatayat,19,radhe radhe,Radhe Radhe,27.6812,85.3798
+R13_B,13,inbound,Bhaktapur Yatayat,20,srijan_nagar,Srijan Nagar,27.6798,85.3835
+R13_B,13,inbound,Bhaktapur Yatayat,21,sallaghari,Sallaghari,27.6785,85.3875
+R13_B,13,inbound,Bhaktapur Yatayat,22,chundevi,Chundevi,27.6762,85.3925
+R13_B,13,inbound,Bhaktapur Yatayat,23,suryabinayak,Suryabinayak,27.6718,85.3985
+R13_B,13,inbound,Bhaktapur Yatayat,24,jagati,Jagati,27.6732,85.4068
+R13_B,13,inbound,Bhaktapur Yatayat,25,dhara,Dhara,27.6728,85.4152
+R13_B,13,inbound,Bhaktapur Yatayat,26,chaymasing,Chaymasing,27.6725,85.4212
+R13_B,13,inbound,Bhaktapur Yatayat,27,kamalbinayak,Kamalbinayak,27.6715,85.4285
+R14_A,14,outbound,Bhaktapur Yatayat,1,kamalbinayak,Kamalbinayak,27.6715,85.4285
+R14_A,14,outbound,Bhaktapur Yatayat,2,chaymasing,Chaymasing,27.6725,85.4212
+R14_A,14,outbound,Bhaktapur Yatayat,3,dhara,Dhara,27.6728,85.4152
+R14_A,14,outbound,Bhaktapur Yatayat,4,jagati,Jagati,27.6732,85.4068
+R14_A,14,outbound,Bhaktapur Yatayat,5,suryabinayak,Suryabinayak,27.6718,85.3985
+R14_A,14,outbound,Bhaktapur Yatayat,6,chundevi,Chundevi,27.6762,85.3925
+R14_A,14,outbound,Bhaktapur Yatayat,7,sallaghari,Sallaghari,27.6785,85.3875
+R14_A,14,outbound,Bhaktapur Yatayat,8,srijan_nagar,Srijan Nagar,27.6798,85.3835
+R14_A,14,outbound,Bhaktapur Yatayat,9,radhe radhe,Radhe Radhe,27.6812,85.3798
+R14_A,14,outbound,Bhaktapur Yatayat,10,thimi,Thimi,27.6832,85.3758
+R14_A,14,outbound,Bhaktapur Yatayat,11,tuberculosis_hospital,Tuberculosis Hospital,27.6848,85.3715
+R14_A,14,outbound,Bhaktapur Yatayat,12,chardobato,Chardobato,27.6855,85.3668
+R14_A,14,outbound,Bhaktapur Yatayat,13,gatthagar,Gatthagar,27.686,85.3618
+R14_A,14,outbound,Bhaktapur Yatayat,14,kaushaltar,Kaushaltar,27.6865,85.3572
+R14_A,14,outbound,Bhaktapur Yatayat,15,lockanthali,Lockanthali,27.6868,85.3538
+R14_A,14,outbound,Bhaktapur Yatayat,16,jadibutti,Jadibutti,27.687,85.35
+R14_A,14,outbound,Bhaktapur Yatayat,17,koteshwor,Koteshwor,27.687,85.3512
+R14_A,14,outbound,Bhaktapur Yatayat,18,subhidhanagar,Subhidhanagar,27.689,85.3472
+R14_A,14,outbound,Bhaktapur Yatayat,19,shantinagar,Shantinagar,27.6912,85.3425
+R14_A,14,outbound,Bhaktapur Yatayat,20,civil_hospital,Civil Hospital,27.694,85.339
+R14_A,14,outbound,Bhaktapur Yatayat,21,new_baneshwor,New Baneshwor,27.696,85.3355
+R14_A,14,outbound,Bhaktapur Yatayat,22,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R14_A,14,outbound,Bhaktapur Yatayat,23,babar_mahal,Babar Mahal,27.7013,85.3218
+R14_A,14,outbound,Bhaktapur Yatayat,24,maitighar,Maitighar,27.6995,85.3198
+R14_A,14,outbound,Bhaktapur Yatayat,25,bhadrakali,Bhadrakali,27.7035,85.3135
+R14_A,14,outbound,Bhaktapur Yatayat,26,sahid_gate,Sahid Gate,27.7038,85.3132
+R14_A,14,outbound,Bhaktapur Yatayat,27,RNAC,RNAC,27.7028,85.312
+R14_B,14,inbound,Bhaktapur Yatayat,1,RNAC,RNAC,27.7028,85.312
+R14_B,14,inbound,Bhaktapur Yatayat,2,ratnapark,Ratna Park,27.706,85.314
+R14_B,14,inbound,Bhaktapur Yatayat,3,tudikhel,Tudikhel,27.7065,85.3142
+R14_B,14,inbound,Bhaktapur Yatayat,4,bhrikutimandap,Bhrikutimandap,27.7053,85.3128
+R14_B,14,inbound,Bhaktapur Yatayat,5,singha_durbar,Singha Durbar,27.6982,85.3188
+R14_B,14,inbound,Bhaktapur Yatayat,6,supreme_court,Supreme Court,27.699,85.3198
+R14_B,14,inbound,Bhaktapur Yatayat,7,maitighar,Maitighar,27.6995,85.3198
+R14_B,14,inbound,Bhaktapur Yatayat,8,babar_mahal,Babar Mahal,27.7013,85.3218
+R14_B,14,inbound,Bhaktapur Yatayat,9,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R14_B,14,inbound,Bhaktapur Yatayat,10,new_baneshwor,New Baneshwor,27.696,85.3355
+R14_B,14,inbound,Bhaktapur Yatayat,11,civil_hospital,Civil Hospital,27.694,85.339
+R14_B,14,inbound,Bhaktapur Yatayat,12,shantinagar,Shantinagar,27.6912,85.3425
+R14_B,14,inbound,Bhaktapur Yatayat,13,subhidhanagar,Subhidhanagar,27.689,85.3472
+R14_B,14,inbound,Bhaktapur Yatayat,14,koteshwor_bhaktapur_stop,Koteshwor Bhaktapur Stop,27.6882,85.3528
+R14_B,14,inbound,Bhaktapur Yatayat,15,jadibutti,Jadibutti,27.687,85.35
+R14_B,14,inbound,Bhaktapur Yatayat,16,lockanthali,Lockanthali,27.6868,85.3538
+R14_B,14,inbound,Bhaktapur Yatayat,17,kaushaltar,Kaushaltar,27.6865,85.3572
+R14_B,14,inbound,Bhaktapur Yatayat,18,gatthagar,Gatthagar,27.686,85.3618
+R14_B,14,inbound,Bhaktapur Yatayat,19,chardobato,Chardobato,27.6855,85.3668
+R14_B,14,inbound,Bhaktapur Yatayat,20,tuberculosis_hospital,Tuberculosis Hospital,27.6848,85.3715
+R14_B,14,inbound,Bhaktapur Yatayat,21,thimi,Thimi,27.6832,85.3758
+R14_B,14,inbound,Bhaktapur Yatayat,22,radhe radhe,Radhe Radhe,27.6812,85.3798
+R14_B,14,inbound,Bhaktapur Yatayat,23,srijan_nagar,Srijan Nagar,27.6798,85.3835
+R14_B,14,inbound,Bhaktapur Yatayat,24,sallaghari,Sallaghari,27.6785,85.3875
+R14_B,14,inbound,Bhaktapur Yatayat,25,chundevi,Chundevi,27.6762,85.3925
+R14_B,14,inbound,Bhaktapur Yatayat,26,suryabinayak,Suryabinayak,27.6718,85.3985
+R14_B,14,inbound,Bhaktapur Yatayat,27,jagati,Jagati,27.6732,85.4068
+R14_B,14,inbound,Bhaktapur Yatayat,28,dhara,Dhara,27.6728,85.4152
+R14_B,14,inbound,Bhaktapur Yatayat,29,chaymasing,Chaymasing,27.6725,85.4212
+R14_B,14,inbound,Bhaktapur Yatayat,30,kamalbinayak,Kamalbinayak,27.6715,85.4285
+R15_A,15,outbound,Nepal Yatayat,1,balkhu,Balkhu,27.6858,85.2872
+R15_A,15,outbound,Nepal Yatayat,2,sanepa,Sanepa,27.678,85.3072
+R15_A,15,outbound,Nepal Yatayat,3,star_hospital,Star Hospital,27.6748,85.3038
+R15_A,15,outbound,Nepal Yatayat,4,dhobigat,Dhobigat,27.6728,85.301
+R15_A,15,outbound,Nepal Yatayat,5,nakhu,Nakhu,27.6688,85.296
+R15_A,15,outbound,Nepal Yatayat,6,ekantakuna,Ekantakuna,27.6758,85.3012
+R15_A,15,outbound,Nepal Yatayat,7,jawalakhel,Jawalakhel,27.6912,85.3048
+R15_A,15,outbound,Nepal Yatayat,8,jawalakhel_chowk,Jawalakhel Chowk,27.6905,85.304
+R15_A,15,outbound,Nepal Yatayat,9,pulchowk,Pulchowk,27.6935,85.3062
+R15_A,15,outbound,Nepal Yatayat,10,harihar_bhawan,Harihar Bhawan,27.6952,85.308
+R15_A,15,outbound,Nepal Yatayat,11,kupondole,Kupondole,27.697,85.3098
+R15_A,15,outbound,Nepal Yatayat,12,kantipur_park_thapathali,Kantipur Park Thapathali,27.6992,85.3108
+R15_A,15,outbound,Nepal Yatayat,13,thapathali,Thapathali,27.6988,85.3115
+R15_A,15,outbound,Nepal Yatayat,14,maitighar,Maitighar,27.6995,85.3198
+R15_A,15,outbound,Nepal Yatayat,15,babar_mahal,Babar Mahal,27.7013,85.3218
+R15_A,15,outbound,Nepal Yatayat,16,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R15_A,15,outbound,Nepal Yatayat,17,new_baneshwor,New Baneshwor,27.696,85.3355
+R15_A,15,outbound,Nepal Yatayat,18,civil_hospital,Civil Hospital,27.694,85.339
+R15_A,15,outbound,Nepal Yatayat,19,shantinagar,Shantinagar,27.6912,85.3425
+R15_A,15,outbound,Nepal Yatayat,20,subhidhanagar,Subhidhanagar,27.689,85.3472
+R15_A,15,outbound,Nepal Yatayat,21,koteshwor_bhaktapur_stop,Koteshwor Bhaktapur Stop,27.6882,85.3528
+R15_A,15,outbound,Nepal Yatayat,22,jadibutti,Jadibutti,27.687,85.35
+R15_A,15,outbound,Nepal Yatayat,23,chhapro,Chhapro,27.691,85.3808
+R15_A,15,outbound,Nepal Yatayat,24,pepsicola,Pepsi Cola,27.6932,85.3828
+R15_A,15,outbound,Nepal Yatayat,25,pepsicola_chowk,Pepsi Cola Chowk,27.6945,85.3842
+R15_A,15,outbound,Nepal Yatayat,26,pepsicola_town_planning,Pepsi Cola Town Planning,27.6958,85.3858
+R15_A,15,outbound,Nepal Yatayat,27,sunrise_chowk,Sunrise Chowk,27.6972,85.3872
+R15_A,15,outbound,Nepal Yatayat,28,suncity,Suncity,27.6985,85.3888
+R15_A,15,outbound,Nepal Yatayat,29,laure_chowk,Laure Chowk,27.7,85.3902
+R15_A,15,outbound,Nepal Yatayat,30,harhar_mahadev_temple,Harhar Mahadev Temple,27.7018,85.3918
+R15_A,15,outbound,Nepal Yatayat,31,harhar_mahadev,Harhar Mahadev,27.7025,85.3928
+R15_B,15,inbound,Nepal Yatayat,1,harhar_mahadev,Harhar Mahadev,27.7025,85.3928
+R15_B,15,inbound,Nepal Yatayat,2,harhar_mahadev_temple,Harhar Mahadev Temple,27.7018,85.3918
+R15_B,15,inbound,Nepal Yatayat,3,laure_chowk,Laure Chowk,27.7,85.3902
+R15_B,15,inbound,Nepal Yatayat,4,suncity,Suncity,27.6985,85.3888
+R15_B,15,inbound,Nepal Yatayat,5,sunrise_chowk,Sunrise Chowk,27.6972,85.3872
+R15_B,15,inbound,Nepal Yatayat,6,pepsicola_town_planning,Pepsi Cola Town Planning,27.6958,85.3858
+R15_B,15,inbound,Nepal Yatayat,7,pepsicola_chowk,Pepsi Cola Chowk,27.6945,85.3842
+R15_B,15,inbound,Nepal Yatayat,8,pepsicola,Pepsi Cola,27.6932,85.3828
+R15_B,15,inbound,Nepal Yatayat,9,chhapro,Chhapro,27.691,85.3808
+R15_B,15,inbound,Nepal Yatayat,10,jadibutti,Jadibutti,27.687,85.35
+R15_B,15,inbound,Nepal Yatayat,11,koteshwor,Koteshwor,27.687,85.3512
+R15_B,15,inbound,Nepal Yatayat,12,subhidhanagar,Subhidhanagar,27.689,85.3472
+R15_B,15,inbound,Nepal Yatayat,13,shantinagar,Shantinagar,27.6912,85.3425
+R15_B,15,inbound,Nepal Yatayat,14,civil_hospital,Civil Hospital,27.694,85.339
+R15_B,15,inbound,Nepal Yatayat,15,new_baneshwor,New Baneshwor,27.696,85.3355
+R15_B,15,inbound,Nepal Yatayat,16,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R15_B,15,inbound,Nepal Yatayat,17,babar_mahal,Babar Mahal,27.7013,85.3218
+R15_B,15,inbound,Nepal Yatayat,18,maitighar,Maitighar,27.6995,85.3198
+R15_B,15,inbound,Nepal Yatayat,19,thapathali,Thapathali,27.6988,85.3115
+R15_B,15,inbound,Nepal Yatayat,20,tripureshwor,Tripureshwor,27.701,85.3115
+R15_B,15,inbound,Nepal Yatayat,21,teku,Teku,27.701,85.309
+R15_B,15,inbound,Nepal Yatayat,22,kalimati,Kalimati,27.7015,85.304
+R15_B,15,inbound,Nepal Yatayat,23,gobal_ime_kuleshwor,Gobal IME Kuleshwor,27.6952,85.2985
+R15_B,15,inbound,Nepal Yatayat,24,nabil_kuleshwor,Nabil Kuleshwor,27.6942,85.297
+R15_B,15,inbound,Nepal Yatayat,25,kitab_kalam_kuleshwor,Kitab Kalam Kuleshwor,27.6932,85.2958
+R15_B,15,inbound,Nepal Yatayat,26,balkhu,Balkhu,27.6858,85.2872
+R16_A,16,outbound,Nepal Yatayat,1,kapan,Kapan,27.7388,85.3562
+R16_A,16,outbound,Nepal Yatayat,2,banglamukhi_kapan,Banglamukhi Kapan,27.7368,85.3545
+R16_A,16,outbound,Nepal Yatayat,3,dhaulagiri_chowk,Dhaulagiri Chowk,27.7348,85.3528
+R16_A,16,outbound,Nepal Yatayat,4,aani_gumba_kapan,Aani Gumba Kapan,27.7328,85.351
+R16_A,16,outbound,Nepal Yatayat,5,kharibot_faika,Kharibot Faika,27.7308,85.349
+R16_A,16,outbound,Nepal Yatayat,6,sanima_bank_faika,Sanima Bank Faika,27.729,85.3472
+R16_A,16,outbound,Nepal Yatayat,7,faika_chowk,Faika Chowk,27.7268,85.345
+R16_A,16,outbound,Nepal Yatayat,8,mandala_banquet_mahankal,Mandala Banquet Mahankal,27.7248,85.3432
+R16_A,16,outbound,Nepal Yatayat,9,bajranagar,Bajranagar,27.723,85.3418
+R16_A,16,outbound,Nepal Yatayat,10,mugum_gumbha_mahankal,Mugum Gumbha Mahankal,27.7212,85.3402
+R16_A,16,outbound,Nepal Yatayat,11,ramsterdam_cafe_mahankal,Ramsterdam Cafe Mahankal,27.72,85.339
+R16_A,16,outbound,Nepal Yatayat,12,mahankal,Mahankal,27.7188,85.3378
+R16_A,16,outbound,Nepal Yatayat,13,chuchhepati,Chuchhepati,27.7222,85.3468
+R16_A,16,outbound,Nepal Yatayat,14,shanti_goreto_chabahil,Shanti Goreto Chabahil,27.7218,85.3455
+R16_A,16,outbound,Nepal Yatayat,15,maiju_bahal_chabahil,Maiju Bahal Chabahil,27.7222,85.3442
+R16_A,16,outbound,Nepal Yatayat,16,chabahil,Chabahil,27.7228,85.345
+R16_A,16,outbound,Nepal Yatayat,17,gopi_krishna,Gopi Krishna,27.7262,85.3412
+R16_A,16,outbound,Nepal Yatayat,18,dhumbarahi,Dhumbarahi,27.7248,85.3388
+R16_A,16,outbound,Nepal Yatayat,19,narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348
+R16_A,16,outbound,Nepal Yatayat,20,tu_teaching,TU Teaching Hospital,27.7172,85.3055
+R16_A,16,outbound,Nepal Yatayat,21,police_academy,Police Academy,27.7165,85.3062
+R16_A,16,outbound,Nepal Yatayat,22,baluwatar,Baluwatar,27.7268,85.3322
+R16_A,16,outbound,Nepal Yatayat,23,kalika_tower_baluwatar,Kalika Tower Baluwatar,27.7258,85.3312
+R16_A,16,outbound,Nepal Yatayat,24,rastrya_bank_baluwatar,Rastra Bank Baluwatar,27.7248,85.3302
+R16_A,16,outbound,Nepal Yatayat,25,naxal_bbsm,Naxal BBSM,27.7238,85.329
+R16_A,16,outbound,Nepal Yatayat,26,tangal,Tangal,27.7228,85.3278
+R16_A,16,outbound,Nepal Yatayat,27,naxal,Naxal,27.7218,85.3268
+R16_A,16,outbound,Nepal Yatayat,28,narayan_chaur,Narayan Chaur,27.7198,85.3248
+R16_A,16,outbound,Nepal Yatayat,29,nagpokhari,Nagpokhari,27.7178,85.323
+R16_A,16,outbound,Nepal Yatayat,30,hattisar,Hattisar,27.7158,85.3215
+R16_A,16,outbound,Nepal Yatayat,31,putalisadak,Putalisadak,27.7108,85.319
+R16_A,16,outbound,Nepal Yatayat,32,sankhar_dev_campus,Sankhar Devi Campus,27.7095,85.3182
+R16_A,16,outbound,Nepal Yatayat,33,new_plaza,New Plaza,27.7082,85.3172
+R16_A,16,outbound,Nepal Yatayat,34,anamnagar,Anamnagar,27.7068,85.3162
+R16_A,16,outbound,Nepal Yatayat,35,hanumansthan,Hanumansthan,27.7055,85.3152
+R16_A,16,outbound,Nepal Yatayat,36,anamnagar_bbsm,Anamnagar BBSM,27.7042,85.3142
+R16_A,16,outbound,Nepal Yatayat,37,thapagaun,Thapagaun,27.7018,85.3228
+R16_A,16,outbound,Nepal Yatayat,38,baneshwor_panitanki,Baneshwor Panitanki,27.7005,85.3285
+R16_A,16,outbound,Nepal Yatayat,39,new_baneshwor,New Baneshwor,27.696,85.3355
+R16_A,16,outbound,Nepal Yatayat,40,civil_hospital,Civil Hospital,27.694,85.339
+R16_A,16,outbound,Nepal Yatayat,41,shantinagar,Shantinagar,27.6912,85.3425
+R16_A,16,outbound,Nepal Yatayat,42,subhidhanagar,Subhidhanagar,27.689,85.3472
+R16_A,16,outbound,Nepal Yatayat,43,koteshwor_bhaktapur_stop,Koteshwor Bhaktapur Stop,27.6882,85.3528
+R16_A,16,outbound,Nepal Yatayat,44,koteshwor,Koteshwor,27.687,85.3512
+R16_A,16,outbound,Nepal Yatayat,45,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R16_A,16,outbound,Nepal Yatayat,46,balkumari,Balkumari,27.6828,85.3468
+R16_A,16,outbound,Nepal Yatayat,47,monohara_corridor_police_section,Manohara Corridor Police Section,27.6828,85.372
+R16_A,16,outbound,Nepal Yatayat,48,boje_pokhari_bridge_manohara,Boje Pokhari Bridge Manohara,27.684,85.3752
+R16_A,16,outbound,Nepal Yatayat,49,mahalaxmi_tikathali,Mahalaxmi Tikathali,27.6852,85.378
+R16_A,16,outbound,Nepal Yatayat,50,bhagwati_mandir_tikathali,Bhagwati Mandir Tikathali,27.6862,85.3805
+R16_A,16,outbound,Nepal Yatayat,51,jhikuchu_tikathali,Jhikuchu Tikathali,27.6872,85.3828
+R16_A,16,outbound,Nepal Yatayat,52,bigmart_tikathali,Bigmart Tikathali,27.688,85.3848
+R16_A,16,outbound,Nepal Yatayat,53,panitanki_tikathali,Panitanki Tikathali,27.6888,85.3868
+R16_A,16,outbound,Nepal Yatayat,54,tikathali,Tikathali,27.6898,85.3888
+R16_B,16,inbound,Nepal Yatayat,1,tikathali,Tikathali,27.6898,85.3888
+R16_B,16,inbound,Nepal Yatayat,2,panitanki_tikathali,Panitanki Tikathali,27.6888,85.3868
+R16_B,16,inbound,Nepal Yatayat,3,bigmart_tikathali,Bigmart Tikathali,27.688,85.3848
+R16_B,16,inbound,Nepal Yatayat,4,jhikuchu_tikathali,Jhikuchu Tikathali,27.6872,85.3828
+R16_B,16,inbound,Nepal Yatayat,5,bhagwati_mandir_tikathali,Bhagwati Mandir Tikathali,27.6862,85.3805
+R16_B,16,inbound,Nepal Yatayat,6,mahalaxmi_tikathali,Mahalaxmi Tikathali,27.6852,85.378
+R16_B,16,inbound,Nepal Yatayat,7,boje_pokhari_bridge_manohara,Boje Pokhari Bridge Manohara,27.684,85.3752
+R16_B,16,inbound,Nepal Yatayat,8,monohara_corridor_police_section,Manohara Corridor Police Section,27.6828,85.372
+R16_B,16,inbound,Nepal Yatayat,9,balkumari,Balkumari,27.6828,85.3468
+R16_B,16,inbound,Nepal Yatayat,10,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R16_B,16,inbound,Nepal Yatayat,11,koteshwor,Koteshwor,27.687,85.3512
+R16_B,16,inbound,Nepal Yatayat,12,koteshwor_bhaktapur_stop,Koteshwor Bhaktapur Stop,27.6882,85.3528
+R16_B,16,inbound,Nepal Yatayat,13,subhidhanagar,Subhidhanagar,27.689,85.3472
+R16_B,16,inbound,Nepal Yatayat,14,shantinagar,Shantinagar,27.6912,85.3425
+R16_B,16,inbound,Nepal Yatayat,15,civil_hospital,Civil Hospital,27.694,85.339
+R16_B,16,inbound,Nepal Yatayat,16,new_baneshwor,New Baneshwor,27.696,85.3355
+R16_B,16,inbound,Nepal Yatayat,17,baneshwor_panitanki,Baneshwor Panitanki,27.7005,85.3285
+R16_B,16,inbound,Nepal Yatayat,18,thapagaun,Thapagaun,27.7018,85.3228
+R16_B,16,inbound,Nepal Yatayat,19,anamnagar_bbsm,Anamnagar BBSM,27.7042,85.3142
+R16_B,16,inbound,Nepal Yatayat,20,hanumansthan,Hanumansthan,27.7055,85.3152
+R16_B,16,inbound,Nepal Yatayat,21,anamnagar,Anamnagar,27.7068,85.3162
+R16_B,16,inbound,Nepal Yatayat,22,new_plaza,New Plaza,27.7082,85.3172
+R16_B,16,inbound,Nepal Yatayat,23,sankhar_dev_campus,Sankhar Devi Campus,27.7095,85.3182
+R16_B,16,inbound,Nepal Yatayat,24,putalisadak,Putalisadak,27.7108,85.319
+R16_B,16,inbound,Nepal Yatayat,25,hattisar,Hattisar,27.7158,85.3215
+R16_B,16,inbound,Nepal Yatayat,26,nagpokhari,Nagpokhari,27.7178,85.323
+R16_B,16,inbound,Nepal Yatayat,27,narayan_chaur,Narayan Chaur,27.7198,85.3248
+R16_B,16,inbound,Nepal Yatayat,28,naxal,Naxal,27.7218,85.3268
+R16_B,16,inbound,Nepal Yatayat,29,tangal,Tangal,27.7228,85.3278
+R16_B,16,inbound,Nepal Yatayat,30,naxal_bbsm,Naxal BBSM,27.7238,85.329
+R16_B,16,inbound,Nepal Yatayat,31,rastrya_bank_baluwatar,Rastra Bank Baluwatar,27.7248,85.3302
+R16_B,16,inbound,Nepal Yatayat,32,kalika_tower_baluwatar,Kalika Tower Baluwatar,27.7258,85.3312
+R16_B,16,inbound,Nepal Yatayat,33,baluwatar,Baluwatar,27.7268,85.3322
+R16_B,16,inbound,Nepal Yatayat,34,police_academy,Police Academy,27.7165,85.3062
+R16_B,16,inbound,Nepal Yatayat,35,tu_teaching,TU Teaching Hospital,27.7172,85.3055
+R16_B,16,inbound,Nepal Yatayat,36,narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348
+R16_B,16,inbound,Nepal Yatayat,37,dhumbarahi,Dhumbarahi,27.7248,85.3388
+R16_B,16,inbound,Nepal Yatayat,38,gopi_krishna,Gopi Krishna,27.7262,85.3412
+R16_B,16,inbound,Nepal Yatayat,39,chabahil,Chabahil,27.7228,85.345
+R16_B,16,inbound,Nepal Yatayat,40,maiju_bahal_chabahil,Maiju Bahal Chabahil,27.7222,85.3442
+R16_B,16,inbound,Nepal Yatayat,41,shanti_goreto_chabahil,Shanti Goreto Chabahil,27.7218,85.3455
+R16_B,16,inbound,Nepal Yatayat,42,chuchhepati,Chuchhepati,27.7222,85.3468
+R16_B,16,inbound,Nepal Yatayat,43,mahankal,Mahankal,27.7188,85.3378
+R16_B,16,inbound,Nepal Yatayat,44,ramsterdam_cafe_mahankal,Ramsterdam Cafe Mahankal,27.72,85.339
+R16_B,16,inbound,Nepal Yatayat,45,mugum_gumbha_mahankal,Mugum Gumbha Mahankal,27.7212,85.3402
+R16_B,16,inbound,Nepal Yatayat,46,bajranagar,Bajranagar,27.723,85.3418
+R16_B,16,inbound,Nepal Yatayat,47,mandala_banquet_mahankal,Mandala Banquet Mahankal,27.7248,85.3432
+R16_B,16,inbound,Nepal Yatayat,48,faika_chowk,Faika Chowk,27.7268,85.345
+R16_B,16,inbound,Nepal Yatayat,49,sanima_bank_faika,Sanima Bank Faika,27.729,85.3472
+R16_B,16,inbound,Nepal Yatayat,50,kharibot_faika,Kharibot Faika,27.7308,85.349
+R16_B,16,inbound,Nepal Yatayat,51,aani_gumba_kapan,Aani Gumba Kapan,27.7328,85.351
+R16_B,16,inbound,Nepal Yatayat,52,dhaulagiri_chowk,Dhaulagiri Chowk,27.7348,85.3528
+R16_B,16,inbound,Nepal Yatayat,53,banglamukhi_kapan,Banglamukhi Kapan,27.7368,85.3545
+R16_B,16,inbound,Nepal Yatayat,54,kapan,Kapan,27.7388,85.3562
+R17_A,17,outbound,Nepal Yatayat,1,mulpani_nepal_yatayat,Mulpani (Nepal Yatayat),27.7075,85.4025
+R17_A,17,outbound,Nepal Yatayat,2,milan_chowk,Milan Chowk,27.7065,85.4005
+R17_A,17,outbound,Nepal Yatayat,3,baba_chowk,Baba Chowk,27.7055,85.3985
+R17_A,17,outbound,Nepal Yatayat,4,godhargaun,Godhargaun,27.7042,85.3962
+R17_A,17,outbound,Nepal Yatayat,5,gaurinath_chowk,Gaurinath Chowk,27.7028,85.394
+R17_A,17,outbound,Nepal Yatayat,6,godhargaun_chowk,Godhargaun Chowk,27.7015,85.3918
+R17_A,17,outbound,Nepal Yatayat,7,mahantar,Mahantar,27.7002,85.3898
+R17_A,17,outbound,Nepal Yatayat,8,dotel_dairy,Dotel Dairy,27.699,85.3878
+R17_A,17,outbound,Nepal Yatayat,9,hatti_dada,Hatti Dada,27.6978,85.3858
+R17_A,17,outbound,Nepal Yatayat,10,sundari_chowk,Sundari Chowk,27.6965,85.3838
+R17_A,17,outbound,Nepal Yatayat,11,khahare,Khahare,27.6952,85.382
+R17_A,17,outbound,Nepal Yatayat,12,khahare_bus_stop,Khahare Bus Stop,27.6942,85.3808
+R17_A,17,outbound,Nepal Yatayat,13,seto_ghar,Seto Ghar,27.6928,85.3795
+R17_A,17,outbound,Nepal Yatayat,14,pepsicola,Pepsi Cola,27.6932,85.3828
+R17_A,17,outbound,Nepal Yatayat,15,chhapro,Chhapro,27.691,85.3808
+R17_A,17,outbound,Nepal Yatayat,16,jadibutti,Jadibutti,27.687,85.35
+R17_A,17,outbound,Nepal Yatayat,17,koteshwor,Koteshwor,27.687,85.3512
+R17_A,17,outbound,Nepal Yatayat,18,subhidhanagar,Subhidhanagar,27.689,85.3472
+R17_A,17,outbound,Nepal Yatayat,19,shantinagar,Shantinagar,27.6912,85.3425
+R17_A,17,outbound,Nepal Yatayat,20,civil_hospital,Civil Hospital,27.694,85.339
+R17_A,17,outbound,Nepal Yatayat,21,new_baneshwor,New Baneshwor,27.696,85.3355
+R17_A,17,outbound,Nepal Yatayat,22,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R17_A,17,outbound,Nepal Yatayat,23,maitighar,Maitighar,27.6995,85.3198
+R17_A,17,outbound,Nepal Yatayat,24,supreme_court,Supreme Court,27.699,85.3198
+R17_A,17,outbound,Nepal Yatayat,25,singha_durbar,Singha Durbar,27.6982,85.3188
+R17_A,17,outbound,Nepal Yatayat,26,putalisadak,Putalisadak,27.7108,85.319
+R17_A,17,outbound,Nepal Yatayat,27,skywalk_tower,Skywalk Tower,27.7082,85.3148
+R17_A,17,outbound,Nepal Yatayat,28,ghantaghar,Ghantaghar,27.7088,85.3152
+R17_B,17,inbound,Nepal Yatayat,1,ghantaghar,Ghantaghar,27.7088,85.3152
+R17_B,17,inbound,Nepal Yatayat,2,bhrikutimandap,Bhrikutimandap,27.7053,85.3128
+R17_B,17,inbound,Nepal Yatayat,3,sahid_gate,Sahid Gate,27.7038,85.3132
+R17_B,17,inbound,Nepal Yatayat,4,tripureshwor,Tripureshwor,27.701,85.3115
+R17_B,17,inbound,Nepal Yatayat,5,kantipur_park_thapathali,Kantipur Park Thapathali,27.6992,85.3108
+R17_B,17,inbound,Nepal Yatayat,6,thapathali,Thapathali,27.6988,85.3115
+R17_B,17,inbound,Nepal Yatayat,7,maitighar,Maitighar,27.6995,85.3198
+R17_B,17,inbound,Nepal Yatayat,8,babar_mahal,Babar Mahal,27.7013,85.3218
+R17_B,17,inbound,Nepal Yatayat,9,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R17_B,17,inbound,Nepal Yatayat,10,new_baneshwor,New Baneshwor,27.696,85.3355
+R17_B,17,inbound,Nepal Yatayat,11,civil_hospital,Civil Hospital,27.694,85.339
+R17_B,17,inbound,Nepal Yatayat,12,shantinagar,Shantinagar,27.6912,85.3425
+R17_B,17,inbound,Nepal Yatayat,13,subhidhanagar,Subhidhanagar,27.689,85.3472
+R17_B,17,inbound,Nepal Yatayat,14,koteshwor_bhaktapur_stop,Koteshwor Bhaktapur Stop,27.6882,85.3528
+R17_B,17,inbound,Nepal Yatayat,15,jadibutti,Jadibutti,27.687,85.35
+R17_B,17,inbound,Nepal Yatayat,16,chhapro,Chhapro,27.691,85.3808
+R17_B,17,inbound,Nepal Yatayat,17,pepsicola,Pepsi Cola,27.6932,85.3828
+R17_B,17,inbound,Nepal Yatayat,18,seto_ghar,Seto Ghar,27.6928,85.3795
+R17_B,17,inbound,Nepal Yatayat,19,khahare_bus_stop,Khahare Bus Stop,27.6942,85.3808
+R17_B,17,inbound,Nepal Yatayat,20,khahare,Khahare,27.6952,85.382
+R17_B,17,inbound,Nepal Yatayat,21,sundari_chowk,Sundari Chowk,27.6965,85.3838
+R17_B,17,inbound,Nepal Yatayat,22,hatti_dada,Hatti Dada,27.6978,85.3858
+R17_B,17,inbound,Nepal Yatayat,23,dotel_dairy,Dotel Dairy,27.699,85.3878
+R17_B,17,inbound,Nepal Yatayat,24,mahantar,Mahantar,27.7002,85.3898
+R17_B,17,inbound,Nepal Yatayat,25,godhargaun_chowk,Godhargaun Chowk,27.7015,85.3918
+R17_B,17,inbound,Nepal Yatayat,26,gaurinath_chowk,Gaurinath Chowk,27.7028,85.394
+R17_B,17,inbound,Nepal Yatayat,27,godhargaun,Godhargaun,27.7042,85.3962
+R17_B,17,inbound,Nepal Yatayat,28,baba_chowk,Baba Chowk,27.7055,85.3985
+R17_B,17,inbound,Nepal Yatayat,29,milan_chowk,Milan Chowk,27.7065,85.4005
+R17_B,17,inbound,Nepal Yatayat,30,mulpani_nepal_yatayat,Mulpani (Nepal Yatayat),27.7075,85.4025
+R18_A,18,outbound,Riddhi Siddhi Yatayat,1,riddhi_siddhi_harisiddhi,Riddhi Siddhi Harisiddhi,27.6485,85.3428
+R18_A,18,outbound,Riddhi Siddhi Yatayat,2,lakhur_chowk,Lakhur Chowk,27.6498,85.3452
+R18_A,18,outbound,Riddhi Siddhi Yatayat,3,harisiddhi_naya_basti,Harisiddhi Naya Basti,27.6512,85.3472
+R18_A,18,outbound,Riddhi Siddhi Yatayat,4,siddhipur_drinking_water,Siddhipur Drinking Water,27.6528,85.3498
+R18_A,18,outbound,Riddhi Siddhi Yatayat,5,siddhipur_height_gate,Siddhipur Height Gate,27.6545,85.352
+R18_A,18,outbound,Riddhi Siddhi Yatayat,6,thasikwa_falcha,Thasikwa Falcha,27.656,85.3538
+R18_A,18,outbound,Riddhi Siddhi Yatayat,7,buddha_pokhari,Buddha Pokhari,27.6575,85.3558
+R18_A,18,outbound,Riddhi Siddhi Yatayat,8,imadol_tempo_park,Imadol Tempo Park,27.6605,85.3548
+R18_A,18,outbound,Riddhi Siddhi Yatayat,9,imadol_kamalpokhari,Imadol Kamalpokhari,27.6648,85.349
+R18_A,18,outbound,Riddhi Siddhi Yatayat,10,mahalaxmi_municipality,Mahalaxmi Municipality,27.6618,85.3532
+R18_A,18,outbound,Riddhi Siddhi Yatayat,11,imadol_kharibot,Imadol Kharibot,27.6658,85.346
+R18_A,18,outbound,Riddhi Siddhi Yatayat,12,imadol_krishna_mandir,Imadol Krishna Mandir,27.666,85.3472
+R18_A,18,outbound,Riddhi Siddhi Yatayat,13,imadol_pipalbot,Imadol Pipalbot,27.667,85.3458
+R18_A,18,outbound,Riddhi Siddhi Yatayat,14,rata_makai_chowk,Rata Makai Chowk,27.6682,85.3448
+R18_A,18,outbound,Riddhi Siddhi Yatayat,15,kist_hospital,KIST Hospital,27.6672,85.344
+R18_A,18,outbound,Riddhi Siddhi Yatayat,16,gwarko_chowk(imadol side),Gwarko Chowk (Imadol Side),27.679,85.3358
+R18_A,18,outbound,Riddhi Siddhi Yatayat,17,gwarko,Gwarko,27.6808,85.3398
+R18_A,18,outbound,Riddhi Siddhi Yatayat,18,balkumari_kharibot,Balkumari Kharibot,27.6812,85.345
+R18_A,18,outbound,Riddhi Siddhi Yatayat,19,balkumari,Balkumari,27.6828,85.3468
+R18_A,18,outbound,Riddhi Siddhi Yatayat,20,balkumari_pool,Balkumari Pool,27.6835,85.3475
+R18_A,18,outbound,Riddhi Siddhi Yatayat,21,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R18_A,18,outbound,Riddhi Siddhi Yatayat,22,koteshwor,Koteshwor,27.687,85.3512
+R18_A,18,outbound,Riddhi Siddhi Yatayat,23,subhidhanagar,Subhidhanagar,27.689,85.3472
+R18_A,18,outbound,Riddhi Siddhi Yatayat,24,shantinagar,Shantinagar,27.6912,85.3425
+R18_A,18,outbound,Riddhi Siddhi Yatayat,25,civil_hospital,Civil Hospital,27.694,85.339
+R18_A,18,outbound,Riddhi Siddhi Yatayat,26,new_baneshwor,New Baneshwor,27.696,85.3355
+R18_A,18,outbound,Riddhi Siddhi Yatayat,27,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R18_A,18,outbound,Riddhi Siddhi Yatayat,28,babar_mahal,Babar Mahal,27.7013,85.3218
+R18_A,18,outbound,Riddhi Siddhi Yatayat,29,maitighar,Maitighar,27.6995,85.3198
+R18_A,18,outbound,Riddhi Siddhi Yatayat,30,bhadrakali,Bhadrakali,27.7035,85.3135
+R18_A,18,outbound,Riddhi Siddhi Yatayat,31,sahid_gate,Sahid Gate,27.7038,85.3132
+R18_A,18,outbound,Riddhi Siddhi Yatayat,32,RNAC,RNAC,27.7028,85.312
+R18_B,18,inbound,Riddhi Siddhi Yatayat,1,RNAC,RNAC,27.7028,85.312
+R18_B,18,inbound,Riddhi Siddhi Yatayat,2,ratnapark,Ratna Park,27.706,85.314
+R18_B,18,inbound,Riddhi Siddhi Yatayat,3,tudikhel,Tudikhel,27.7065,85.3142
+R18_B,18,inbound,Riddhi Siddhi Yatayat,4,bhrikutimandap,Bhrikutimandap,27.7053,85.3128
+R18_B,18,inbound,Riddhi Siddhi Yatayat,5,singha_durbar,Singha Durbar,27.6982,85.3188
+R18_B,18,inbound,Riddhi Siddhi Yatayat,6,supreme_court,Supreme Court,27.699,85.3198
+R18_B,18,inbound,Riddhi Siddhi Yatayat,7,maitighar,Maitighar,27.6995,85.3198
+R18_B,18,inbound,Riddhi Siddhi Yatayat,8,babar_mahal,Babar Mahal,27.7013,85.3218
+R18_B,18,inbound,Riddhi Siddhi Yatayat,9,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R18_B,18,inbound,Riddhi Siddhi Yatayat,10,new_baneshwor,New Baneshwor,27.696,85.3355
+R18_B,18,inbound,Riddhi Siddhi Yatayat,11,civil_hospital,Civil Hospital,27.694,85.339
+R18_B,18,inbound,Riddhi Siddhi Yatayat,12,shantinagar,Shantinagar,27.6912,85.3425
+R18_B,18,inbound,Riddhi Siddhi Yatayat,13,subhidhanagar,Subhidhanagar,27.689,85.3472
+R18_B,18,inbound,Riddhi Siddhi Yatayat,14,koteshwor_bhaktapur_stop,Koteshwor Bhaktapur Stop,27.6882,85.3528
+R18_B,18,inbound,Riddhi Siddhi Yatayat,15,koteshwor,Koteshwor,27.687,85.3512
+R18_B,18,inbound,Riddhi Siddhi Yatayat,16,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R18_B,18,inbound,Riddhi Siddhi Yatayat,17,balkumari_pool,Balkumari Pool,27.6835,85.3475
+R18_B,18,inbound,Riddhi Siddhi Yatayat,18,balkumari,Balkumari,27.6828,85.3468
+R18_B,18,inbound,Riddhi Siddhi Yatayat,19,balkumari_kharibot,Balkumari Kharibot,27.6812,85.345
+R18_B,18,inbound,Riddhi Siddhi Yatayat,20,royal_tulip_hotel,Royal Tulip Hotel,27.68,85.3432
+R18_B,18,inbound,Riddhi Siddhi Yatayat,21,gwarko,Gwarko,27.6808,85.3398
+R18_B,18,inbound,Riddhi Siddhi Yatayat,22,gwarko_chowk(imadol side),Gwarko Chowk (Imadol Side),27.679,85.3358
+R18_B,18,inbound,Riddhi Siddhi Yatayat,23,kist_hospital,KIST Hospital,27.6672,85.344
+R18_B,18,inbound,Riddhi Siddhi Yatayat,24,rata_makai_chowk,Rata Makai Chowk,27.6682,85.3448
+R18_B,18,inbound,Riddhi Siddhi Yatayat,25,imadol_pipalbot,Imadol Pipalbot,27.667,85.3458
+R18_B,18,inbound,Riddhi Siddhi Yatayat,26,imadol_krishna_mandir,Imadol Krishna Mandir,27.666,85.3472
+R18_B,18,inbound,Riddhi Siddhi Yatayat,27,imadol_kharibot,Imadol Kharibot,27.6658,85.346
+R18_B,18,inbound,Riddhi Siddhi Yatayat,28,mahalaxmi_municipality,Mahalaxmi Municipality,27.6618,85.3532
+R18_B,18,inbound,Riddhi Siddhi Yatayat,29,imadol_kamalpokhari,Imadol Kamalpokhari,27.6648,85.349
+R18_B,18,inbound,Riddhi Siddhi Yatayat,30,imadol_tempo_park,Imadol Tempo Park,27.6605,85.3548
+R18_B,18,inbound,Riddhi Siddhi Yatayat,31,buddha_pokhari,Buddha Pokhari,27.6575,85.3558
+R18_B,18,inbound,Riddhi Siddhi Yatayat,32,thasikwa_falcha,Thasikwa Falcha,27.656,85.3538
+R18_B,18,inbound,Riddhi Siddhi Yatayat,33,siddhipur_height_gate,Siddhipur Height Gate,27.6545,85.352
+R18_B,18,inbound,Riddhi Siddhi Yatayat,34,siddhipur_drinking_water,Siddhipur Drinking Water,27.6528,85.3498
+R18_B,18,inbound,Riddhi Siddhi Yatayat,35,harisiddhi_naya_basti,Harisiddhi Naya Basti,27.6512,85.3472
+R18_B,18,inbound,Riddhi Siddhi Yatayat,36,lakhur_chowk,Lakhur Chowk,27.6498,85.3452
+R18_B,18,inbound,Riddhi Siddhi Yatayat,37,riddhi_siddhi_harisiddhi,Riddhi Siddhi Harisiddhi,27.6485,85.3428
+R19_A,19,outbound,Riddhi Siddhi Yatayat,1,riddhi_siddhi_chandragiri,Riddhi Siddhi Chandragiri,27.6972,85.2145
+R19_A,19,outbound,Riddhi Siddhi Yatayat,2,baadbhanjyan(thankot),Baadbhanjyan (Thankot),27.696,85.2175
+R19_A,19,outbound,Riddhi Siddhi Yatayat,3,kharibot(thankot),Kharibot (Thankot),27.689,85.227
+R19_A,19,outbound,Riddhi Siddhi Yatayat,4,thankot,Thankot,27.6855,85.231
+R19_A,19,outbound,Riddhi Siddhi Yatayat,5,thankot_checkpost,Thankot Checkpost,27.6845,85.2365
+R19_A,19,outbound,Riddhi Siddhi Yatayat,6,gurjudhara,Gurjudhara,27.6835,85.245
+R19_A,19,outbound,Riddhi Siddhi Yatayat,7,satungal,Satungal,27.683,85.258
+R19_A,19,outbound,Riddhi Siddhi Yatayat,8,balkhu_pul,Balkhu Pul,27.684,85.277
+R19_A,19,outbound,Riddhi Siddhi Yatayat,9,naikap,Naikap,27.687,85.27
+R19_A,19,outbound,Riddhi Siddhi Yatayat,10,tinthana,Tinthana,27.691,85.274
+R19_A,19,outbound,Riddhi Siddhi Yatayat,11,dhungeadda,Dhungeadda,27.6945,85.277
+R19_A,19,outbound,Riddhi Siddhi Yatayat,12,kalanki,Kalanki,27.6965,85.281
+R19_A,19,outbound,Riddhi Siddhi Yatayat,13,kalanki_chowk,Kalanki Chowk,27.6968,85.2818
+R19_A,19,outbound,Riddhi Siddhi Yatayat,14,kalanki_mandir,Kalanki Mandir,27.6972,85.283
+R19_A,19,outbound,Riddhi Siddhi Yatayat,15,ravi_bhawan,Ravi Bhawan,27.6985,85.292
+R19_A,19,outbound,Riddhi Siddhi Yatayat,16,soltimod,Soltimod,27.6998,85.298
+R19_A,19,outbound,Riddhi Siddhi Yatayat,17,kalimati,Kalimati,27.7015,85.304
+R19_A,19,outbound,Riddhi Siddhi Yatayat,18,teku,Teku,27.701,85.309
+R19_A,19,outbound,Riddhi Siddhi Yatayat,19,tripureshwor,Tripureshwor,27.701,85.3115
+R19_A,19,outbound,Riddhi Siddhi Yatayat,20,thapathali,Thapathali,27.6988,85.3115
+R19_A,19,outbound,Riddhi Siddhi Yatayat,21,maitighar,Maitighar,27.6995,85.3198
+R19_A,19,outbound,Riddhi Siddhi Yatayat,22,babar_mahal,Babar Mahal,27.7013,85.3218
+R19_A,19,outbound,Riddhi Siddhi Yatayat,23,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R19_A,19,outbound,Riddhi Siddhi Yatayat,24,new_baneshwor,New Baneshwor,27.696,85.3355
+R19_A,19,outbound,Riddhi Siddhi Yatayat,25,civil_hospital,Civil Hospital,27.694,85.339
+R19_A,19,outbound,Riddhi Siddhi Yatayat,26,shantinagar,Shantinagar,27.6912,85.3425
+R19_A,19,outbound,Riddhi Siddhi Yatayat,27,koteshwor,Koteshwor,27.687,85.3512
+R19_A,19,outbound,Riddhi Siddhi Yatayat,28,jadibutti,Jadibutti,27.687,85.35
+R19_A,19,outbound,Riddhi Siddhi Yatayat,29,chhapro,Chhapro,27.691,85.3808
+R19_A,19,outbound,Riddhi Siddhi Yatayat,30,pepsicola,Pepsi Cola,27.6932,85.3828
+R19_A,19,outbound,Riddhi Siddhi Yatayat,31,pepsicola_chowk,Pepsi Cola Chowk,27.6945,85.3842
+R19_A,19,outbound,Riddhi Siddhi Yatayat,32,pepsicola_town_planning,Pepsi Cola Town Planning,27.6958,85.3858
+R19_A,19,outbound,Riddhi Siddhi Yatayat,33,sunrise_chowk,Sunrise Chowk,27.6972,85.3872
+R19_A,19,outbound,Riddhi Siddhi Yatayat,34,suncity,Suncity,27.6985,85.3888
+R19_A,19,outbound,Riddhi Siddhi Yatayat,35,laure_chowk,Laure Chowk,27.7,85.3902
+R19_A,19,outbound,Riddhi Siddhi Yatayat,36,harhar_mahadev_temple,Harhar Mahadev Temple,27.7018,85.3918
+R19_A,19,outbound,Riddhi Siddhi Yatayat,37,bista_gaun,Bista Gaun,27.7015,85.3958
+R19_A,19,outbound,Riddhi Siddhi Yatayat,38,christian_school,Christian School,27.7028,85.3975
+R19_A,19,outbound,Riddhi Siddhi Yatayat,39,mulpani_volleyball_centre,Mulpani Volleyball Centre,27.7042,85.3992
+R19_A,19,outbound,Riddhi Siddhi Yatayat,40,mulpani_chaur,Mulpani Chaur,27.7055,85.4008
+R19_A,19,outbound,Riddhi Siddhi Yatayat,41,sunrise_bakery_mulpani,Sunrise Bakery Mulpani,27.7065,85.4018
+R19_A,19,outbound,Riddhi Siddhi Yatayat,42,riddhi_siddhi_mulpani,Riddhi Siddhi Mulpani,27.7075,85.4028
+R19_B,19,inbound,Riddhi Siddhi Yatayat,1,riddhi_siddhi_mulpani,Riddhi Siddhi Mulpani,27.7075,85.4028
+R19_B,19,inbound,Riddhi Siddhi Yatayat,2,sunrise_bakery_mulpani,Sunrise Bakery Mulpani,27.7065,85.4018
+R19_B,19,inbound,Riddhi Siddhi Yatayat,3,mulpani_chaur,Mulpani Chaur,27.7055,85.4008
+R19_B,19,inbound,Riddhi Siddhi Yatayat,4,mulpani_volleyball_centre,Mulpani Volleyball Centre,27.7042,85.3992
+R19_B,19,inbound,Riddhi Siddhi Yatayat,5,mulpani_pipalbot,Mulpani Pipalbot,27.7048,85.3998
+R19_B,19,inbound,Riddhi Siddhi Yatayat,6,christian_school,Christian School,27.7028,85.3975
+R19_B,19,inbound,Riddhi Siddhi Yatayat,7,bista_gaun,Bista Gaun,27.7015,85.3958
+R19_B,19,inbound,Riddhi Siddhi Yatayat,8,harhar_mahadev_temple,Harhar Mahadev Temple,27.7018,85.3918
+R19_B,19,inbound,Riddhi Siddhi Yatayat,9,laure_chowk,Laure Chowk,27.7,85.3902
+R19_B,19,inbound,Riddhi Siddhi Yatayat,10,suncity,Suncity,27.6985,85.3888
+R19_B,19,inbound,Riddhi Siddhi Yatayat,11,sunrise_chowk,Sunrise Chowk,27.6972,85.3872
+R19_B,19,inbound,Riddhi Siddhi Yatayat,12,pepsicola_town_planning,Pepsi Cola Town Planning,27.6958,85.3858
+R19_B,19,inbound,Riddhi Siddhi Yatayat,13,pepsicola_chowk,Pepsi Cola Chowk,27.6945,85.3842
+R19_B,19,inbound,Riddhi Siddhi Yatayat,14,pepsicola,Pepsi Cola,27.6932,85.3828
+R19_B,19,inbound,Riddhi Siddhi Yatayat,15,chhapro,Chhapro,27.691,85.3808
+R19_B,19,inbound,Riddhi Siddhi Yatayat,16,jadibutti,Jadibutti,27.687,85.35
+R19_B,19,inbound,Riddhi Siddhi Yatayat,17,koteshwor,Koteshwor,27.687,85.3512
+R19_B,19,inbound,Riddhi Siddhi Yatayat,18,subhidhanagar,Subhidhanagar,27.689,85.3472
+R19_B,19,inbound,Riddhi Siddhi Yatayat,19,shantinagar,Shantinagar,27.6912,85.3425
+R19_B,19,inbound,Riddhi Siddhi Yatayat,20,civil_hospital,Civil Hospital,27.694,85.339
+R19_B,19,inbound,Riddhi Siddhi Yatayat,21,new_baneshwor,New Baneshwor,27.696,85.3355
+R19_B,19,inbound,Riddhi Siddhi Yatayat,22,bijuli_bazar,Bijuli Bazar,27.6978,85.3275
+R19_B,19,inbound,Riddhi Siddhi Yatayat,23,babar_mahal,Babar Mahal,27.7013,85.3218
+R19_B,19,inbound,Riddhi Siddhi Yatayat,24,maitighar,Maitighar,27.6995,85.3198
+R19_B,19,inbound,Riddhi Siddhi Yatayat,25,thapathali,Thapathali,27.6988,85.3115
+R19_B,19,inbound,Riddhi Siddhi Yatayat,26,tripureshwor,Tripureshwor,27.701,85.3115
+R19_B,19,inbound,Riddhi Siddhi Yatayat,27,teku,Teku,27.701,85.309
+R19_B,19,inbound,Riddhi Siddhi Yatayat,28,kalimati,Kalimati,27.7015,85.304
+R19_B,19,inbound,Riddhi Siddhi Yatayat,29,soltimod,Soltimod,27.6998,85.298
+R19_B,19,inbound,Riddhi Siddhi Yatayat,30,ravi_bhawan,Ravi Bhawan,27.6985,85.292
+R19_B,19,inbound,Riddhi Siddhi Yatayat,31,kalanki_mandir,Kalanki Mandir,27.6972,85.283
+R19_B,19,inbound,Riddhi Siddhi Yatayat,32,kalanki_chowk,Kalanki Chowk,27.6968,85.2818
+R19_B,19,inbound,Riddhi Siddhi Yatayat,33,kalanki,Kalanki,27.6965,85.281
+R19_B,19,inbound,Riddhi Siddhi Yatayat,34,dhungeadda,Dhungeadda,27.6945,85.277
+R19_B,19,inbound,Riddhi Siddhi Yatayat,35,tinthana,Tinthana,27.691,85.274
+R19_B,19,inbound,Riddhi Siddhi Yatayat,36,naikap,Naikap,27.687,85.27
+R19_B,19,inbound,Riddhi Siddhi Yatayat,37,balkhu_pul,Balkhu Pul,27.684,85.277
+R19_B,19,inbound,Riddhi Siddhi Yatayat,38,satungal,Satungal,27.683,85.258
+R19_B,19,inbound,Riddhi Siddhi Yatayat,39,gurjudhara,Gurjudhara,27.6835,85.245
+R19_B,19,inbound,Riddhi Siddhi Yatayat,40,thankot_checkpost,Thankot Checkpost,27.6845,85.2365
+R19_B,19,inbound,Riddhi Siddhi Yatayat,41,thankot,Thankot,27.6855,85.231
+R19_B,19,inbound,Riddhi Siddhi Yatayat,42,kharibot(thankot),Kharibot (Thankot),27.689,85.227
+R19_B,19,inbound,Riddhi Siddhi Yatayat,43,baadbhanjyan(thankot),Baadbhanjyan (Thankot),27.696,85.2175
+R19_B,19,inbound,Riddhi Siddhi Yatayat,44,riddhi_siddhi_chandragiri,Riddhi Siddhi Chandragiri,27.6972,85.2145
+R20_A,20,outbound,Gokarneshwor Yatayat,1,gopi_krishna,Gopi Krishna,27.7262,85.3412
+R20_A,20,outbound,Gokarneshwor Yatayat,2,dhumbarahi,Dhumbarahi,27.7248,85.3388
+R20_A,20,outbound,Gokarneshwor Yatayat,3,chhapal_karkhana,Chhapal Karkhana,27.7238,85.3368
+R20_A,20,outbound,Gokarneshwor Yatayat,4,narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348
+R20_A,20,outbound,Gokarneshwor Yatayat,5,chiray_hospital,Chiray Hospital,27.7215,85.3348
+R20_A,20,outbound,Gokarneshwor Yatayat,6,basundhara,Basundhara,27.721,85.3042
+R20_A,20,outbound,Gokarneshwor Yatayat,7,samakhusi,Samakhusi,27.7295,85.305
+R20_A,20,outbound,Gokarneshwor Yatayat,8,gongabu_chowk,Gongabu Chowk,27.7328,85.3058
+R20_A,20,outbound,Gokarneshwor Yatayat,9,machha_pokhari,Machha Pokhari,27.7295,85.3038
+R20_A,20,outbound,Gokarneshwor Yatayat,10,balaju,Balaju,27.7258,85.3025
+R20_A,20,outbound,Gokarneshwor Yatayat,11,banasthali,Banasthali,27.7228,85.3012
+R20_A,20,outbound,Gokarneshwor Yatayat,12,dhungedhara,Dhungedhara,27.7205,85.299
+R20_A,20,outbound,Gokarneshwor Yatayat,13,sano_bharyang,Sano Bharyang,27.718,85.2952
+R20_A,20,outbound,Gokarneshwor Yatayat,14,thulo_bharyang,Thulo Bharyang,27.716,85.2928
+R20_A,20,outbound,Gokarneshwor Yatayat,15,swayambhu,Swayambhu,27.7148,85.29
+R20_A,20,outbound,Gokarneshwor Yatayat,16,sitapaila,Sitapaila,27.7068,85.2848
+R20_A,20,outbound,Gokarneshwor Yatayat,17,bafal,Bafal,27.7018,85.2872
+R20_A,20,outbound,Gokarneshwor Yatayat,18,kalanki_makalu_stop,Kalanki Makalu Stop,27.6958,85.282
+R20_A,20,outbound,Gokarneshwor Yatayat,19,khasi_bazar,Khasi Bazar,27.6938,85.284
+R20_A,20,outbound,Gokarneshwor Yatayat,20,advanced_college_of_engineering,Advance College of Engineering,27.6908,85.2852
+R20_A,20,outbound,Gokarneshwor Yatayat,21,balkhu,Balkhu,27.6858,85.2872
+R20_A,20,outbound,Gokarneshwor Yatayat,22,sanepa,Sanepa,27.678,85.3072
+R20_A,20,outbound,Gokarneshwor Yatayat,23,star_hospital,Star Hospital,27.6748,85.3038
+R20_A,20,outbound,Gokarneshwor Yatayat,24,dhobigat,Dhobigat,27.6728,85.301
+R20_A,20,outbound,Gokarneshwor Yatayat,25,nakhu,Nakhu,27.6688,85.296
+R20_A,20,outbound,Gokarneshwor Yatayat,26,ekantakuna,Ekantakuna,27.6758,85.3012
+R20_A,20,outbound,Gokarneshwor Yatayat,27,kusunti,Kusunti,27.666,85.31
+R20_A,20,outbound,Gokarneshwor Yatayat,28,mahalaxmisthan,Mahalaxmisthan,27.6692,85.3138
+R20_A,20,outbound,Gokarneshwor Yatayat,29,talchikhel,Talchikhel,27.672,85.317
+R20_A,20,outbound,Gokarneshwor Yatayat,30,chapagaun_dobato,Chapagaun Dobato,27.666,85.3192
+R20_A,20,outbound,Gokarneshwor Yatayat,31,satdobato,Satdobato,27.679,85.3228
+R20_A,20,outbound,Gokarneshwor Yatayat,32,satdobato_swimming_pool,Satdobato Swimming Pool,27.6782,85.3255
+R20_A,20,outbound,Gokarneshwor Yatayat,33,B&B_hospital,B&B Hospital,27.6778,85.3305
+R20_A,20,outbound,Gokarneshwor Yatayat,34,gwarko,Gwarko,27.6808,85.3398
+R20_A,20,outbound,Gokarneshwor Yatayat,35,balkumari_kharibot,Balkumari Kharibot,27.6812,85.345
+R20_A,20,outbound,Gokarneshwor Yatayat,36,balkumari,Balkumari,27.6828,85.3468
+R20_A,20,outbound,Gokarneshwor Yatayat,37,balkumari_pool,Balkumari Pool,27.6835,85.3475
+R20_A,20,outbound,Gokarneshwor Yatayat,38,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R20_A,20,outbound,Gokarneshwor Yatayat,39,koteshwor,Koteshwor,27.687,85.3512
+R20_A,20,outbound,Gokarneshwor Yatayat,40,koteshwor_bhaktapur_stop,Koteshwor Bhaktapur Stop,27.6882,85.3528
+R20_A,20,outbound,Gokarneshwor Yatayat,41,tinkune,Tinkune,27.6862,85.347
+R20_A,20,outbound,Gokarneshwor Yatayat,42,sinamangal_Ooralo,Sinamangal Ooralo,27.6952,85.3518
+R20_A,20,outbound,Gokarneshwor Yatayat,43,sinamangal,Sinamangal,27.694,85.3558
+R20_A,20,outbound,Gokarneshwor Yatayat,44,airport,Tribhuvan Airport,27.6966,85.3591
+R20_A,20,outbound,Gokarneshwor Yatayat,45,tilganga_eye_hospital,Tilganga Eye Hospital,27.7068,85.3548
+R20_A,20,outbound,Gokarneshwor Yatayat,46,pashupati_temple,Pashupati Temple,27.71,85.3488
+R20_A,20,outbound,Gokarneshwor Yatayat,47,gaushala,Gaushala,27.7098,85.358
+R20_A,20,outbound,Gokarneshwor Yatayat,48,jay bageshwori,Jay Bageshwori,27.715,85.3538
+R20_A,20,outbound,Gokarneshwor Yatayat,49,mitrapark,Mitrapark,27.7192,85.3495
+R20_A,20,outbound,Gokarneshwor Yatayat,50,chabahil,Chabahil,27.7228,85.345
+R20_A,20,outbound,Gokarneshwor Yatayat,51,chuchepati,Chuchepati,27.7222,85.3468
+R20_A,20,outbound,Gokarneshwor Yatayat,52,bouddha_stupa,Bouddha Stupa,27.7215,85.362
+R20_A,20,outbound,Gokarneshwor Yatayat,53,jorpati,Jorpati,27.7268,85.3698
+R20_A,20,outbound,Gokarneshwor Yatayat,54,narayanthan,Narayanthan,27.7305,85.3748
+R20_A,20,outbound,Gokarneshwor Yatayat,55,dakshindhoka,Dakshindhoka,27.7348,85.3792
+R20_A,20,outbound,Gokarneshwor Yatayat,56,jaya_multiple_campus,Jaya Multiple Campus,27.7388,85.3832
+R20_A,20,outbound,Gokarneshwor Yatayat,57,makalbari_bridge,Makalbari Bridge,27.7428,85.3872
+R20_A,20,outbound,Gokarneshwor Yatayat,58,gokarneshwor,Gokarneshwor,27.7468,85.3908
+R20_B,20,inbound,Gokarneshwor Yatayat,1,gokarneshwor,Gokarneshwor,27.7468,85.3908
+R20_B,20,inbound,Gokarneshwor Yatayat,2,makalbari_bridge,Makalbari Bridge,27.7428,85.3872
+R20_B,20,inbound,Gokarneshwor Yatayat,3,jaya_multiple_campus,Jaya Multiple Campus,27.7388,85.3832
+R20_B,20,inbound,Gokarneshwor Yatayat,4,dakshindhoka,Dakshindhoka,27.7348,85.3792
+R20_B,20,inbound,Gokarneshwor Yatayat,5,narayantar,Narayantar,27.7308,85.375
+R20_B,20,inbound,Gokarneshwor Yatayat,6,jorpati,Jorpati,27.7268,85.3698
+R20_B,20,inbound,Gokarneshwor Yatayat,7,bouddha_stupa,Bouddha Stupa,27.7215,85.362
+R20_B,20,inbound,Gokarneshwor Yatayat,8,chuchepati,Chuchepati,27.7222,85.3468
+R20_B,20,inbound,Gokarneshwor Yatayat,9,chabahil,Chabahil,27.7228,85.345
+R20_B,20,inbound,Gokarneshwor Yatayat,10,mitrapark,Mitrapark,27.7192,85.3495
+R20_B,20,inbound,Gokarneshwor Yatayat,11,jay bageshwori,Jay Bageshwori,27.715,85.3538
+R20_B,20,inbound,Gokarneshwor Yatayat,12,gaushala,Gaushala,27.7098,85.358
+R20_B,20,inbound,Gokarneshwor Yatayat,13,pashupati_temple,Pashupati Temple,27.71,85.3488
+R20_B,20,inbound,Gokarneshwor Yatayat,14,tilganga_eye_hospital,Tilganga Eye Hospital,27.7068,85.3548
+R20_B,20,inbound,Gokarneshwor Yatayat,15,airport,Tribhuvan Airport,27.6966,85.3591
+R20_B,20,inbound,Gokarneshwor Yatayat,16,sinamangal,Sinamangal,27.694,85.3558
+R20_B,20,inbound,Gokarneshwor Yatayat,17,sinamangal_Ooralo,Sinamangal Ooralo,27.6952,85.3518
+R20_B,20,inbound,Gokarneshwor Yatayat,18,tinkune,Tinkune,27.6862,85.347
+R20_B,20,inbound,Gokarneshwor Yatayat,19,koteshwor_bhaktapur_stop,Koteshwor Bhaktapur Stop,27.6882,85.3528
+R20_B,20,inbound,Gokarneshwor Yatayat,20,koteshwor,Koteshwor,27.687,85.3512
+R20_B,20,inbound,Gokarneshwor Yatayat,21,koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498
+R20_B,20,inbound,Gokarneshwor Yatayat,22,balkumari_pul,Balkumari Pul,27.6842,85.3482
+R20_B,20,inbound,Gokarneshwor Yatayat,23,balkumari,Balkumari,27.6828,85.3468
+R20_B,20,inbound,Gokarneshwor Yatayat,24,balkumari_kharibot,Balkumari Kharibot,27.6812,85.345
+R20_B,20,inbound,Gokarneshwor Yatayat,25,royal_tulip_hotel,Royal Tulip Hotel,27.68,85.3432
+R20_B,20,inbound,Gokarneshwor Yatayat,26,gwarko,Gwarko,27.6808,85.3398
+R20_B,20,inbound,Gokarneshwor Yatayat,27,satdobato_swimming_pool,Satdobato Swimming Pool,27.6782,85.3255
+R20_B,20,inbound,Gokarneshwor Yatayat,28,satdobato,Satdobato,27.679,85.3228
+R20_B,20,inbound,Gokarneshwor Yatayat,29,chapagaun_dobato,Chapagaun Dobato,27.666,85.3192
+R20_B,20,inbound,Gokarneshwor Yatayat,30,talchikhel,Talchikhel,27.672,85.317
+R20_B,20,inbound,Gokarneshwor Yatayat,31,mahalaxmisthan,Mahalaxmisthan,27.6692,85.3138
+R20_B,20,inbound,Gokarneshwor Yatayat,32,kusunti,Kusunti,27.666,85.31
+R20_B,20,inbound,Gokarneshwor Yatayat,33,ekantakuna,Ekantakuna,27.6758,85.3012
+R20_B,20,inbound,Gokarneshwor Yatayat,34,nakhu,Nakhu,27.6688,85.296
+R20_B,20,inbound,Gokarneshwor Yatayat,35,dhobigat,Dhobigat,27.6728,85.301
+R20_B,20,inbound,Gokarneshwor Yatayat,36,star_hospital,Star Hospital,27.6748,85.3038
+R20_B,20,inbound,Gokarneshwor Yatayat,37,sanepa,Sanepa,27.678,85.3072
+R20_B,20,inbound,Gokarneshwor Yatayat,38,balkhu,Balkhu,27.6858,85.2872
+R20_B,20,inbound,Gokarneshwor Yatayat,39,advanced_college_of_engineering,Advance College of Engineering,27.6908,85.2852
+R20_B,20,inbound,Gokarneshwor Yatayat,40,khasi_bazar,Khasi Bazar,27.6938,85.284
+R20_B,20,inbound,Gokarneshwor Yatayat,41,kalanki_makalu_stop,Kalanki Makalu Stop,27.6958,85.282
+R20_B,20,inbound,Gokarneshwor Yatayat,42,bafal,Bafal,27.7018,85.2872
+R20_B,20,inbound,Gokarneshwor Yatayat,43,sitapaila,Sitapaila,27.7068,85.2848
+R20_B,20,inbound,Gokarneshwor Yatayat,44,swayambhu,Swayambhu,27.7148,85.29
+R20_B,20,inbound,Gokarneshwor Yatayat,45,thulo_bharyang,Thulo Bharyang,27.716,85.2928
+R20_B,20,inbound,Gokarneshwor Yatayat,46,sano_bharyang,Sano Bharyang,27.718,85.2952
+R20_B,20,inbound,Gokarneshwor Yatayat,47,dhungedhara,Dhungedhara,27.7205,85.299
+R20_B,20,inbound,Gokarneshwor Yatayat,48,banasthali,Banasthali,27.7228,85.3012
+R20_B,20,inbound,Gokarneshwor Yatayat,49,balaju,Balaju,27.7258,85.3025
+R20_B,20,inbound,Gokarneshwor Yatayat,50,machha_pokhari,Machha Pokhari,27.7295,85.3038
+R20_B,20,inbound,Gokarneshwor Yatayat,51,gongabu_chowk,Gongabu Chowk,27.7328,85.3058
+R20_B,20,inbound,Gokarneshwor Yatayat,52,samakhusi,Samakhusi,27.7295,85.305
+R20_B,20,inbound,Gokarneshwor Yatayat,53,basundhara,Basundhara,27.721,85.3042
+R20_B,20,inbound,Gokarneshwor Yatayat,54,chiray_hospital,Chiray Hospital,27.7215,85.3348
+R20_B,20,inbound,Gokarneshwor Yatayat,55,narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348
+R20_B,20,inbound,Gokarneshwor Yatayat,56,chhapal_karkhana,Chhapal Karkhana,27.7238,85.3368
+R20_B,20,inbound,Gokarneshwor Yatayat,57,dhumbarahi,Dhumbarahi,27.7248,85.3388
+R20_B,20,inbound,Gokarneshwor Yatayat,58,gopi_krishna,Gopi Krishna,27.7262,85.3412

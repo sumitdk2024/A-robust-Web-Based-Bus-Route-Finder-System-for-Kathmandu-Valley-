@@ -1,0 +1,82 @@
+{
+  "UI01-missing-origin-desktop.png": {
+    "bytes": 124403,
+    "sha256": "35881bd22d542b0a4323645f7b1c19a6acd8db38f42bde5c6be7a6029eefadd0"
+  },
+  "UI02-direct-desktop.png": {
+    "bytes": 149276,
+    "sha256": "eccb35cc913e2b9ad162a3859ff708d875ac030295151a2e37c2f88042a65385"
+  },
+  "UI03-transfer-desktop.png": {
+    "bytes": 179022,
+    "sha256": "4ea5dc3667ffd9b36985c0ad1a231ec6bc35b27cafe9f0497b86b12059a13f3c"
+  },
+  "UI04-transfer-mobile.png": {
+    "bytes": 142715,
+    "sha256": "0b06176f99e8477c44c290c4f495430f53fd7d9b43cee037a2f078b487e9ceca"
+  },
+  "UI05-identical-stops.png": {
+    "bytes": 123879,
+    "sha256": "0215761620507fbcc1b882bc4a09a7665b70a0b21ebe211262315f38c516c760"
+  },
+  "UI06-nearest-emulated-gps.png": {
+    "bytes": 152870,
+    "sha256": "59eda7f7e5f4d930f5d34d636ad92b93e03216e96f72d171b1d25cafaceea922"
+  },
+  "UI07-direct-result-desktop.png": {
+    "bytes": 36190,
+    "sha256": "0bfa438227cbd9ab033880154cc88dc493e14cffa1cda181f07ba64630825bc5",
+    "width": 1248,
+    "height": 785
+  },
+  "UI08-transfer-result-desktop.png": {
+    "bytes": 50618,
+    "sha256": "a29a2f9d4d49ab4f855a9868ec716f70b13f5ff978755aa9e7605708f9bc4416",
+    "width": 1248,
+    "height": 1179
+  },
+  "UI09-transfer-result-mobile.png": {
+    "bytes": 43999,
+    "sha256": "5936f90857d650385569e245b77d4d155064e8481e2e95ae11db5499ca750b5a",
+    "width": 354,
+    "height": 1234
+  },
+  "UI10-missing-origin-result.png": {
+    "bytes": 9434,
+    "sha256": "86d7b740a6c146ee87102f602da63b04a30ed384a7afc357848a4f2b12335580",
+    "width": 1248,
+    "height": 187
+  },
+  "UI11-direct-result-1024.png": {
+    "bytes": 36243,
+    "sha256": "1dc53e8eab32402482a0c87b21c63ee980b72fa286cd6c9c79fc9d1d0e686db5",
+    "width": 968,
+    "height": 853
+  },
+  "UI12-transfer-result-1024.png": {
+    "bytes": 49855,
+    "sha256": "369b457f6cea95ea77c44a45ed6d5e7fa8a0474fea193c08cd140aac21472987",
+    "width": 968,
+    "height": 1248
+  },
+  "TR01-browser-test-report.png": {
+    "bytes": 91730,
+    "sha256": "3561e02bdd3036289723bec91f8aeb251927d6b2df04a0ae233a4832a269644e"
+  },
+  "TR02-two-transfer-test-result.png": {
+    "bytes": 82917,
+    "sha256": "f2ced329dd1928f98880e5f8aec6e539de31a9c1b8f9e7b841556ce966b2a9ac"
+  },
+  "TR03-enlarged-native-report-summary.png": {
+    "bytes": 94835,
+    "sha256": "3a6772131af19146882d69ffdc07c21e32c2e0991c865dd82ee333dc6e9156ca",
+    "width": 821,
+    "height": 900
+  },
+  "TR04-enlarged-native-assertions.png": {
+    "bytes": 89365,
+    "sha256": "07bd663215c2d69a0f8d45b213fdbf04593c9891cb5499901605868a39fa5527",
+    "width": 821,
+    "height": 900
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-05T20:24:07.643Z",
+  "baseURL": "http://localhost:5173",
+  "network": "No requests intercepted in capture script; GPS location emulated for UI06",
+  "observations": [
+    {
+      "id": "UI01",
+      "text": "Journey search\n\nPlease select a starting location."
+    },
+    {
+      "id": "UI02",
+      "text": "Your journey\n\nDirect Route found. 28 stops.\n\nDirect Route\nSajha Yatayat\n\nThankot → Tribhuvan Airport\n\nEstimated travel time\nApprox. 65–75 min\nStops\n28 stops\nBus changes\n0 transfers\nApproximate bus distance\nApprox. 16.7 km\nAbout this estimate\nSajha Yatayat\nR01_A\n\noutbound · Thankot ⇄ Airport\n\nBoard\nThankot\nShow 26 intermediate stops\nAlight\nTribhuvan Airport\nView journey details",
+      "markers": 28,
+      "tileImages": 0
+    },
+    {
+      "id": "UI03",
+      "text": "Your journey\n\n1 Transfer found. 25 stops.\n\n1 Transfer\nBus connections\n\nKapan → Balaju\n\nEstimated travel time\nApprox. 50–60 min\nStops\n25 stops\nBus changes\n1 transfer\nApproximate bus distance\nApprox. 11.1 km\nAbout this estimate\nNepal Yatayat\nR16_A\n\noutbound · Kapan ⇄ Tikathali\n\nBoard\nKapan\nShow 17 intermediate stops\nAlight\nNarayan Gopal Chowk\nChange bus here\n\nTransfer at Narayan Gopal Chowk\n\nMahanagar Yatayat\nR11_B\n\ninbound · Ringroad\n\nBoard\nNarayan Gopal Chowk\nShow 5 intermediate stops\nAlight\nBalaju\nView journey details\nJourney stops\n\nSelect a stop to focus the map.\n\nKapan\nOrigin\nNarayan Gopal Chowk\nTransfer · Change bus here\nBalaju\nFinal destination\nShow all stops (25)",
+      "markers": 25
+    },
+    {
+      "id": "UI04",
+      "overflow": false
+    },
+    {
+      "id": "UI05",
+      "text": "Journey search\n\nStarting location and destination cannot be the same."
+    },
+    {
+      "id": "UI06",
+      "origin": "Thankot",
+      "nearby": "Stops near you\n3 nearby stops\n\nWalking times use pedestrian directions where available. Location accuracy: ±0 m.\n\nThankot\n< 1 min walk · Approx. 0 m\nApproximate walking estimate\nSelected origin\nThankot Checkpost\n~7 min walk · Approx. 553 m\nApproximate walking estimate\nUse this stop\nKharibot\n~7 min walk · Approx. 554 m\nApproximate walking estimate\nUse this stop\n\nIf walking directions are unavailable, distance uses a straight-line estimate. Actual walking distance and time may vary."
+    }
+  ]
+}

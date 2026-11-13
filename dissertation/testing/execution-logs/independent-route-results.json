@@ -1,0 +1,205 @@
+{
+  "executed": "2026-11-05T20:34:04.926Z",
+  "method": "Independent repeated edge relaxation over CSV route sequences, followed by adjacency and transfer-endpoint checks",
+  "results": [
+    {
+      "from": "thankot",
+      "to": "airport",
+      "rounds": 47,
+      "converged": true,
+      "expectedCost": [
+        0,
+        27
+      ],
+      "actualCost": [
+        0,
+        27
+      ],
+      "adjacent": true,
+      "connections": true,
+      "legs": [
+        {
+          "route": "R01_A",
+          "start": "thankot",
+          "end": "airport",
+          "stops": 28
+        }
+      ],
+      "pass": true
+    },
+    {
+      "from": "airport",
+      "to": "thankot",
+      "rounds": 44,
+      "converged": true,
+      "expectedCost": [
+        0,
+        25
+      ],
+      "actualCost": [
+        0,
+        25
+      ],
+      "adjacent": true,
+      "connections": true,
+      "legs": [
+        {
+          "route": "R01_B",
+          "start": "airport",
+          "end": "thankot",
+          "stops": 26
+        }
+      ],
+      "pass": true
+    },
+    {
+      "from": "kapan",
+      "to": "balaju",
+      "rounds": 66,
+      "converged": true,
+      "expectedCost": [
+        1,
+        24
+      ],
+      "actualCost": [
+        1,
+        24
+      ],
+      "adjacent": true,
+      "connections": true,
+      "legs": [
+        {
+          "route": "R16_A",
+          "start": "kapan",
+          "end": "narayan_gopal_chowk",
+          "stops": 19
+        },
+        {
+          "route": "R11_B",
+          "start": "narayan_gopal_chowk",
+          "end": "balaju",
+          "stops": 7
+        }
+      ],
+      "pass": true
+    },
+    {
+      "from": "baadbhanjyan(thankot)",
+      "to": "petrol_pump-panipokhari",
+      "rounds": 70,
+      "converged": true,
+      "expectedCost": [
+        2,
+        22
+      ],
+      "actualCost": [
+        2,
+        22
+      ],
+      "adjacent": true,
+      "connections": true,
+      "legs": [
+        {
+          "route": "R01_A",
+          "start": "baadbhanjyan(thankot)",
+          "end": "sundhara",
+          "stops": 18
+        },
+        {
+          "route": "R02_B",
+          "start": "sundhara",
+          "end": "teaching_hospital",
+          "stops": 5
+        },
+        {
+          "route": "R02_A",
+          "start": "teaching_hospital",
+          "end": "petrol_pump-panipokhari",
+          "stops": 2
+        }
+      ],
+      "pass": true
+    },
+    {
+      "from": "godawari",
+      "to": "jamal",
+      "rounds": 54,
+      "converged": true,
+      "expectedCost": [
+        0,
+        12
+      ],
+      "actualCost": [
+        0,
+        12
+      ],
+      "adjacent": true,
+      "connections": true,
+      "legs": [
+        {
+          "route": "R06_B",
+          "start": "godawari",
+          "end": "jamal",
+          "stops": 13
+        }
+      ],
+      "pass": true
+    },
+    {
+      "from": "kamalbinayak",
+      "to": "ratnapark",
+      "rounds": 67,
+      "converged": true,
+      "expectedCost": [
+        1,
+        27
+      ],
+      "actualCost": [
+        1,
+        27
+      ],
+      "adjacent": true,
+      "connections": true,
+      "legs": [
+        {
+          "route": "R14_A",
+          "start": "kamalbinayak",
+          "end": "RNAC",
+          "stops": 27
+        },
+        {
+          "route": "R14_B",
+          "start": "RNAC",
+          "end": "ratnapark",
+          "stops": 2
+        }
+      ],
+      "pass": true
+    },
+    {
+      "from": "budhanilkantha",
+      "to": "lagankhel",
+      "rounds": 67,
+      "converged": true,
+      "expectedCost": [
+        0,
+        30
+      ],
+      "actualCost": [
+        0,
+        30
+      ],
+      "adjacent": true,
+      "connections": true,
+      "legs": [
+        {
+          "route": "R03_A",
+          "start": "budhanilkantha",
+          "end": "lagankhel",
+          "stops": 31
+        }
+      ],
+      "pass": true
+    }
+  ]
+}

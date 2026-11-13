@@ -1,0 +1,261 @@
+﻿test_id,requirement,test_type,prerequisites,inputs_steps,expected_result,actual_result,status,evidence_filename
+SUITE-FRONTEND,R01-R09,automated unit/API,Node 24.11.0; installed dependencies,node --test src/utils/*.test.js,All existing active tests pass,68 passed; 0 failed,PASS,execution-logs/frontend-unit.txt
+SUITE-BACKEND,R10,automated unit/API,Node 24.11.0; installed dependencies,npm.cmd test,All existing active tests pass,5 passed; 0 failed,PASS,execution-logs/backend-unit.txt
+B01,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Enter Bouddha→Kapan, Thankot→Airport and Lagankhel→Balaju requests; repeat last and choose View Journey; executable source: ai-assistant.spec.js:12 — simple endpoint requests work without preference controls or explanations",Each gives journey and estimate; preference/alternative controls absent; repeat stable; result focus and one endpoint marker each,Passed browser assertions: Each gives journey and estimate; preference/alternative controls absent; repeat stable; result focus and one endpoint marker each. Runner passed; 5283 ms runner duration,PASS,execution-logs/browser-results.json
+B02,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Ask Kapan→Boudha, Thankot→airport, Kapan→Balaju; then omit origin and ask Kapan→Mars; executable source: ai-assistant.spec.js:32 — natural language bus routes and missing origin/unknown destination",Recognised journeys found; Boudha becomes Bouddha Stupa; missing origin requests start; Mars rejected and markers cleared,Passed browser assertions: Recognised journeys found; Boudha becomes Bouddha Stupa; missing origin requests start; Mars rejected and markers cleared. Runner passed; 1827 ms runner duration,PASS,execution-logs/browser-results.json
+B03,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Ask Lagankhel→Bhaktapur, Kapan→Baneshwor; choose New Baneshwor; ask unsupported museum; executable source: ai-assistant.spec.js:49 — bus-stop clarification automatically continues and Bhaktapur uses the main stop",Bhaktapur resolves Koteshwor Bhaktapur Stop; ambiguous Baneshwor offers two choices; chosen stop continues; museum rejected,Passed browser assertions: Bhaktapur resolves Koteshwor Bhaktapur Stop; ambiguous Baneshwor offers two choices; chosen stop continues; museum rejected. Runner passed; 3663 ms runner duration,PASS,execution-logs/browser-results.json
+B04,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Emulate Baluwatar; ask location→Ratna Park; test 375/768/1280 widths; reset then location→Airport; executable source: ai-assistant.spec.js:70 — location assistant and normal location search compare starts deterministically and show one recommendation,One recommendation; no alternatives; origin matches helper-selected candidate; walking visible; no overflow; second search found,Passed browser assertions: One recommendation; no alternatives; origin matches helper-selected candidate; walking visible; no overflow; second search found. Runner passed; 2944 ms runner duration,PASS,execution-logs/browser-results.json
+B05,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Hold assistant GPS callback; request my location→airport; reset then release callback; executable source: ai-assistant.spec.js:95 — reset cancels an assistant location request without a stale recommendation,Pending button disabled; callback after reset creates no recommendation and leaves origin empty,Passed browser assertions: Pending button disabled; callback after reset creates no recommendation and leaves origin empty. Runner passed; 3629 ms runner duration,PASS,execution-logs/browser-results.json
+B06,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Ask I want to travel from kapan to Thankot; executable source: ai-assistant.spec.js:107 — travel infinitive does not hide Thankot destination,Fields resolve Kapan and Thankot; journey found; recommendation includes Thankot; interpreted debug panel absent,Passed browser assertions: Fields resolve Kapan and Thankot; journey found; recommendation includes Thankot; interpreted debug panel absent. Runner passed; 1455 ms runner duration,PASS,execution-logs/browser-results.json
+B07,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Type rAt; ArrowDown twice, ArrowUp, Enter; fill Chabahil; type unknown origin, Escape and reset; executable source: autocomplete.spec.js:8 — keyboard selection, escape, unknown input and reset",Rata Makai Chowk selected; menu closes; unknown input flagged; Escape closes; reset empties origin,Passed browser assertions: Rata Makai Chowk selected; menu closes; unknown input flagged; Escape closes; reset empties origin. Runner passed; 3921 ms runner duration,PASS,execution-logs/browser-results.json
+B08,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"At 375px choose Chuchepati and Ratna Park; swap, search, clear origin; executable source: autocomplete.spec.js:29 — full dataset selection, independent fields, swap, and project route",Fields independent; swapped Ratna Park→Chuchepati found; ten initial suggestions; no overflow,Passed browser assertions: Fields independent; swapped Ratna Park→Chuchepati found; ten initial suggestions; no overflow. Runner passed; 2896 ms runner duration,PASS,execution-logs/browser-results.json
+B09,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,At 1920/1440/1366/768/390 widths search example; expand assistant; visit About and old destinations anchor; executable source: compact-layout.spec.js:4 — compact planner fits target viewports and keeps secondary content accessible,"Single reused map; valid result; no overflow; desktop alignment and 420–500px map, mobile 320px; About excludes planner; tourist absent","Passed browser assertions: Single reused map; valid result; no overflow; desktop alignment and 420–500px map, mobile 320px; About excludes planner; tourist absent. Runner passed; 12322 ms runner duration",PASS,execution-logs/browser-results.json
+B10,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Submit empty; select Kapan only; select Kapan twice; enter unsupported text each field; recover Kapan→Balaju; reset; executable source: final-requirements.spec.js:3 — invalid, empty and identical stops recover without a reload",Specific missing/same/invalid messages; valid journey recovered with endpoint/transfer markers; reset clears inputs and map layers,Passed browser assertions: Specific missing/same/invalid messages; valid journey recovered with endpoint/transfer markers; reset clears inputs and map layers. Runner passed; 3461 ms runner duration,PASS,execution-logs/browser-results.json
+B11,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Select Kapan→Balaju; click search five times; executable source: final-requirements.spec.js:46 — repeated searches are consistent and complete within a few seconds,Result text identical across five repetitions; each browser click-to-visible assertion under 3000ms; local check only,Passed browser assertions: Result text identical across five repetitions; each browser click-to-visible assertion under 3000ms; local check only. Runner passed; 5838 ms runner duration,PASS,execution-logs/browser-results.json
+B12,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Emulate Denmark (55.6761,12.5683); choose Balaju, use location; recover manually Kapan→Balaju; executable source: location-routing.spec.js:11 — Denmark is rejected before nearby stops, pedestrian calls or location map layers",Outside-Nepal message; empty origin; zero provider calls/location layers; manual search still works,Passed browser assertions: Outside-Nepal message; empty origin; zero provider calls/location layers; manual search still works. Runner passed; 2593 ms runner duration,PASS,execution-logs/browser-results.json
+B13,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Emulate India (26.7606,83.3732); choose Balaju, use location; recover manually Kapan→Balaju; executable source: location-routing.spec.js:11 — India is rejected before nearby stops, pedestrian calls or location map layers",Outside-Nepal message; empty origin; zero provider calls/location layers; manual search still works,Passed browser assertions: Outside-Nepal message; empty origin; zero provider calls/location layers; manual search still works. Runner passed; 2440 ms runner duration,PASS,execution-logs/browser-results.json
+B14,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Emulate Pokhara (28.2096,83.9856); use location; executable source: location-routing.spec.js:30 — Pokhara passes country eligibility but has no bus dataset coverage",No supported nearby-stop message; zero provider calls and location/walking layers,Passed browser assertions: No supported nearby-stop message; zero provider calls and location/walking layers. Runner passed; 1059 ms runner duration,PASS,execution-logs/browser-results.json
+B15,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Emulate near Thankot; return three pedestrian fixtures with second candidate 480s/720m; select and search Airport; executable source: location-routing.spec.js:41 — Kathmandu compares three pedestrian durations, draws returned geometry and uses provider totals",Three provider calls; second candidate chosen; real fixture geometry layer; ~8min/720m displayed; search reuses cached metrics,Passed browser assertions: Three provider calls; second candidate chosen; real fixture geometry layer; ~8min/720m displayed; search reuses cached metrics. Runner passed; 2958 ms runner duration,PASS,execution-logs/browser-results.json
+B16,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Emulate Thankot; force walking endpoint HTTP503; search Airport; executable source: location-routing.spec.js:75 — provider failure keeps the stop and labels the approximate walking fallback,Thankot retained; unavailable message; approximate connection layer/caption and approximate walking label,Passed browser assertions: Thankot retained; unavailable message; approximate connection layer/caption and approximate walking label. Runner passed; 1764 ms runner duration,PASS,execution-logs/browser-results.json
+B17,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Delay walking responses at (27.7,85.3); start location then reset and release; executable source: location-routing.spec.js:90 — reset cancels outstanding pedestrian routes without restoring location or origin",Finding-walking status before reset; no restored origin/location/walking layers; status empty afterwards,Passed browser assertions: Finding-walking status before reset; no restored origin/location/walking layers; status empty afterwards. Runner passed; 1216 ms runner duration,PASS,execution-logs/browser-results.json
+B18,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Search direct, one-transfer and two-transfer cases; inspect markers, permanent labels and leg paths; executable source: map-labels.spec.js:11 — only endpoints and transfers have permanent labels, without duplicate markers",One marker per unique stop; only endpoint/transfer permanent labels; transfer markers match unique transfers; one path per leg,Passed browser assertions: One marker per unique stop; only endpoint/transfer permanent labels; transfer markers match unique transfers; one path per leg. Runner passed; 5525 ms runner duration,PASS,execution-logs/browser-results.json
+B19,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"At 390×844 touch viewport search first example; focus/Enter intermediate marker; focus via stop list then tap; reset; executable source: map-labels.spec.js:36 — small dots retain touch targets, popups and keyboard access",44px+ hit target and 12px dot; keyboard and tap popups show intermediate stop; no overflow; reset clears layers,Passed browser assertions: 44px+ hit target and 12px dot; keyboard and tap popups show intermediate stop; no overflow; reset clears layers. Runner passed; 6575 ms runner duration,PASS,execution-logs/browser-results.json
+B20,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Save Home=Ratna Park; reload; use From/To; edit College=Lagankhel; reload then delete and reload; executable source: my-places.spec.js:29 — save, reload, From/To, edit and delete a supported stop",Saved stop persists; From/To fill correctly; edit updates origin; deletion persists; storage array empty,Passed browser assertions: Saved stop persists; From/To fill correctly; edit updates origin; deletion persists; storage array empty. Runner passed; 3532 ms runner duration,PASS,execution-logs/browser-results.json
+B21,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Open Add place; Escape; reopen Home with Unsupported stop and save; executable source: my-places.spec.js:56 — dialog supports Escape, focus return and invalid-stop validation",Label initially focused; Escape restores Add focus; unsupported stop alert prevents save,Passed browser assertions: Label initially focused; Escape restores Add focus; unsupported stop alert prevents save. Runner passed; 1322 ms runner duration,PASS,execution-logs/browser-results.json
+B22,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Mock New Baneshwor/Lagankhel geocodes and 650m/360s walks; save Home/Office; use both, swap, reset, reload; executable source: my-places.spec.js:71 — addresses support origin and destination walks, swap and reset without invoking GPS",Two ~6min walks and address markers; correct walking endpoints; swap reverses destination walk; reset preserves cards; zero GPS calls,Passed browser assertions: Two ~6min walks and address markers; correct walking endpoints; swap reverses destination walk; reset preserves cards; zero GPS calls. Runner passed; 4916 ms runner duration,PASS,execution-logs/browser-results.json
+B23,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Mock Denmark HTTP400, missing address HTTP404 and Pokhara coordinates; try address searches; executable source: my-places.spec.js:118 — geocoding outside Nepal, missing addresses and Nepal without bus coverage show clear errors",Supported-area and not-found messages; Pokhara has no nearby stop; no saved card created,Passed browser assertions: Supported-area and not-found messages; Pokhara has no nearby stop; no saved card created. Runner passed; 1648 ms runner duration,PASS,execution-logs/browser-results.json
+B24,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Save mocked Baneshwor address Home; use as origin to Kapan with walking HTTP503; executable source: my-places.spec.js:137 — saved addresses retain the clearly labelled walking fallback,Journey has approximate walking label; one saved-address walking layer and approximate map caption,Passed browser assertions: Journey has approximate walking label; one saved-address walking layer and approximate map caption. Runner passed; 2684 ms runner duration,PASS,execution-logs/browser-results.json
+B25,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Preload ten saved stops; click Add place; executable source: my-places.spec.js:150 — saved-place limit and storage quota failures are handled without losing manual search,Limit message You can save up to 10 places; no dialog opens,Passed browser assertions: Limit message You can save up to 10 places; no dialog opens. Runner passed; 1712 ms runner duration,PASS,execution-logs/browser-results.json
+B26,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Inject Storage.setItem quota exception; enter Home=Ratna Park and save; executable source: my-places.spec.js:160 — quota failure leaves the dialog open and the entered place intact,Unable to save alert; dialog retains Home text,Passed browser assertions: Unable to save alert; dialog retains Home text. Runner passed; 1963 ms runner duration,PASS,execution-logs/browser-results.json
+B27,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Save College=Lagankhel; emulate Thankot GPS; use location then College destination; executable source: my-places.spec.js:172 — GPS remains separate and does not add the current location to saved places,Thankot origin and one location marker; exactly one saved College card; current location not saved; journey found,Passed browser assertions: Thankot origin and one location marker; exactly one saved College card; current location not saved; journey found. Runner passed; 2119 ms runner duration,PASS,execution-logs/browser-results.json
+B28,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,At 390×844 save College=Lagankhel; open Add dialog; executable source: my-places.spec.js:187 — saved-place cards and the dialog fit a phone viewport,No document horizontal overflow; dialog contents fit own width; screenshots saved,Passed browser assertions: No document horizontal overflow; dialog contents fit own width; screenshots saved. Runner passed; 2097 ms runner duration,PASS,execution-logs/browser-results.json
+B29,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Emulate Thankot; use location; inspect three nearby stops; select second then first; search Airport and reset; executable source: nearest-stops.spec.js:9 — location selects origin, offers three stops, and preserves journey search and reset",Thankot first at 0m; three options and location marker; selection changes origin; direct journey; reset clears location and nearby panel,Passed browser assertions: Thankot first at 0m; three options and location marker; selection changes origin; direct journey; reset clears location and nearby panel. Runner passed; 3439 ms runner duration,PASS,execution-logs/browser-results.json
+B30,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Select Jamal; inject geolocation error code1 after location button click; executable source: nearest-stops.spec.js:39 — location error 1 restores button and preserves manual input,Pending button disabled; denied-access message; button reenabled; Jamal preserved,Passed browser assertions: Pending button disabled; denied-access message; button reenabled; Jamal preserved. Runner passed; 1413 ms runner duration,PASS,execution-logs/browser-results.json
+B31,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Select Jamal; inject geolocation error code2 after location button click; executable source: nearest-stops.spec.js:39 — location error 2 restores button and preserves manual input,Pending button disabled; unable-to-obtain-location message; button reenabled; Jamal preserved,Passed browser assertions: Pending button disabled; unable-to-obtain-location message; button reenabled; Jamal preserved. Runner passed; 1420 ms runner duration,PASS,execution-logs/browser-results.json
+B32,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Select Jamal; inject geolocation error code3 after location button click; executable source: nearest-stops.spec.js:39 — location error 3 restores button and preserves manual input,Pending button disabled; timeout message; button reenabled; Jamal preserved,Passed browser assertions: Pending button disabled; timeout message; button reenabled; Jamal preserved. Runner passed; 1699 ms runner duration,PASS,execution-logs/browser-results.json
+B33,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Hold GPS callback; click Use location then Reset; release callback; executable source: nearest-stops.spec.js:55 — reset ignores a pending location response,Origin stays empty and no location marker restored,Passed browser assertions: Origin stays empty and no location marker restored. Runner passed; 1556 ms runner duration,PASS,execution-logs/browser-results.json
+B34,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Provide 1px local tile fixture; search Kapan→Balaju; open dialog; assistant Thankot→Airport; reset; visit About; executable source: pretest-cleanup.spec.js:3 — main workflow has no browser errors or retired UI,One transfer then direct found; retired/debug/preference UI absent; reset clears markers; no collected console/page errors under fixture,Passed browser assertions: One transfer then direct found; retired/debug/preference UI absent; reset clears markers; no collected console/page errors under fixture. Runner passed; 3631 ms runner duration,PASS,execution-logs/browser-results.json
+B35,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Click direct example then transfer example; expand details, focus first stop, show all; executable source: search.spec.js:3 — direct and transfer journeys, all stops and map focus",Direct R01_A and28 markers; transfer25 markers and change instruction; Kapan popup; expanded list25 stops,Passed browser assertions: Direct R01_A and28 markers; transfer25 markers and change instruction; Kapan popup; expanded list25 stops. Runner passed; 3353 ms runner duration,PASS,execution-logs/browser-results.json
+B36,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Search empty; choose first example, swap; search then reset; executable source: search.spec.js:18 — validation, reset, swap and repeat search",Missing-origin message; swapped origin Airport; search found; reset empties origin and markers,Passed browser assertions: Missing-origin message; swapped origin Airport; search found; reset empties origin and markers. Runner passed; 2751 ms runner duration,PASS,execution-logs/browser-results.json
+B37,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,At widths375/768/1280 search first example; executable source: search.spec.js:30 — responsive layout,Direct Route heading visible and no horizontal document overflow at all three widths,Passed browser assertions: Direct Route heading visible and no horizontal document overflow at all three widths. Runner passed; 4802 ms runner duration,PASS,execution-logs/browser-results.json
+B38,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Inspect homepage controls; executable source: search.spec.js:35 — homepage has My Places instead of Quick Stops or journey alternatives,My Places heading/Add place present; no Quick stops or journey alternatives,Passed browser assertions: My Places heading/Add place present; no Quick stops or journey alternatives. Runner passed; 772 ms runner duration,PASS,execution-logs/browser-results.json
+B39,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,Select Baadbhanjyan(Thankot)→Petrol Pump Panipokhari; search and expand first leg; executable source: search.spec.js:42 — two transfers keep segment details and map markers,"2 Transfers heading;3 legs,2 transfer instructions,2 transfer markers; segment stop list opens","Passed browser assertions: 2 Transfers heading;3 legs,2 transfer instructions,2 transfer markers; segment stop list opens. Runner passed; 1899 ms runner duration",PASS,execution-logs/browser-results.json
+B40,Ledger R01-R09 (inferred; see test-plan),developer browser automation,Existing localhost:5173; Chrome; test-controlled fixtures as in source,"Emulate near Thankot with walking HTTP503; choose nearby stop, search Airport; inspect estimate; test widths; manually reselect and swap; executable source: walking-time.spec.js:6 — nearby selection adds walking and total; manual origin and swap remove it",Walking and total/helper-derived range displayed initially; estimate details visible; no overflow; manual origin/swap remove location walking,Passed browser assertions: Walking and total/helper-derived range displayed initially; estimate details visible; no overflow; manual origin/swap remove location walking. Runner passed; 7544 ms runner duration,PASS,execution-logs/browser-results.json
+OR01,R03-R04,independent algorithm/data check,Active CSV files,Search thankot → airport,"Independent relaxed cost [0, 27]; consecutive sequence edges; shared transfer endpoints","Production cost [0, 27]; adjacency=True; endpoints=True; review retest: oracle converged=True after 47 rounds; cost unchanged",PASS,execution-logs/independent-route-results.json
+OR02,R03-R04,independent algorithm/data check,Active CSV files,Search airport → thankot,"Independent relaxed cost [0, 25]; consecutive sequence edges; shared transfer endpoints","Production cost [0, 25]; adjacency=True; endpoints=True; review retest: oracle converged=True after 44 rounds; cost unchanged",PASS,execution-logs/independent-route-results.json
+OR03,R03-R04,independent algorithm/data check,Active CSV files,Search kapan → balaju,"Independent relaxed cost [1, 24]; consecutive sequence edges; shared transfer endpoints","Production cost [1, 24]; adjacency=True; endpoints=True; review retest: oracle converged=True after 66 rounds; cost unchanged",PASS,execution-logs/independent-route-results.json
+OR04,R03-R04,independent algorithm/data check,Active CSV files,Search baadbhanjyan(thankot) → petrol_pump-panipokhari,"Independent relaxed cost [2, 22]; consecutive sequence edges; shared transfer endpoints","Production cost [2, 22]; adjacency=True; endpoints=True; review retest: oracle converged=True after 70 rounds; cost unchanged",PASS,execution-logs/independent-route-results.json
+OR05,R03-R04,independent algorithm/data check,Active CSV files,Search godawari → jamal,"Independent relaxed cost [0, 12]; consecutive sequence edges; shared transfer endpoints","Production cost [0, 12]; adjacency=True; endpoints=True; review retest: oracle converged=True after 54 rounds; cost unchanged",PASS,execution-logs/independent-route-results.json
+OR06,R03-R04,independent algorithm/data check,Active CSV files,Search kamalbinayak → ratnapark,"Independent relaxed cost [1, 27]; consecutive sequence edges; shared transfer endpoints","Production cost [1, 27]; adjacency=True; endpoints=True; review retest: oracle converged=True after 67 rounds; cost unchanged",PASS,execution-logs/independent-route-results.json
+OR07,R03-R04,independent algorithm/data check,Active CSV files,Search budhanilkantha → lagankhel,"Independent relaxed cost [0, 30]; consecutive sequence edges; shared transfer endpoints","Production cost [0, 30]; adjacency=True; endpoints=True; review retest: oracle converged=True after 67 rounds; cost unchanged",PASS,execution-logs/independent-route-results.json
+UI01,R01-R08,developer browser evidence capture,Existing localhost frontend; no request interception; GPS emulated for UI06,Missing origin warning,Missing origin warning,"{""id"": ""UI01"", ""text"": ""Journey search\n\nPlease select a starting location.""}",PASS,screenshots/UI01-missing-origin-desktop.png
+UI02,R01-R08,developer browser evidence capture,Existing localhost frontend; no request interception; GPS emulated for UI06,Direct R01_A; 28 stop markers,Direct R01_A; 28 stop markers,"{""id"": ""UI02"", ""text"": ""Your journey\n\nDirect Route found. 28 stops.\n\nDirect Route\nSajha Yatayat\n\nThankot â†’ Tribhuvan Airport\n\nEstimated travel time\nApprox. 65â€“75 min\nStops\n28 stops\nBus changes\n0 transfers\nApproximate bus distance\nApprox. 16.7 km\nAbout this estimate\nSajha Yatayat\nR01_A\n\noutbound Â· Thankot â‡„ Airport\n\nBoard\nThankot\nShow 26 intermediate stops\nAlight\nTribhuvan Airport\nView journey details"", ""markers"": 28, ""tileImages"": 0}",PASS,screenshots/UI02-direct-desktop.png
+UI03,R01-R08,developer browser evidence capture,Existing localhost frontend; no request interception; GPS emulated for UI06,Transfer R16_A→R11_B at Narayan Gopal Chowk; 25 markers,Transfer R16_A→R11_B at Narayan Gopal Chowk; 25 markers,"{""id"": ""UI03"", ""text"": ""Your journey\n\n1 Transfer found. 25 stops.\n\n1 Transfer\nBus connections\n\nKapan â†’ Balaju\n\nEstimated travel time\nApprox. 50â€“60 min\nStops\n25 stops\nBus changes\n1 transfer\nApproximate bus distance\nApprox. 11.1 km\nAbout this estimate\nNepal Yatayat\nR16_A\n\noutbound Â· Kapan â‡„ Tikathali\n\nBoard\nKapan\nShow 17 intermediate stops\nAlight\nNarayan Gopal Chowk\nChange bus here\n\nTransfer at Narayan Gopal Chowk\n\nMahanagar Yatayat\nR11_B\n\ninbound Â· Ringroad\n\nBoard\nNarayan Gopal Chowk\nShow 5 intermediate stops\nAlight\nBalaju\nView journey details\nJourney stops\n\nSelect a stop to focus the map.\n\nKapan\nOrigin\nNarayan Gopal Chowk\nTransfer Â· Change bus here\nBalaju\nFinal destination\nShow all stops (25)"", ""markers"": 25}",PASS,screenshots/UI03-transfer-desktop.png
+UI04,R01-R08,developer browser evidence capture,Existing localhost frontend; no request interception; GPS emulated for UI06,390×844 viewport without horizontal overflow,390×844 viewport without horizontal overflow,"{""id"": ""UI04"", ""overflow"": false}",PASS,screenshots/UI04-transfer-mobile.png
+UI05,R01-R08,developer browser evidence capture,Existing localhost frontend; no request interception; GPS emulated for UI06,Identical-stop warning,Identical-stop warning,"{""id"": ""UI05"", ""text"": ""Journey search\n\nStarting location and destination cannot be the same.""}",PASS,screenshots/UI05-identical-stops.png
+UI06,R01-R08,developer browser evidence capture,Existing localhost frontend; no request interception; GPS emulated for UI06,Emulated Thankot coordinates select Thankot and show three nearest stops,Emulated Thankot coordinates select Thankot and show three nearest stops,"{""id"": ""UI06"", ""origin"": ""Thankot"", ""nearby"": ""Stops near you\n3 nearby stops\n\nWalking times use pedestrian directions where available. Location accuracy: Â±0 m.\n\nThankot\n< 1 min walk Â· Approx. 0 m\nApproximate walking estimate\nSelected origin\nThankot Checkpost\n~7 min walk Â· Approx. 553 m\nApproximate walking estimate\nUse this stop\nKharibot\n~7 min walk Â· Approx. 554 m\nApproximate walking estimate\nUse this stop\n\nIf walking directions are unavailable, distance uses a straight-line estimate. Actual walking distance and time may vary.""}",PASS,screenshots/UI06-nearest-emulated-gps.png
+BL01,R07,external validation,"External service, field or participant access needed",Live external basemap,Establish real-world/service result,No loaded tile images in direct screenshot; route overlay and markers are visible,BLOCKED,execution-logs/capture-observations.json
+BL02,R08-R10,external validation,"External service, field or participant access needed",Live geocoding and pedestrian provider success,Establish real-world/service result,No live provider success established; tests use controlled responses; do not infer key availability,BLOCKED,
+BL03,R03-R04,external validation,"External service, field or participant access needed",Current operational route validity,Establish real-world/service result,No field survey or operator validation supplied,BLOCKED,
+BL04,R11,external validation,"External service, field or participant access needed",Real participant usability evaluation,Establish real-world/service result,No participant recruitment or consent/testing records supplied,BLOCKED,
+API01,R10,independent HTTP API validation,Ephemeral loopback app listener; CSV read only,GET /api/routes/not-a-route body=None,404 Route not found,"404 {""message"": ""Route not found""}",PASS,execution-logs/independent-api-results.json
+API02,R10,independent HTTP API validation,Ephemeral loopback app listener; CSV read only,GET /api/stops/not-a-stop body=None,404 Stop not found,"404 {""message"": ""Stop not found""}",PASS,execution-logs/independent-api-results.json
+API03,R10,independent HTTP API validation,Ephemeral loopback app listener; CSV read only,GET /api/routes/not-a-route/stops body=None,404 Route not found,"404 {""message"": ""Route not found""}",PASS,execution-logs/independent-api-results.json
+API04,R10,independent HTTP API validation,Ephemeral loopback app listener; CSV read only,GET /api/no-such-endpoint body=None,404 Endpoint not found,"404 {""message"": ""Endpoint not found""}",PASS,execution-logs/independent-api-results.json
+API05,R10,independent HTTP API validation,Ephemeral loopback app listener; CSV read only,POST /api/walking-route body={},400 None,"400 {""message"": ""Walking routes require valid locations within Nepal.""}",PASS,execution-logs/independent-api-results.json
+API06,R10,independent HTTP API validation,Ephemeral loopback app listener; CSV read only,POST /api/walking-route body={invalid,400 Invalid request body,"400 {""message"": ""Invalid request body""}",PASS,execution-logs/independent-api-results.json
+UI07,Ledger R03-R06,additional browser evidence view; not new test suite,Existing localhost frontend; no request interception; original UI01?UI06 retained,"Choose first direct example; capture actual .result element at {'width': 1440, 'height': 1000}",Direct R01_A;28 stops;0 transfers,"Your journey
+
+Direct Route found. 28 stops.
+
+Direct Route
+Sajha Yatayat
+
+Thankot â†’ Tribhuvan Airport
+
+Estimated travel time
+Approx. 65â€“75 min
+Stops
+28 stops
+Bus changes
+0 transfers
+Approximate bus distance
+Approx. 16.7 km
+About this estimate
+Sajha Yatayat
+R01_A
+
+outbound Â· Thankot â‡„ Airport
+
+Board
+Thankot
+Show 26 intermediate stops
+Alight
+Tribhuvan Airport
+View journey details; PNG 1248x785",PASS,screenshots/UI07-direct-result-desktop.png
+UI08,Ledger R03-R06,additional browser evidence view; not new test suite,Existing localhost frontend; no request interception; original UI01?UI06 retained,"Choose second transfer example; capture actual .result element at {'width': 1440, 'height': 1000}",R16_A and R11_B;Narayan Gopal Chowk transfer;25 stops;1 transfer,"Your journey
+
+1 Transfer found. 25 stops.
+
+1 Transfer
+Bus connections
+
+Kapan â†’ Balaju
+
+Estimated travel time
+Approx. 50â€“60 min
+Stops
+25 stops
+Bus changes
+1 transfer
+Approximate bus distance
+Approx. 11.1 km
+About this estimate
+Nepal Yatayat
+R16_A
+
+outbound Â· Kapan â‡„ Tikathali
+
+Board
+Kapan
+Show 17 intermediate stops
+Alight
+Narayan Gopal Chowk
+Change bus here
+
+Transfer at Narayan Gopal Chowk
+
+Mahanagar Yatayat
+R11_B
+
+inbound Â· Ringroad
+
+Board
+Narayan Gopal Chowk
+Show 5 intermediate stops
+Alight
+Balaju
+View journey details; PNG 1248x1179",PASS,screenshots/UI08-transfer-result-desktop.png
+UI09,Ledger R03-R06,additional browser evidence view; not new test suite,Existing localhost frontend; no request interception; original UI01?UI06 retained,"Choose second transfer example; capture actual .result element at {'width': 390, 'height': 1000}",R16_A and R11_B;Narayan Gopal Chowk transfer;25 stops;1 transfer,"Your journey
+
+1 Transfer found. 25 stops.
+
+1 Transfer
+Bus connections
+
+Kapan â†’ Balaju
+
+Estimated travel time
+Approx. 50â€“60 min
+Stops
+25 stops
+Bus changes
+1 transfer
+Approximate bus distance
+Approx. 11.1 km
+About this estimate
+Nepal Yatayat
+R16_A
+
+outbound Â· Kapan â‡„ Tikathali
+
+Board
+Kapan
+Show 17 intermediate stops
+Alight
+Narayan Gopal Chowk
+Change bus here
+
+Transfer at Narayan Gopal Chowk
+
+Mahanagar Yatayat
+R11_B
+
+inbound Â· Ringroad
+
+Board
+Narayan Gopal Chowk
+Show 5 intermediate stops
+Alight
+Balaju
+View journey details; PNG 354x1234",PASS,screenshots/UI09-transfer-result-mobile.png
+UI10,Ledger R02,additional browser evidence view; not new test suite,Existing localhost frontend; no request interception; original UI01?UI06 retained,"Submit empty form; capture actual .result element at {'width': 1440, 'height': 1000}",Missing-origin warning,"Journey search
+
+Please select a starting location.; PNG 1248x187",PASS,screenshots/UI10-missing-origin-result.png
+UI11,Ledger R03-R06,additional print evidence view; not new test suite,Existing localhost frontend; no interception; prior ten originals retained,Choose first direct example; browser screenshot complete .result element at1024x900 viewport,R01_A;28 stops;0 transfers,"Your journey
+
+Direct Route found. 28 stops.
+
+Direct Route
+Sajha Yatayat
+
+Thankot â†’ Tribhuvan Airport
+
+Estimated travel time
+Approx. 65â€“75 min
+Stops
+28 stops
+Bus changes
+0 transfers
+Approximate bus distance
+Approx. 16.7 km
+About this estimate
+Sajha Yatayat
+R01_A
+
+outbound Â· Thankot â‡„ Airport
+
+Board
+Thankot
+Show 26 intermediate stops
+Alight
+Tribhuvan Airport
+View journey details;PNG 968x853",PASS,screenshots/UI11-direct-result-1024.png
+UI12,Ledger R03-R06,additional print evidence view; not new test suite,Existing localhost frontend; no interception; prior ten originals retained,Choose second transfer example; screenshot .result at1024x900,R16_A/R11_B;Narayan Gopal Chowk;25 stops;1 transfer,"Your journey
+
+1 Transfer found. 25 stops.
+
+1 Transfer
+Bus connections
+
+Kapan â†’ Balaju
+
+Estimated travel time
+Approx. 50â€“60 min
+Stops
+25 stops
+Bus changes
+1 transfer
+Approximate bus distance
+Approx. 11.1 km
+About this estimate
+Nepal Yatayat
+R16_A
+
+outbound Â· Kapan â‡„ Tikathali
+
+Board
+Kapan
+Show 17 intermediate stops
+Alight
+Narayan Gopal Chowk
+Change bus here
+
+Transfer at Narayan Gopal Chowk
+
+Mahanagar Yatayat
+R11_B
+
+inbound Â· Ringroad
+
+Board
+Narayan Gopal Chowk
+Show 5 intermediate stops
+Alight
+Balaju
+View journey details;PNG 968x1248",PASS,screenshots/UI12-transfer-result-1024.png
+RERUN-BROWSER,Existing suite / evidence cross-reference,repeat automated browser execution,Existing localhost frontend; Chrome; unchanged test fixtures,Run dissertation-report-playwright.config.mjs with HTML and JSON reporters,All 40 existing browser cases pass,40 passed; 0 failed; 0 flaky; 0 skipped; no runner errors; 83.839 seconds,PASS,execution-logs/browser-report-rerun.json
+TR01,Existing suite / evidence cross-reference,test-report screenshot evidence,Existing localhost frontend; Chrome; unchanged test fixtures,Open generated unmodified HTML report; capture actual viewport,Report displays all40/passed40/failed0/flaky0/skipped0,Visible summary matched rerun JSON; screenshot captured,PASS,screenshots/TR01-browser-test-report.png
+TR02,Existing suite / evidence cross-reference,test-step screenshot evidence,Existing localhost frontend; Chrome; unchanged test fixtures,Open two-transfer case search.spec.js:42 (original ledger B39); capture actual steps,"Executed actions and passing assertions for 3 legs,2 transfers/markers and expanded stops",Green passing steps recorded in native report; screenshot captured,PASS,screenshots/TR02-two-transfer-test-result.png
+TR03,Existing suite / evidence cross-reference,enlarged native report evidence view; no additional test,Existing 5 November native HTML report only; no application/test run,Open existing generated native report at547x600CSS viewport and150% native display scale; unfiltered summary,All40;Passed40;Failed0;Flaky0;Skipped0,All40;Passed40;Failed0;Flaky0;Skipped0; genuine viewport captured6 November; source execution5 November; no result/text edits,PASS,screenshots/TR03-enlarged-native-report-summary.png
+TR04,Existing suite / evidence cross-reference,enlarged native report evidence view; no additional test,Existing 5 November native HTML report only; no application/test run,Open existing generated native report at547x600CSS viewport and150% native display scale; open B39 and native Filter steps=Expect,B39 existing report; native Expect filter shows five passing assertion rows; all suite status counts visible,B39 existing report; native Expect filter shows five passing assertion rows; all suite status counts visible; genuine viewport captured6 November; source execution5 November; no result/text edits,PASS,screenshots/TR04-enlarged-native-assertions.png

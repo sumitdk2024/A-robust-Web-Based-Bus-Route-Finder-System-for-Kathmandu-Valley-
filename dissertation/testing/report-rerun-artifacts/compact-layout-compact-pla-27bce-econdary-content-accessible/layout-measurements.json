@@ -1,0 +1,162 @@
+[
+  {
+    "width": 1920,
+    "height": 1080,
+    "search": {
+      "top": 246,
+      "left": 336,
+      "width": 526.3125,
+      "height": 566.265625
+    },
+    "result": {
+      "top": 896.328125,
+      "left": 336,
+      "width": 1248,
+      "height": 783.390625
+    },
+    "map": {
+      "top": 246,
+      "left": 886.3125,
+      "width": 697.6875,
+      "height": 626.328125
+    },
+    "mapCanvas": {
+      "top": 358.1875,
+      "left": 887.3125,
+      "width": 695.6875,
+      "height": 420
+    },
+    "overflow": false,
+    "assistantClosedHeight": 67,
+    "assistantExpandedHeight": 383,
+    "savedByCollapsingAssistant": 316
+  },
+  {
+    "width": 1440,
+    "height": 900,
+    "search": {
+      "top": 246,
+      "left": 96,
+      "width": 526.3125,
+      "height": 566.265625
+    },
+    "result": {
+      "top": 896.328125,
+      "left": 96,
+      "width": 1248,
+      "height": 783.390625
+    },
+    "map": {
+      "top": 246,
+      "left": 646.3125,
+      "width": 697.6875,
+      "height": 626.328125
+    },
+    "mapCanvas": {
+      "top": 358.1875,
+      "left": 647.3125,
+      "width": 695.6875,
+      "height": 420
+    },
+    "overflow": false,
+    "assistantClosedHeight": 67,
+    "assistantExpandedHeight": 383,
+    "savedByCollapsingAssistant": 316
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "search": {
+      "top": 246,
+      "left": 59,
+      "width": 526.3125,
+      "height": 566.265625
+    },
+    "result": {
+      "top": 896.328125,
+      "left": 59,
+      "width": 1248,
+      "height": 783.390625
+    },
+    "map": {
+      "top": 246,
+      "left": 609.3125,
+      "width": 697.6875,
+      "height": 626.328125
+    },
+    "mapCanvas": {
+      "top": 358.1875,
+      "left": 610.3125,
+      "width": 695.6875,
+      "height": 420
+    },
+    "overflow": false,
+    "assistantClosedHeight": 67,
+    "assistantExpandedHeight": 383,
+    "savedByCollapsingAssistant": 316
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "search": {
+      "top": 238,
+      "left": 28,
+      "width": 712,
+      "height": 558.265625
+    },
+    "result": {
+      "top": 1366.59375,
+      "left": 28,
+      "width": 712,
+      "height": 852.234375
+    },
+    "map": {
+      "top": 816.265625,
+      "left": 28,
+      "width": 712,
+      "height": 526.328125
+    },
+    "mapCanvas": {
+      "top": 928.453125,
+      "left": 29,
+      "width": 710,
+      "height": 320
+    },
+    "overflow": false,
+    "assistantClosedHeight": 67,
+    "assistantExpandedHeight": 383,
+    "savedByCollapsingAssistant": 316
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "search": {
+      "top": 252.859375,
+      "left": 18,
+      "width": 354,
+      "height": 545.875
+    },
+    "result": {
+      "top": 1413.65625,
+      "left": 18,
+      "width": 354,
+      "height": 853.875
+    },
+    "map": {
+      "top": 818.734375,
+      "left": 18,
+      "width": 354,
+      "height": 570.921875
+    },
+    "mapCanvas": {
+      "top": 945.515625,
+      "left": 19,
+      "width": 352,
+      "height": 320
+    },
+    "overflow": false,
+    "assistantClosedHeight": 91,
+    "assistantExpandedHeight": 407,
+    "savedByCollapsingAssistant": 316
+  }
+]

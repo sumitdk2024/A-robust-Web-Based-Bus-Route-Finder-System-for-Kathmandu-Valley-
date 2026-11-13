@@ -1,0 +1,10 @@
+﻿issue_type,affected_stop_ids,status,action_taken,note
+possible_alias,baadbhanjyan(thankot) | thankot(baadbhanjyan),review_required,No automatic merge or correction,Same/similar Thankot-Baad Bhanjyang naming in opposite order.
+possible_alias,kharibot | kharibot(thankot),review_required,No automatic merge or correction,Potentially same or nearby Kharibot naming; verify before merging.
+possible_alias,ratamakai_chowk | rata_makai_chowk,review_required,No automatic merge or correction,Very similar IDs and same coordinates in supplied stop list.
+possible_alias,chapali | chapali_ghumti,review_required,No automatic merge or correction,Similar Chapali naming; may be distinct stops.
+possible_alias,narayanthan | narayantar,review_required,No automatic merge or correction,Very similar names in Gokarneshwor corridor; verify manually.
+possible_alias,teaching_hospital | tu_teaching,review_required,No automatic merge or correction,Both refer to Teaching Hospital area and share supplied coordinates.
+possible_alias,satdobato | satdobato(lagankhel side) | satdobato(godawari side),review_required,No automatic merge or correction,May represent directional boarding points rather than duplicates.
+possible_alias,gwarko | gwarko_chowk(imadol side),review_required,No automatic merge or correction,Could be distinct boarding points at/near Gwarko.
+possible_alias,balkumari_pul | balkumari_pool,review_required,No automatic merge or correction,Spelling/meaning ambiguity; preserve separately until verified.

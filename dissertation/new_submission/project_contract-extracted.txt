@@ -1,0 +1,171 @@
+DMU PROJECT CONTRACT
+Student Information
+
+Student Name: Sumit Rai
+P-Number: P2863781
+Programme: Computer Science (BSc Hons)
+Email Address: P2863781@my365.dmu.ac.uk
+
+Project Title: A robust Web-Based Bus Route Finder System for Kathmandu Valley
+
+Project Proposer: Sumit Rai
+Supervisor: Syed Muhammad Ali
+
+
+
+
+
+
+INTRODUCTION
+I am developing a web-based bus route finder system for Kathmandu Valley. As public transport has always been a source of confusion to me personally and from what I have observed most people are also struggling with it. Locating the right bus, understanding where it is going, and figuring out which route to take is a challenging task, especially for new users or visitors who are unfamiliar with the area. Most of the time people depend on asking others or guessing the routes and this leads to wasting time and condition of frustration.
+
+
+Through this project, a simple web platform will be developed where users can provide their point of origin and destination and the system will come up with the most appropriate bus routes. It might seem straightforward but the steps to be taken include handling the route data, creating a user-friendly interface, and embedding the algorithms to figure out the optimal paths.In the end, I will have not only a working system but also documentation explaining how such a system could be implemented in real-world transportation systems.
+
+PROJECT BACKGROUND
+Currently, public transport is one of the major modes of travel in Kathmandu Valley but it does not have proper digital support yet.
+Current Problems in Kathmandu Public Transport:
+Passengers often depend on conductors or other passengers to know where buses go. This makes it difficult for new users to travel confidently.
+Bus stops are not clearly defined or digitally mapped. Many buses stop at informal locations, which adds to confusion.
+There is no system to plan routes in advance. People cannot check which bus to take before leaving home, leading to wasted time and inefficient travel.
+Tourists and people from outside the valley struggle the most, as they are unfamiliar with routes and language barriers make it harder.
+
+Why This Matters:
+
+People spend unnecessary time figuring out routes. Students and workers may be late because they take incorrect buses. Public transport becomes less attractive compared to private vehicles, increasing traffic congestion.
+This is not just inconvenient—it affects productivity and daily life. A simple digital solution could make a big difference.
+
+Why Now:
+
+With increasing internet access and smartphone usage in Nepal, a web-based system is practical and useful. Digital mapping tools are available, making it easier to build such systems. This project can demonstrate how technology can improve public transportation.
+
+
+
+AIMS
+The main aim is to develop a functional web-based bus route finder system that helps users easily navigate public transportation in Kathmandu Valley. I also aim to understand how
+
+route optimization works and how user-friendly systems can improve daily commuting. By the end, I will have a working prototype and documentation showing how such a system could be implemented on a larger scale.
+
+
+
+OBJECTIVES
+Research Current Transportation Problems:
+Investigate the current challenges faced by public transportation users in Kathmandu Valley by analyzing recent published surveys, academic studies, government reports, and transport-related research. (Deliverable: Current State Analysis Report – around 3000 words)
+Define System Requirements:
+Identify necessary features such as route search, map display, and user input. Consider usability and system constraints. (Deliverable: Requirements Document)
+Study Existing Solutions:
+Research how route finder systems work in other countries and applications like Google Maps. Identify best practices. (Deliverable: Best Practice Report – around 2500 words)
+Design the System:
+Plan system architecture, database structure, and user interface design. (Deliverable: Design Document)
+Develop the System:
+Build the web application with route search functionality, database integration, and map visualization. (Deliverable: Working Application)
+Test the System:
+Test accuracy, usability, and performance. Collect feedback from users. (Deliverable: Testing Report)
+Evaluate Results:
+Analyze system performance and suggest improvements. (Deliverable: Evaluation Report – around 2500 words)
+
+DELIVERABLES
+Current State Analysis Report (3000 words)
+Requirements Document
+Best Practice Research Report (2500 words)
+System Design Document
+Fully working Bus Route Finder Web Application
+Testing Report with user feedback
+Evaluation Report (2500 words)
+User manual
+Implementation guide
+Final dissertation (8000–10000 words)
+
+
+SOURCES OF INFORMATION
+Transport Data Sources:
+Local bus route information 
+OpenStreetMap / Google Maps data
+Public transport-related websites
+
+User Feedback:
+
+Discuss with daily commuters online 
+Online discussions and forums
+Social media feedback
+
+Technical Research:
+
+Route optimization algorithms (e.g., shortest path)
+Web development technologies
+Mapping APIs
+
+Books and Resources:
+
+Web application development
+Database design
+
+User experience design
+
+
+RISK ANALYSIS
+
+Risk
+Likelihood
+Impact
+What I’ll Do
+Running out of time
+High
+High
+Focus on core features first
+Incomplete route data
+Medium
+High
+Use multiple data sources
+System complexity
+Medium
+High
+Keep design simple
+Technical issues
+Medium
+Medium
+Test frequently and debug
+early
+Low user feedback
+Medium
+Medium
+Ask friends and classmates
+
+SCHEDULE OF ACTIVITIES
+WEEK 1–3: RESEARCH AND PLANNING
+
+Study transport system
+Collect user feedback
+Define system requirements
+
+WEEK 4–5: DESIGN
+Design system structure
+Plan database and interface
+
+WEEK 6–9: DEVELOPMENT
+Build frontend and backend
+Implement route finding logic
+Integrate maps
+
+WEEK 10–11: TESTING
+
+Test system functionality
+Collect user feedback
+
+Fix issues
+
+WEEK 12: FINAL SUBMISSION
+
+Write evaluation
+Prepare final report
+Submit project
+
+
+PROJECT APPROVAL
+STUDENT SIGNATURE:
+NAME: Sumit Rai SIGNATURE: Sumit 
+
+Supervisor Signature :
+
+
+DATE: 28/8/2026

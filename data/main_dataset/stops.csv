@@ -1,0 +1,295 @@
+﻿stop_id,stop_name,latitude,longitude,used_in_route_records,route_stop_occurrences,dataset_role,source_type,verification_status
+baadbhanjyan(thankot),Baadbhanjyan (Thankot),27.696,85.2175,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kharibot,Kharibot,27.689,85.227,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+thankot,Thankot,27.6855,85.231,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+thankot_checkpost,Thankot Checkpost,27.6845,85.2365,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+gurjudhara,Gurjudhara,27.6835,85.245,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+satungal,Satungal,27.683,85.258,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+balkhu_pul,Balkhu Pul,27.684,85.277,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+naikap,Naikap,27.687,85.27,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tinthana,Tinthana,27.691,85.274,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+dhungeadda,Dhungeadda,27.6945,85.277,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kalanki,Kalanki,27.6965,85.281,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kalanki_mandir,Kalanki Mandir,27.6972,85.283,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+ravi_bhawan,Ravi Bhawan,27.6985,85.292,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+soltimod,Soltimod,27.6998,85.298,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kalimati,Kalimati,27.7015,85.304,5,5,main_only_dataset,previous_student_project_dataset,not_independently_verified
+teku,Teku,27.701,85.309,5,5,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tripureshwor,Tripureshwor,27.701,85.3115,11,11,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sundhara,Sundhara,27.7023,85.3147,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+ratnapark,Ratna Park,27.706,85.314,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bhrikutimandap,Bhrikutimandap,27.7053,85.3128,10,10,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bhadrakali,Bhadrakali,27.7035,85.3135,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+maitighar,Maitighar,27.6995,85.3198,14,14,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bijuli_bazar,Bijuli Bazar,27.6978,85.3275,12,12,main_only_dataset,previous_student_project_dataset,not_independently_verified
+new_baneshwor,New Baneshwor,27.696,85.3355,14,14,main_only_dataset,previous_student_project_dataset,not_independently_verified
+civil_hospital,Civil Hospital,27.694,85.339,14,14,main_only_dataset,previous_student_project_dataset,not_independently_verified
+shantinagar,Shantinagar,27.6912,85.3425,14,14,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tinkune_chowk,Tinkune Chowk,27.6878,85.3455,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tinkune,Tinkune,27.6862,85.347,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sinamangal,Sinamangal,27.694,85.3558,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+airport,Tribhuvan Airport,27.6966,85.3591,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+babar_mahal,Babar Mahal,27.7013,85.3218,10,10,main_only_dataset,previous_student_project_dataset,not_independently_verified
+thankot(baadbhanjyan),Thankot (Baadbhanjyan),27.696,85.2175,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+naya_bus_park,Naya Bus Park,27.7358,85.3043,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+gongabu_chowk,Gongabu Chowk,27.7328,85.3058,8,8,main_only_dataset,previous_student_project_dataset,not_independently_verified
+samakhusi,Samakhusi,27.7295,85.305,8,8,main_only_dataset,previous_student_project_dataset,not_independently_verified
+talim_kendra,Talim Kendra,27.7262,85.3042,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+basundhara_chauki,Basundhara Chauki,27.723,85.3038,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+basundhara,Basundhara,27.721,85.3042,8,8,main_only_dataset,previous_student_project_dataset,not_independently_verified
+us_embassy,U.S. Embassy,27.7193,85.3055,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+teaching_hospital,Teaching Hospital,27.7172,85.3055,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+petrol_pump-panipokhari,Petrol Pump Panipokhari,27.7155,85.3068,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+lazimpat,Lazimpat,27.7128,85.3098,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+jamal,Jamal,27.709,85.3145,10,10,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sahid_gate,Sahid Gate,27.7038,85.3132,8,8,main_only_dataset,previous_student_project_dataset,not_independently_verified
+thapathali,Thapathali,27.6988,85.3115,10,10,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kupondole,Kupondole,27.697,85.3098,13,13,main_only_dataset,previous_student_project_dataset,not_independently_verified
+harihar_bhawan,Harihar Bhawan,27.6952,85.308,11,11,main_only_dataset,previous_student_project_dataset,not_independently_verified
+pulchowk,Pulchowk,27.6935,85.3062,13,13,main_only_dataset,previous_student_project_dataset,not_independently_verified
+jawalakhel,Jawalakhel,27.6912,85.3048,13,13,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kumaripati,Kumaripati,27.6888,85.3028,8,8,main_only_dataset,previous_student_project_dataset,not_independently_verified
+lagankhel,Lagankhel,27.6865,85.301,16,16,main_only_dataset,previous_student_project_dataset,not_independently_verified
+lainchour,Lainchour,27.7112,85.312,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+panipokhari,Panipokhari,27.7148,85.3072,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+narayan_gopal_chowk,Narayan Gopal Chowk,27.7198,85.3348,11,11,main_only_dataset,previous_student_project_dataset,not_independently_verified
+budhanilkantha,Budhanilkantha,27.78,85.3618,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+narayanthan_chowk-budhanilkantha,Narayanthan Chowk,27.7752,85.3598,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+deuba_chowk,Deuba Chowk,27.7722,85.357,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+naya_chowk,Naya Chowk,27.77,85.3548,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+rudreshwor_chowk,Rudreshwor Chowk,27.7675,85.352,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chapali_ghumti,Chapali Ghumti,27.765,85.35,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+ganesh_chowk,Ganesh Chowk,27.762,85.3478,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+hattigauda_chowk,Hattigauda Chowk,27.759,85.3455,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+golfutar,Golfutar,27.756,85.3428,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+neuro_hospital,Neuro Hospital,27.7528,85.3405,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+ganga_lal_hospital,Ganga Lal Hospital,27.7498,85.3382,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bansbari,Bansbari,27.7468,85.3358,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chakrapat_bus_stop,Chakrapat Bus Stop,27.725,85.3348,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+police_academy,Police Academy,27.7165,85.3062,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+radisson_hotel,Radisson Hotel,27.714,85.3088,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+RNAC,RNAC,27.7028,85.312,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chapali,Chapali,27.7655,85.3502,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+nagdhunga,Nagdhunga,27.701,85.212,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bafal,Bafal,27.7018,85.2872,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sitapaila,Sitapaila,27.7068,85.2848,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+swayambhu,Swayambhu,27.7148,85.29,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sano_bharyang,Sano Bharyang,27.718,85.2952,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+dhungedhara,Dhungedhara,27.7205,85.299,5,5,main_only_dataset,previous_student_project_dataset,not_independently_verified
+banasthali,Banasthali,27.7228,85.3012,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+balaju,Balaju,27.7258,85.3025,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+machha_pokhari,Machha Pokhari,27.7295,85.3038,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+thulo_bharyang,Thulo Bharyang,27.716,85.2928,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+ekantakuna,Ekantakuna,27.6758,85.3012,9,9,main_only_dataset,previous_student_project_dataset,not_independently_verified
+vaisnavi_devi,Vaishnavi Devi,27.672,85.2982,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+nakhu,Nakhu,27.6688,85.296,8,8,main_only_dataset,previous_student_project_dataset,not_independently_verified
+nakhu_pul,Nakhu Pul,27.6655,85.2952,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+phulbari_marg,Phulbari Marg,27.662,85.2988,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+charghari,Charghari,27.658,85.3018,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bhaisepati_chowk,Bhaisepati Chowk,27.6545,85.3045,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mahila_ghar,Mahila Ghar,27.651,85.3065,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kalika,Kalika,27.6472,85.3082,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+khokana_dobato,Khokana Dobato,27.6438,85.3098,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sorahkhutte,Sorahkhutte,27.6398,85.3108,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bungamati,Bungamati,27.6355,85.312,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+satdobato,Satdobato,27.679,85.3228,15,15,main_only_dataset,previous_student_project_dataset,not_independently_verified
+hattiban,Hattiban,27.6745,85.3298,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+harishiddhi,Harisiddhi,27.6702,85.3398,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+thaiba,Thaiba,27.6638,85.3478,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+badegaun,Badegaun,27.6598,85.3535,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+toukhel,Toukhel,27.6178,85.3808,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+godawari,Godawari,27.5975,85.3885,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chapagaun_dobato,Chapagaun Dobato,27.666,85.3192,8,8,main_only_dataset,previous_student_project_dataset,not_independently_verified
+khumaltar,Khumaltar,27.6638,85.3165,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+dholahiti,Dholahiti,27.661,85.3142,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sunakothi,Sunakothi,27.6578,85.312,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+thecho,Thecho,27.654,85.3098,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chapagaun,Chapagaun,27.648,85.3062,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+pyangaun,Pyangaun,27.6428,85.3042,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tahakhel,Tahakhel,27.6382,85.3025,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tikabhairav,Tikabhairav,27.6338,85.301,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+lele,Lele,27.6148,85.3252,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+gwarko,Gwarko,27.6808,85.3398,13,13,main_only_dataset,previous_student_project_dataset,not_independently_verified
+ratamakai_chowk,Rata Makai Chowk,27.6682,85.3448,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+imadol_krishna_mandir,Imadol Krishna Mandir,27.666,85.3472,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+gabisa,Gabisa,27.6578,85.3618,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+rajkulo,Rajkulo,27.6498,85.3648,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+goalbhatta,Goalbhatta,27.6398,85.3695,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sanagaun,Sanagaun,27.6322,85.3728,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+lubhu,Lubhu,27.6258,85.3748,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+lamatar,Lamatar,27.6175,85.3785,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+dhungin,Dhungin,27.6098,85.3818,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kwo_lachhi,Kwo Lachhi,27.6288,85.3738,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+imadol_kamalpokhari,Imadol Kamalpokhari,27.6648,85.349,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+imadol_kharibot,Imadol Kharibot,27.6658,85.346,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kist_hospital,KIST Hospital,27.6672,85.344,5,5,main_only_dataset,previous_student_project_dataset,not_independently_verified
+satdobato(lagankhel side),Satdobato (Lagankhel Side),27.6792,85.3218,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+satdobato(godawari side),Satdobato (Godawari Side),27.6788,85.3235,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+dhapakhel_dobato,Dhapakhel Dobato,27.6658,85.3562,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sumeru_hospital,Sumeru Hospital,27.664,85.3578,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+GEMS_school,GEMS School,27.6622,85.3595,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tewa,Tewa,27.66,85.361,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+pashupati_temple(dhapakhel),Pashupati Temple (Dhapakhel),27.6578,85.3628,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tinkune(dhapakhel),Tinkune (Dhapakhel),27.6558,85.3645,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+nagdaha,Nagdaha,27.653,85.3668,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+ganesh_mandir,Ganesh Mandir,27.6505,85.3688,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+jharuwarashi_pipalbot_chowk,Jharuwarashi Pipalbot Chowk,27.6478,85.3708,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+santaneshwor_mahadev_bus_stop,Santaneshwor Mahadev Bus Stop,27.6452,85.3725,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+satdobato_swimming_pool,Satdobato Swimming Pool,27.6782,85.3255,10,10,main_only_dataset,previous_student_project_dataset,not_independently_verified
+B&B_hospital,B&B Hospital,27.6778,85.3305,5,5,main_only_dataset,previous_student_project_dataset,not_independently_verified
+gwarko_chowk(imadol side),Gwarko Chowk (Imadol Side),27.679,85.3358,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+rata_makai_chowk,Rata Makai Chowk,27.6682,85.3448,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+imadol_pipalbot,Imadol Pipalbot,27.667,85.3458,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+manakamana_mandir(kathmandu),Manakamana Mandir,27.6648,85.35,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mahendra_adarsha_school,Mahendra Adarsha School,27.672,85.3582,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+ansari_medical,Ansari Medical,27.6738,85.3598,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+pawan_prakriti_school,Pawan Prakriti School,27.6752,85.3612,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tikathali_tinkune,Tikathali Tinkune,27.6768,85.3628,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tikathali_bus_stop,Tikathali Bus Stop,27.678,85.3642,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+talchikhel,Talchikhel,27.672,85.317,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mahalaxmisthan,Mahalaxmisthan,27.6692,85.3138,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kusunti,Kusunti,27.666,85.31,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+dhobigat,Dhobigat,27.6728,85.301,7,7,main_only_dataset,previous_student_project_dataset,not_independently_verified
+star_hospital,Star Hospital,27.6748,85.3038,7,7,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sanepa,Sanepa,27.678,85.3072,7,7,main_only_dataset,previous_student_project_dataset,not_independently_verified
+balkhu,Balkhu,27.6858,85.2872,8,8,main_only_dataset,previous_student_project_dataset,not_independently_verified
+advanced_college_of_engineering,Advance College of Engineering,27.6908,85.2852,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+khasi_bazar,Khasi Bazar,27.6938,85.284,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kalanki_makalu_stop,Kalanki Makalu Stop,27.6958,85.282,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chiray_hospital,Chiray Hospital,27.7215,85.3348,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chhapal_karkhana,Chhapal Karkhana,27.7238,85.3368,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+dhumbarahi,Dhumbarahi,27.7248,85.3388,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+gopi_krishna,Gopi Krishna,27.7262,85.3412,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chabahil,Chabahil,27.7228,85.345,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mitrapark,Mitrapark,27.7192,85.3495,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+jay bageshwori,Jay Bageshwori,27.715,85.3538,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+gaushala,Gaushala,27.7098,85.358,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+pashupati_temple,Pashupati Temple,27.71,85.3488,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tilganga_eye_hospital,Tilganga Eye Hospital,27.7068,85.3548,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sinamangal_Ooralo,Sinamangal Ooralo,27.6952,85.3518,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+koteshwor_bhaktapur_stop,Koteshwor Bhaktapur Stop,27.6882,85.3528,10,10,main_only_dataset,previous_student_project_dataset,not_independently_verified
+koteshwor,Koteshwor,27.687,85.3512,17,17,main_only_dataset,previous_student_project_dataset,not_independently_verified
+koteshwor_bhatbhateni,Koteshwor Bhatbhateni,27.6858,85.3498,12,12,main_only_dataset,previous_student_project_dataset,not_independently_verified
+balkumari_pul,Balkumari Pul,27.6842,85.3482,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+balkumari,Balkumari,27.6828,85.3468,12,12,main_only_dataset,previous_student_project_dataset,not_independently_verified
+balkumari_kharibot,Balkumari Kharibot,27.6812,85.345,10,10,main_only_dataset,previous_student_project_dataset,not_independently_verified
+royal_tulip_hotel,Royal Tulip Hotel,27.68,85.3432,5,5,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kamalbinayak,Kamalbinayak,27.6715,85.4285,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chaymasing,Chaymasing,27.6725,85.4212,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+dhara,Dhara,27.6728,85.4152,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+jagati,Jagati,27.6732,85.4068,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+suryabinayak,Suryabinayak,27.6718,85.3985,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chundevi,Chundevi,27.6762,85.3925,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sallaghari,Sallaghari,27.6785,85.3875,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+srijan_nagar,Srijan Nagar,27.6798,85.3835,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+radhe radhe,Radhe Radhe,27.6812,85.3798,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+thimi,Thimi,27.6832,85.3758,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tuberculosis_hospital,Tuberculosis Hospital,27.6848,85.3715,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chardobato,Chardobato,27.6855,85.3668,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+gatthagar,Gatthagar,27.686,85.3618,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kaushaltar,Kaushaltar,27.6865,85.3572,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+lockanthali,Lockanthali,27.6868,85.3538,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+jadibutti,Jadibutti,27.687,85.35,12,12,main_only_dataset,previous_student_project_dataset,not_independently_verified
+subhidhanagar,Subhidhanagar,27.689,85.3472,11,11,main_only_dataset,previous_student_project_dataset,not_independently_verified
+balkumari_pool,Balkumari Pool,27.6835,85.3475,8,8,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tudikhel,Tudikhel,27.7065,85.3142,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+singha_durbar,Singha Durbar,27.6982,85.3188,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+supreme_court,Supreme Court,27.699,85.3198,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+jawalakhel_chowk,Jawalakhel Chowk,27.6905,85.304,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kantipur_park_thapathali,Kantipur Park Thapathali,27.6992,85.3108,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chhapro,Chhapro,27.691,85.3808,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+pepsicola,Pepsi Cola,27.6932,85.3828,6,6,main_only_dataset,previous_student_project_dataset,not_independently_verified
+pepsicola_chowk,Pepsi Cola Chowk,27.6945,85.3842,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+pepsicola_town_planning,Pepsi Cola Town Planning,27.6958,85.3858,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sunrise_chowk,Sunrise Chowk,27.6972,85.3872,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+suncity,Suncity,27.6985,85.3888,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+laure_chowk,Laure Chowk,27.7,85.3902,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+harhar_mahadev_temple,Harhar Mahadev Temple,27.7018,85.3918,4,4,main_only_dataset,previous_student_project_dataset,not_independently_verified
+harhar_mahadev,Harhar Mahadev,27.7025,85.3928,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+gobal_ime_kuleshwor,Gobal IME Kuleshwor,27.6952,85.2985,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+nabil_kuleshwor,Nabil Kuleshwor,27.6942,85.297,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kitab_kalam_kuleshwor,Kitab Kalam Kuleshwor,27.6932,85.2958,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kapan,Kapan,27.7388,85.3562,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+banglamukhi_kapan,Banglamukhi Kapan,27.7368,85.3545,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+dhaulagiri_chowk,Dhaulagiri Chowk,27.7348,85.3528,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+aani_gumba_kapan,Aani Gumba Kapan,27.7328,85.351,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kharibot_faika,Kharibot Faika,27.7308,85.349,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sanima_bank_faika,Sanima Bank Faika,27.729,85.3472,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+faika_chowk,Faika Chowk,27.7268,85.345,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mandala_banquet_mahankal,Mandala Banquet Mahankal,27.7248,85.3432,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bajranagar,Bajranagar,27.723,85.3418,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mugum_gumbha_mahankal,Mugum Gumbha Mahankal,27.7212,85.3402,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+ramsterdam_cafe_mahankal,Ramsterdam Cafe Mahankal,27.72,85.339,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mahankal,Mahankal,27.7188,85.3378,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chuchhepati,Chuchhepati,27.7222,85.3468,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+shanti_goreto_chabahil,Shanti Goreto Chabahil,27.7218,85.3455,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+maiju_bahal_chabahil,Maiju Bahal Chabahil,27.7222,85.3442,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tu_teaching,TU Teaching Hospital,27.7172,85.3055,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+baluwatar,Baluwatar,27.7268,85.3322,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kalika_tower_baluwatar,Kalika Tower Baluwatar,27.7258,85.3312,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+rastrya_bank_baluwatar,Rastra Bank Baluwatar,27.7248,85.3302,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+naxal_bbsm,Naxal BBSM,27.7238,85.329,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tangal,Tangal,27.7228,85.3278,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+naxal,Naxal,27.7218,85.3268,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+narayan_chaur,Narayan Chaur,27.7198,85.3248,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+nagpokhari,Nagpokhari,27.7178,85.323,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+hattisar,Hattisar,27.7158,85.3215,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+putalisadak,Putalisadak,27.7108,85.319,3,3,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sankhar_dev_campus,Sankhar Devi Campus,27.7095,85.3182,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+new_plaza,New Plaza,27.7082,85.3172,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+anamnagar,Anamnagar,27.7068,85.3162,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+hanumansthan,Hanumansthan,27.7055,85.3152,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+anamnagar_bbsm,Anamnagar BBSM,27.7042,85.3142,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+thapagaun,Thapagaun,27.7018,85.3228,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+baneshwor_panitanki,Baneshwor Panitanki,27.7005,85.3285,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+monohara_corridor_police_section,Manohara Corridor Police Section,27.6828,85.372,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+boje_pokhari_bridge_manohara,Boje Pokhari Bridge Manohara,27.684,85.3752,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mahalaxmi_tikathali,Mahalaxmi Tikathali,27.6852,85.378,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bhagwati_mandir_tikathali,Bhagwati Mandir Tikathali,27.6862,85.3805,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+jhikuchu_tikathali,Jhikuchu Tikathali,27.6872,85.3828,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bigmart_tikathali,Bigmart Tikathali,27.688,85.3848,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+panitanki_tikathali,Panitanki Tikathali,27.6888,85.3868,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+tikathali,Tikathali,27.6898,85.3888,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mulpani_nepal_yatayat,Mulpani (Nepal Yatayat),27.7075,85.4025,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+milan_chowk,Milan Chowk,27.7065,85.4005,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+baba_chowk,Baba Chowk,27.7055,85.3985,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+godhargaun,Godhargaun,27.7042,85.3962,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+gaurinath_chowk,Gaurinath Chowk,27.7028,85.394,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+godhargaun_chowk,Godhargaun Chowk,27.7015,85.3918,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mahantar,Mahantar,27.7002,85.3898,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+dotel_dairy,Dotel Dairy,27.699,85.3878,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+hatti_dada,Hatti Dada,27.6978,85.3858,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sundari_chowk,Sundari Chowk,27.6965,85.3838,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+khahare,Khahare,27.6952,85.382,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+khahare_bus_stop,Khahare Bus Stop,27.6942,85.3808,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+seto_ghar,Seto Ghar,27.6928,85.3795,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+skywalk_tower,Skywalk Tower,27.7082,85.3148,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+ghantaghar,Ghantaghar,27.7088,85.3152,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+riddhi_siddhi_harisiddhi,Riddhi Siddhi Harisiddhi,27.6485,85.3428,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+lakhur_chowk,Lakhur Chowk,27.6498,85.3452,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+harisiddhi_naya_basti,Harisiddhi Naya Basti,27.6512,85.3472,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+siddhipur_drinking_water,Siddhipur Drinking Water,27.6528,85.3498,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+siddhipur_height_gate,Siddhipur Height Gate,27.6545,85.352,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+thasikwa_falcha,Thasikwa Falcha,27.656,85.3538,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+buddha_pokhari,Buddha Pokhari,27.6575,85.3558,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+imadol_tempo_park,Imadol Tempo Park,27.6605,85.3548,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mahalaxmi_municipality,Mahalaxmi Municipality,27.6618,85.3532,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+riddhi_siddhi_chandragiri,Riddhi Siddhi Chandragiri,27.6972,85.2145,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kharibot(thankot),Kharibot (Thankot),27.689,85.227,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+kalanki_chowk,Kalanki Chowk,27.6968,85.2818,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bista_gaun,Bista Gaun,27.7015,85.3958,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+christian_school,Christian School,27.7028,85.3975,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mulpani_volleyball_centre,Mulpani Volleyball Centre,27.7042,85.3992,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mulpani_chaur,Mulpani Chaur,27.7055,85.4008,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+sunrise_bakery_mulpani,Sunrise Bakery Mulpani,27.7065,85.4018,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+riddhi_siddhi_mulpani,Riddhi Siddhi Mulpani,27.7075,85.4028,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+mulpani_pipalbot,Mulpani Pipalbot,27.7048,85.3998,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+chuchepati,Chuchepati,27.7222,85.3468,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+bouddha_stupa,Bouddha Stupa,27.7215,85.362,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+jorpati,Jorpati,27.7268,85.3698,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+narayanthan,Narayanthan,27.7305,85.3748,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified
+dakshindhoka,Dakshindhoka,27.7348,85.3792,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+jaya_multiple_campus,Jaya Multiple Campus,27.7388,85.3832,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+makalbari_bridge,Makalbari Bridge,27.7428,85.3872,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+gokarneshwor,Gokarneshwor,27.7468,85.3908,2,2,main_only_dataset,previous_student_project_dataset,not_independently_verified
+narayantar,Narayantar,27.7308,85.375,1,1,main_only_dataset,previous_student_project_dataset,not_independently_verified

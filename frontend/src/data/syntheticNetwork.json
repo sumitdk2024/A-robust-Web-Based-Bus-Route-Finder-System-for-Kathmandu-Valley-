@@ -1,0 +1,2614 @@
+{
+  "routes": [
+    {
+      "route_id": "SYN01",
+      "route_name": "Ratna Park - Sundarijal",
+      "start_stop": "Ratna Park",
+      "end_stop": "Sundarijal",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN02",
+      "route_name": "Ratna Park - Balaju",
+      "start_stop": "Ratna Park",
+      "end_stop": "Balaju",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN03",
+      "route_name": "Ratna Park - Airport",
+      "start_stop": "Ratna Park",
+      "end_stop": "Airport Bus Station",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN04",
+      "route_name": "Ratna Park - Kapan",
+      "start_stop": "Ratna Park",
+      "end_stop": "Bhrikuti Chowk, Kapan",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "route_name": "Balaju - Chabahil",
+      "start_stop": "Balaju",
+      "end_stop": "Chabahil",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN06",
+      "route_name": "Kalimati - Chabahil",
+      "start_stop": "Kalimati",
+      "end_stop": "Chabahil",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN07",
+      "route_name": "Kimdol - Ratna Park",
+      "start_stop": "Kimdol Chowk",
+      "end_stop": "Ratna Park",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN08",
+      "route_name": "Gongabu - Ratna Park",
+      "start_stop": "Gongabu Chowk",
+      "end_stop": "Ratna Park",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN09",
+      "route_name": "Gongabu - Kapan",
+      "start_stop": "Gongabu Chowk",
+      "end_stop": "Bhrikuti Chowk, Kapan",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN10",
+      "route_name": "Maitighar - Boudha",
+      "start_stop": "Maitighar",
+      "end_stop": "Boudha",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN11",
+      "route_name": "Ratna Park - Teaching Hospital",
+      "start_stop": "Ratna Park",
+      "end_stop": "Teaching Hospital",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN12",
+      "route_name": "Airport - Boudha",
+      "start_stop": "Airport Bus Station",
+      "end_stop": "Boudha",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN13",
+      "route_name": "Ratna Park - Sukedhara",
+      "start_stop": "Ratna Park",
+      "end_stop": "Sukedhara",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN14",
+      "route_name": "Ratna Park - Mahankal",
+      "start_stop": "Ratna Park",
+      "end_stop": "Mahankal",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN15",
+      "route_name": "Kalimati - Balaju",
+      "start_stop": "Kalimati",
+      "end_stop": "Balaju",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN16",
+      "route_name": "Maitighar - Airport",
+      "start_stop": "Maitighar",
+      "end_stop": "Airport Bus Station",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN17",
+      "route_name": "Ratna Park - Mandikhatar",
+      "start_stop": "Ratna Park",
+      "end_stop": "Mandikhatar",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "route_name": "Ratna Park - Jorpati",
+      "start_stop": "Ratna Park",
+      "end_stop": "Jorpati",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN19",
+      "route_name": "Balaju - Airport",
+      "start_stop": "Balaju",
+      "end_stop": "Airport Bus Station",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN20",
+      "route_name": "Chabahil - Balaju",
+      "start_stop": "Chabahil",
+      "end_stop": "Balaju",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN21",
+      "route_name": "Ratna Park - Maitighar - Tinkune",
+      "start_stop": "Ratna Park",
+      "end_stop": "Tinkune",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN22",
+      "route_name": "Jamal - Boudha",
+      "start_stop": "Jamal",
+      "end_stop": "Boudha",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN23",
+      "route_name": "Teaching Hospital - Boudha",
+      "start_stop": "Teaching Hospital",
+      "end_stop": "Boudha",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN24",
+      "route_name": "Kalimati - Airport",
+      "start_stop": "Kalimati",
+      "end_stop": "Airport Bus Station",
+      "operator": "Synthetic Demo Operator",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "notes": "NOT A REAL OPERATING ROUTE",
+      "dataset_date": "2026-09-23",
+      "dataset_status": "synthetic_demo_only"
+    }
+  ],
+  "stops": [
+    {
+      "stop_id": "S001",
+      "stop_name": "Ratna Park",
+      "latitude": 27.7064893,
+      "longitude": 85.314516,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S002",
+      "stop_name": "Jamal",
+      "latitude": 27.708785,
+      "longitude": 85.315278,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S003",
+      "stop_name": "Kantipath",
+      "latitude": 27.7092826,
+      "longitude": 85.3166186,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S004",
+      "stop_name": "Lainchaur",
+      "latitude": 27.7171421,
+      "longitude": 85.3150735,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S005",
+      "stop_name": "Lazimpat",
+      "latitude": 27.7192324,
+      "longitude": 85.318208,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S006",
+      "stop_name": "Sorhakhutte",
+      "latitude": 27.7188423,
+      "longitude": 85.3095996,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S007",
+      "stop_name": "Dhungedhara",
+      "latitude": 27.7235413,
+      "longitude": 85.294554,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S008",
+      "stop_name": "Balaju Chowk",
+      "latitude": 27.7260406,
+      "longitude": 85.304997,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S009",
+      "stop_name": "Balaju",
+      "latitude": 27.7271602,
+      "longitude": 85.3046115,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S010",
+      "stop_name": "Gongabu Chowk",
+      "latitude": 27.7349404,
+      "longitude": 85.3146154,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S011",
+      "stop_name": "Teaching Hospital",
+      "latitude": 27.7351123,
+      "longitude": 85.3313234,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S012",
+      "stop_name": "Narayan Gopal Chowk",
+      "latitude": 27.7399704,
+      "longitude": 85.3372283,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S013",
+      "stop_name": "Chappal Karkhana",
+      "latitude": 27.7349479,
+      "longitude": 85.34229,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S014",
+      "stop_name": "Dhumbaharai",
+      "latitude": 27.731947,
+      "longitude": 85.3442753,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S015",
+      "stop_name": "Sukedhara",
+      "latitude": 27.7282299,
+      "longitude": 85.3460335,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S016",
+      "stop_name": "Mandikhatar",
+      "latitude": 27.7362631,
+      "longitude": 85.347674,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S017",
+      "stop_name": "Aakashedhara",
+      "latitude": 27.7358872,
+      "longitude": 85.3552529,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S018",
+      "stop_name": "Bhrikuti Chowk, Kapan",
+      "latitude": 27.7273703,
+      "longitude": 85.3569382,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S019",
+      "stop_name": "Mahankal",
+      "latitude": 27.7242827,
+      "longitude": 85.3568315,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S020",
+      "stop_name": "Putalisadak",
+      "latitude": 27.7069661,
+      "longitude": 85.3226211,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S021",
+      "stop_name": "Kamaladi Road",
+      "latitude": 27.7079686,
+      "longitude": 85.3212704,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S022",
+      "stop_name": "Krishna Pauroti",
+      "latitude": 27.7103235,
+      "longitude": 85.3222867,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S023",
+      "stop_name": "Kamalpokhari",
+      "latitude": 27.7099805,
+      "longitude": 85.3260604,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S024",
+      "stop_name": "Naxal Bhagwati",
+      "latitude": 27.7126414,
+      "longitude": 85.3286681,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S025",
+      "stop_name": "Bal Mandir",
+      "latitude": 27.7144304,
+      "longitude": 85.3294143,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S026",
+      "stop_name": "Tangal",
+      "latitude": 27.7171094,
+      "longitude": 85.3303876,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S027",
+      "stop_name": "Baluwatar",
+      "latitude": 27.72416,
+      "longitude": 85.33113,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S028",
+      "stop_name": "Maitidevi",
+      "latitude": 27.7039253,
+      "longitude": 85.3328212,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S029",
+      "stop_name": "Ratopul",
+      "latitude": 27.7080932,
+      "longitude": 85.3363787,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S030",
+      "stop_name": "Pingalsthan, Gaushala",
+      "latitude": 27.7069046,
+      "longitude": 85.3447142,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S031",
+      "stop_name": "Mitrapark",
+      "latitude": 27.7132392,
+      "longitude": 85.3454588,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S032",
+      "stop_name": "Chabahil",
+      "latitude": 27.7166853,
+      "longitude": 85.3464267,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S033",
+      "stop_name": "Chuchepati",
+      "latitude": 27.7191615,
+      "longitude": 85.3502938,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S034",
+      "stop_name": "Boudha",
+      "latitude": 27.7206471,
+      "longitude": 85.3617114,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S035",
+      "stop_name": "Jorpati",
+      "latitude": 27.7217385,
+      "longitude": 85.3726585,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S036",
+      "stop_name": "Sundarijal",
+      "latitude": 27.7575667,
+      "longitude": 85.4193829,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S037",
+      "stop_name": "Tilganga",
+      "latitude": 27.7061894,
+      "longitude": 85.3501477,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S038",
+      "stop_name": "Sinamangal",
+      "latitude": 27.6956655,
+      "longitude": 85.3531429,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S039",
+      "stop_name": "Airport Bus Station",
+      "latitude": 27.7006099,
+      "longitude": 85.3537169,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S040",
+      "stop_name": "Tinkune",
+      "latitude": 27.6923015,
+      "longitude": 85.3455249,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S041",
+      "stop_name": "Tara Hall Chowk",
+      "latitude": 27.6972036,
+      "longitude": 85.3505567,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S042",
+      "stop_name": "Eyeplex Mall",
+      "latitude": 27.6922923,
+      "longitude": 85.3361926,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S043",
+      "stop_name": "Maitighar",
+      "latitude": 27.693971,
+      "longitude": 85.3193479,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S044",
+      "stop_name": "New Plaza",
+      "latitude": 27.7007581,
+      "longitude": 85.3233339,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S045",
+      "stop_name": "Anamnagar",
+      "latitude": 27.6993514,
+      "longitude": 85.32895,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S046",
+      "stop_name": "Kalimati",
+      "latitude": 27.6982946,
+      "longitude": 85.2995431,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S047",
+      "stop_name": "Teku",
+      "latitude": 27.6968249,
+      "longitude": 85.3058547,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S048",
+      "stop_name": "Kimdol Chowk",
+      "latitude": 27.7129607,
+      "longitude": 85.2897532,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S049",
+      "stop_name": "Purano Bus Park",
+      "latitude": 27.7035209,
+      "longitude": 85.3163832,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "stop_id": "S050",
+      "stop_name": "City Center Stop",
+      "latitude": 27.709781,
+      "longitude": 85.3269383,
+      "coordinate_status": "osm_coordinate_from_prior_project_data",
+      "verification_status": "real_place_name_with_demo_route_usage",
+      "source": "Prior project OSM-derived V2 dataset",
+      "dataset_status": "synthetic_demo_only"
+    }
+  ],
+  "route_stops": [
+    {
+      "route_id": "SYN01",
+      "stop_id": "S001",
+      "stop_order": 1,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S002",
+      "stop_order": 2,
+      "stop_name": "Jamal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S021",
+      "stop_order": 3,
+      "stop_name": "Kamaladi Road",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S022",
+      "stop_order": 4,
+      "stop_name": "Krishna Pauroti",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S023",
+      "stop_order": 5,
+      "stop_name": "Kamalpokhari",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S024",
+      "stop_order": 6,
+      "stop_name": "Naxal Bhagwati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S025",
+      "stop_order": 7,
+      "stop_name": "Bal Mandir",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S026",
+      "stop_order": 8,
+      "stop_name": "Tangal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S031",
+      "stop_order": 9,
+      "stop_name": "Mitrapark",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S032",
+      "stop_order": 10,
+      "stop_name": "Chabahil",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S033",
+      "stop_order": 11,
+      "stop_name": "Chuchepati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S034",
+      "stop_order": 12,
+      "stop_name": "Boudha",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S035",
+      "stop_order": 13,
+      "stop_name": "Jorpati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN01",
+      "stop_id": "S036",
+      "stop_order": 14,
+      "stop_name": "Sundarijal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN02",
+      "stop_id": "S001",
+      "stop_order": 1,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN02",
+      "stop_id": "S002",
+      "stop_order": 2,
+      "stop_name": "Jamal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN02",
+      "stop_id": "S004",
+      "stop_order": 3,
+      "stop_name": "Lainchaur",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN02",
+      "stop_id": "S006",
+      "stop_order": 4,
+      "stop_name": "Sorhakhutte",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN02",
+      "stop_id": "S007",
+      "stop_order": 5,
+      "stop_name": "Dhungedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN02",
+      "stop_id": "S008",
+      "stop_order": 6,
+      "stop_name": "Balaju Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN02",
+      "stop_id": "S009",
+      "stop_order": 7,
+      "stop_name": "Balaju",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN03",
+      "stop_id": "S001",
+      "stop_order": 1,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN03",
+      "stop_id": "S020",
+      "stop_order": 2,
+      "stop_name": "Putalisadak",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN03",
+      "stop_id": "S044",
+      "stop_order": 3,
+      "stop_name": "New Plaza",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN03",
+      "stop_id": "S028",
+      "stop_order": 4,
+      "stop_name": "Maitidevi",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN03",
+      "stop_id": "S029",
+      "stop_order": 5,
+      "stop_name": "Ratopul",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN03",
+      "stop_id": "S030",
+      "stop_order": 6,
+      "stop_name": "Pingalsthan, Gaushala",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN03",
+      "stop_id": "S037",
+      "stop_order": 7,
+      "stop_name": "Tilganga",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN03",
+      "stop_id": "S038",
+      "stop_order": 8,
+      "stop_name": "Sinamangal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN03",
+      "stop_id": "S039",
+      "stop_order": 9,
+      "stop_name": "Airport Bus Station",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN04",
+      "stop_id": "S001",
+      "stop_order": 1,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN04",
+      "stop_id": "S021",
+      "stop_order": 2,
+      "stop_name": "Kamaladi Road",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN04",
+      "stop_id": "S022",
+      "stop_order": 3,
+      "stop_name": "Krishna Pauroti",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN04",
+      "stop_id": "S024",
+      "stop_order": 4,
+      "stop_name": "Naxal Bhagwati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN04",
+      "stop_id": "S026",
+      "stop_order": 5,
+      "stop_name": "Tangal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN04",
+      "stop_id": "S027",
+      "stop_order": 6,
+      "stop_name": "Baluwatar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN04",
+      "stop_id": "S015",
+      "stop_order": 7,
+      "stop_name": "Sukedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN04",
+      "stop_id": "S017",
+      "stop_order": 8,
+      "stop_name": "Aakashedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN04",
+      "stop_id": "S018",
+      "stop_order": 9,
+      "stop_name": "Bhrikuti Chowk, Kapan",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S009",
+      "stop_order": 1,
+      "stop_name": "Balaju",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S008",
+      "stop_order": 2,
+      "stop_name": "Balaju Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S007",
+      "stop_order": 3,
+      "stop_name": "Dhungedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S006",
+      "stop_order": 4,
+      "stop_name": "Sorhakhutte",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S004",
+      "stop_order": 5,
+      "stop_name": "Lainchaur",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S026",
+      "stop_order": 6,
+      "stop_name": "Tangal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S027",
+      "stop_order": 7,
+      "stop_name": "Baluwatar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S011",
+      "stop_order": 8,
+      "stop_name": "Teaching Hospital",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S012",
+      "stop_order": 9,
+      "stop_name": "Narayan Gopal Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S013",
+      "stop_order": 10,
+      "stop_name": "Chappal Karkhana",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S014",
+      "stop_order": 11,
+      "stop_name": "Dhumbaharai",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S015",
+      "stop_order": 12,
+      "stop_name": "Sukedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN05",
+      "stop_id": "S032",
+      "stop_order": 13,
+      "stop_name": "Chabahil",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN06",
+      "stop_id": "S046",
+      "stop_order": 1,
+      "stop_name": "Kalimati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN06",
+      "stop_id": "S047",
+      "stop_order": 2,
+      "stop_name": "Teku",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN06",
+      "stop_id": "S043",
+      "stop_order": 3,
+      "stop_name": "Maitighar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN06",
+      "stop_id": "S044",
+      "stop_order": 4,
+      "stop_name": "New Plaza",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN06",
+      "stop_id": "S028",
+      "stop_order": 5,
+      "stop_name": "Maitidevi",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN06",
+      "stop_id": "S029",
+      "stop_order": 6,
+      "stop_name": "Ratopul",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN06",
+      "stop_id": "S030",
+      "stop_order": 7,
+      "stop_name": "Pingalsthan, Gaushala",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN06",
+      "stop_id": "S031",
+      "stop_order": 8,
+      "stop_name": "Mitrapark",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN06",
+      "stop_id": "S032",
+      "stop_order": 9,
+      "stop_name": "Chabahil",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN07",
+      "stop_id": "S048",
+      "stop_order": 1,
+      "stop_name": "Kimdol Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN07",
+      "stop_id": "S007",
+      "stop_order": 2,
+      "stop_name": "Dhungedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN07",
+      "stop_id": "S006",
+      "stop_order": 3,
+      "stop_name": "Sorhakhutte",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN07",
+      "stop_id": "S004",
+      "stop_order": 4,
+      "stop_name": "Lainchaur",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN07",
+      "stop_id": "S002",
+      "stop_order": 5,
+      "stop_name": "Jamal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN07",
+      "stop_id": "S001",
+      "stop_order": 6,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN08",
+      "stop_id": "S010",
+      "stop_order": 1,
+      "stop_name": "Gongabu Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN08",
+      "stop_id": "S004",
+      "stop_order": 2,
+      "stop_name": "Lainchaur",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN08",
+      "stop_id": "S002",
+      "stop_order": 3,
+      "stop_name": "Jamal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN08",
+      "stop_id": "S001",
+      "stop_order": 4,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN09",
+      "stop_id": "S010",
+      "stop_order": 1,
+      "stop_name": "Gongabu Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN09",
+      "stop_id": "S011",
+      "stop_order": 2,
+      "stop_name": "Teaching Hospital",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN09",
+      "stop_id": "S012",
+      "stop_order": 3,
+      "stop_name": "Narayan Gopal Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN09",
+      "stop_id": "S013",
+      "stop_order": 4,
+      "stop_name": "Chappal Karkhana",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN09",
+      "stop_id": "S014",
+      "stop_order": 5,
+      "stop_name": "Dhumbaharai",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN09",
+      "stop_id": "S015",
+      "stop_order": 6,
+      "stop_name": "Sukedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN09",
+      "stop_id": "S017",
+      "stop_order": 7,
+      "stop_name": "Aakashedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN09",
+      "stop_id": "S018",
+      "stop_order": 8,
+      "stop_name": "Bhrikuti Chowk, Kapan",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN10",
+      "stop_id": "S043",
+      "stop_order": 1,
+      "stop_name": "Maitighar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN10",
+      "stop_id": "S044",
+      "stop_order": 2,
+      "stop_name": "New Plaza",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN10",
+      "stop_id": "S028",
+      "stop_order": 3,
+      "stop_name": "Maitidevi",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN10",
+      "stop_id": "S029",
+      "stop_order": 4,
+      "stop_name": "Ratopul",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN10",
+      "stop_id": "S030",
+      "stop_order": 5,
+      "stop_name": "Pingalsthan, Gaushala",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN10",
+      "stop_id": "S031",
+      "stop_order": 6,
+      "stop_name": "Mitrapark",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN10",
+      "stop_id": "S032",
+      "stop_order": 7,
+      "stop_name": "Chabahil",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN10",
+      "stop_id": "S033",
+      "stop_order": 8,
+      "stop_name": "Chuchepati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN10",
+      "stop_id": "S034",
+      "stop_order": 9,
+      "stop_name": "Boudha",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN11",
+      "stop_id": "S001",
+      "stop_order": 1,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN11",
+      "stop_id": "S002",
+      "stop_order": 2,
+      "stop_name": "Jamal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN11",
+      "stop_id": "S004",
+      "stop_order": 3,
+      "stop_name": "Lainchaur",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN11",
+      "stop_id": "S005",
+      "stop_order": 4,
+      "stop_name": "Lazimpat",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN11",
+      "stop_id": "S027",
+      "stop_order": 5,
+      "stop_name": "Baluwatar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN11",
+      "stop_id": "S011",
+      "stop_order": 6,
+      "stop_name": "Teaching Hospital",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN12",
+      "stop_id": "S039",
+      "stop_order": 1,
+      "stop_name": "Airport Bus Station",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN12",
+      "stop_id": "S038",
+      "stop_order": 2,
+      "stop_name": "Sinamangal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN12",
+      "stop_id": "S037",
+      "stop_order": 3,
+      "stop_name": "Tilganga",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN12",
+      "stop_id": "S030",
+      "stop_order": 4,
+      "stop_name": "Pingalsthan, Gaushala",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN12",
+      "stop_id": "S031",
+      "stop_order": 5,
+      "stop_name": "Mitrapark",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN12",
+      "stop_id": "S032",
+      "stop_order": 6,
+      "stop_name": "Chabahil",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN12",
+      "stop_id": "S033",
+      "stop_order": 7,
+      "stop_name": "Chuchepati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN12",
+      "stop_id": "S034",
+      "stop_order": 8,
+      "stop_name": "Boudha",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN13",
+      "stop_id": "S001",
+      "stop_order": 1,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN13",
+      "stop_id": "S002",
+      "stop_order": 2,
+      "stop_name": "Jamal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN13",
+      "stop_id": "S004",
+      "stop_order": 3,
+      "stop_name": "Lainchaur",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN13",
+      "stop_id": "S027",
+      "stop_order": 4,
+      "stop_name": "Baluwatar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN13",
+      "stop_id": "S011",
+      "stop_order": 5,
+      "stop_name": "Teaching Hospital",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN13",
+      "stop_id": "S012",
+      "stop_order": 6,
+      "stop_name": "Narayan Gopal Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN13",
+      "stop_id": "S013",
+      "stop_order": 7,
+      "stop_name": "Chappal Karkhana",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN13",
+      "stop_id": "S014",
+      "stop_order": 8,
+      "stop_name": "Dhumbaharai",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN13",
+      "stop_id": "S015",
+      "stop_order": 9,
+      "stop_name": "Sukedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN14",
+      "stop_id": "S001",
+      "stop_order": 1,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN14",
+      "stop_id": "S020",
+      "stop_order": 2,
+      "stop_name": "Putalisadak",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN14",
+      "stop_id": "S028",
+      "stop_order": 3,
+      "stop_name": "Maitidevi",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN14",
+      "stop_id": "S024",
+      "stop_order": 4,
+      "stop_name": "Naxal Bhagwati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN14",
+      "stop_id": "S026",
+      "stop_order": 5,
+      "stop_name": "Tangal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN14",
+      "stop_id": "S027",
+      "stop_order": 6,
+      "stop_name": "Baluwatar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN14",
+      "stop_id": "S015",
+      "stop_order": 7,
+      "stop_name": "Sukedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN14",
+      "stop_id": "S017",
+      "stop_order": 8,
+      "stop_name": "Aakashedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN14",
+      "stop_id": "S019",
+      "stop_order": 9,
+      "stop_name": "Mahankal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN15",
+      "stop_id": "S046",
+      "stop_order": 1,
+      "stop_name": "Kalimati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN15",
+      "stop_id": "S047",
+      "stop_order": 2,
+      "stop_name": "Teku",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN15",
+      "stop_id": "S001",
+      "stop_order": 3,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN15",
+      "stop_id": "S002",
+      "stop_order": 4,
+      "stop_name": "Jamal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN15",
+      "stop_id": "S004",
+      "stop_order": 5,
+      "stop_name": "Lainchaur",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN15",
+      "stop_id": "S006",
+      "stop_order": 6,
+      "stop_name": "Sorhakhutte",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN15",
+      "stop_id": "S007",
+      "stop_order": 7,
+      "stop_name": "Dhungedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN15",
+      "stop_id": "S009",
+      "stop_order": 8,
+      "stop_name": "Balaju",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN16",
+      "stop_id": "S043",
+      "stop_order": 1,
+      "stop_name": "Maitighar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN16",
+      "stop_id": "S042",
+      "stop_order": 2,
+      "stop_name": "Eyeplex Mall",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN16",
+      "stop_id": "S040",
+      "stop_order": 3,
+      "stop_name": "Tinkune",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN16",
+      "stop_id": "S041",
+      "stop_order": 4,
+      "stop_name": "Tara Hall Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN16",
+      "stop_id": "S038",
+      "stop_order": 5,
+      "stop_name": "Sinamangal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN16",
+      "stop_id": "S039",
+      "stop_order": 6,
+      "stop_name": "Airport Bus Station",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN17",
+      "stop_id": "S001",
+      "stop_order": 1,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN17",
+      "stop_id": "S002",
+      "stop_order": 2,
+      "stop_name": "Jamal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN17",
+      "stop_id": "S004",
+      "stop_order": 3,
+      "stop_name": "Lainchaur",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN17",
+      "stop_id": "S027",
+      "stop_order": 4,
+      "stop_name": "Baluwatar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN17",
+      "stop_id": "S011",
+      "stop_order": 5,
+      "stop_name": "Teaching Hospital",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN17",
+      "stop_id": "S012",
+      "stop_order": 6,
+      "stop_name": "Narayan Gopal Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN17",
+      "stop_id": "S013",
+      "stop_order": 7,
+      "stop_name": "Chappal Karkhana",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN17",
+      "stop_id": "S016",
+      "stop_order": 8,
+      "stop_name": "Mandikhatar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "stop_id": "S001",
+      "stop_order": 1,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "stop_id": "S021",
+      "stop_order": 2,
+      "stop_name": "Kamaladi Road",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "stop_id": "S022",
+      "stop_order": 3,
+      "stop_name": "Krishna Pauroti",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "stop_id": "S023",
+      "stop_order": 4,
+      "stop_name": "Kamalpokhari",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "stop_id": "S024",
+      "stop_order": 5,
+      "stop_name": "Naxal Bhagwati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "stop_id": "S026",
+      "stop_order": 6,
+      "stop_name": "Tangal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "stop_id": "S031",
+      "stop_order": 7,
+      "stop_name": "Mitrapark",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "stop_id": "S032",
+      "stop_order": 8,
+      "stop_name": "Chabahil",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "stop_id": "S033",
+      "stop_order": 9,
+      "stop_name": "Chuchepati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "stop_id": "S034",
+      "stop_order": 10,
+      "stop_name": "Boudha",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN18",
+      "stop_id": "S035",
+      "stop_order": 11,
+      "stop_name": "Jorpati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN19",
+      "stop_id": "S009",
+      "stop_order": 1,
+      "stop_name": "Balaju",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN19",
+      "stop_id": "S006",
+      "stop_order": 2,
+      "stop_name": "Sorhakhutte",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN19",
+      "stop_id": "S004",
+      "stop_order": 3,
+      "stop_name": "Lainchaur",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN19",
+      "stop_id": "S002",
+      "stop_order": 4,
+      "stop_name": "Jamal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN19",
+      "stop_id": "S044",
+      "stop_order": 5,
+      "stop_name": "New Plaza",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN19",
+      "stop_id": "S043",
+      "stop_order": 6,
+      "stop_name": "Maitighar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN19",
+      "stop_id": "S040",
+      "stop_order": 7,
+      "stop_name": "Tinkune",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN19",
+      "stop_id": "S038",
+      "stop_order": 8,
+      "stop_name": "Sinamangal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN19",
+      "stop_id": "S039",
+      "stop_order": 9,
+      "stop_name": "Airport Bus Station",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN20",
+      "stop_id": "S032",
+      "stop_order": 1,
+      "stop_name": "Chabahil",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN20",
+      "stop_id": "S015",
+      "stop_order": 2,
+      "stop_name": "Sukedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN20",
+      "stop_id": "S014",
+      "stop_order": 3,
+      "stop_name": "Dhumbaharai",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN20",
+      "stop_id": "S013",
+      "stop_order": 4,
+      "stop_name": "Chappal Karkhana",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN20",
+      "stop_id": "S012",
+      "stop_order": 5,
+      "stop_name": "Narayan Gopal Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN20",
+      "stop_id": "S011",
+      "stop_order": 6,
+      "stop_name": "Teaching Hospital",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN20",
+      "stop_id": "S010",
+      "stop_order": 7,
+      "stop_name": "Gongabu Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN20",
+      "stop_id": "S009",
+      "stop_order": 8,
+      "stop_name": "Balaju",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN21",
+      "stop_id": "S001",
+      "stop_order": 1,
+      "stop_name": "Ratna Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN21",
+      "stop_id": "S049",
+      "stop_order": 2,
+      "stop_name": "Purano Bus Park",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN21",
+      "stop_id": "S044",
+      "stop_order": 3,
+      "stop_name": "New Plaza",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN21",
+      "stop_id": "S043",
+      "stop_order": 4,
+      "stop_name": "Maitighar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN21",
+      "stop_id": "S042",
+      "stop_order": 5,
+      "stop_name": "Eyeplex Mall",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN21",
+      "stop_id": "S040",
+      "stop_order": 6,
+      "stop_name": "Tinkune",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN22",
+      "stop_id": "S002",
+      "stop_order": 1,
+      "stop_name": "Jamal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN22",
+      "stop_id": "S021",
+      "stop_order": 2,
+      "stop_name": "Kamaladi Road",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN22",
+      "stop_id": "S022",
+      "stop_order": 3,
+      "stop_name": "Krishna Pauroti",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN22",
+      "stop_id": "S050",
+      "stop_order": 4,
+      "stop_name": "City Center Stop",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN22",
+      "stop_id": "S024",
+      "stop_order": 5,
+      "stop_name": "Naxal Bhagwati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN22",
+      "stop_id": "S029",
+      "stop_order": 6,
+      "stop_name": "Ratopul",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN22",
+      "stop_id": "S031",
+      "stop_order": 7,
+      "stop_name": "Mitrapark",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN22",
+      "stop_id": "S032",
+      "stop_order": 8,
+      "stop_name": "Chabahil",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN22",
+      "stop_id": "S033",
+      "stop_order": 9,
+      "stop_name": "Chuchepati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN22",
+      "stop_id": "S034",
+      "stop_order": 10,
+      "stop_name": "Boudha",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN23",
+      "stop_id": "S011",
+      "stop_order": 1,
+      "stop_name": "Teaching Hospital",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN23",
+      "stop_id": "S012",
+      "stop_order": 2,
+      "stop_name": "Narayan Gopal Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN23",
+      "stop_id": "S013",
+      "stop_order": 3,
+      "stop_name": "Chappal Karkhana",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN23",
+      "stop_id": "S014",
+      "stop_order": 4,
+      "stop_name": "Dhumbaharai",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN23",
+      "stop_id": "S015",
+      "stop_order": 5,
+      "stop_name": "Sukedhara",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN23",
+      "stop_id": "S032",
+      "stop_order": 6,
+      "stop_name": "Chabahil",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN23",
+      "stop_id": "S033",
+      "stop_order": 7,
+      "stop_name": "Chuchepati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN23",
+      "stop_id": "S034",
+      "stop_order": 8,
+      "stop_name": "Boudha",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN24",
+      "stop_id": "S046",
+      "stop_order": 1,
+      "stop_name": "Kalimati",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN24",
+      "stop_id": "S047",
+      "stop_order": 2,
+      "stop_name": "Teku",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN24",
+      "stop_id": "S043",
+      "stop_order": 3,
+      "stop_name": "Maitighar",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN24",
+      "stop_id": "S042",
+      "stop_order": 4,
+      "stop_name": "Eyeplex Mall",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN24",
+      "stop_id": "S040",
+      "stop_order": 5,
+      "stop_name": "Tinkune",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN24",
+      "stop_id": "S041",
+      "stop_order": 6,
+      "stop_name": "Tara Hall Chowk",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN24",
+      "stop_id": "S038",
+      "stop_order": 7,
+      "stop_name": "Sinamangal",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    },
+    {
+      "route_id": "SYN24",
+      "stop_id": "S039",
+      "stop_order": 8,
+      "stop_name": "Airport Bus Station",
+      "verification_status": "synthetic_demo_only",
+      "source": "Manually generated prototype route",
+      "dataset_status": "synthetic_demo_only"
+    }
+  ]
+}

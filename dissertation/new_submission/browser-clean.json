@@ -1,0 +1,1628 @@
+{
+  "config": {
+    "argv": [
+      "C:\\Program Files\\nodejs\\node.exe",
+      "C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\frontend\\node_modules\\@playwright\\test\\cli.js",
+      "test",
+      "--reporter=json",
+      "--output=../dissertation/new_submission/browser-artifacts"
+    ],
+    "configFile": "C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\frontend\\playwright.config.js",
+    "rootDir": "C:/Users/HP/Desktop/fyp_ROUTEFINDER/KathmanduRouteFinder/frontend/e2e",
+    "failOnFlakyTests": false,
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 6
+    },
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "C:/Users/HP/Desktop/fyp_ROUTEFINDER/KathmanduRouteFinder/dissertation/new_submission/browser-artifacts",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 6
+        },
+        "id": "",
+        "name": "",
+        "testDir": "C:/Users/HP/Desktop/fyp_ROUTEFINDER/KathmanduRouteFinder/frontend/e2e",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      }
+    ],
+    "quiet": false,
+    "reporter": [
+      [
+        "json"
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.63.0",
+    "workers": 6,
+    "webServer": {
+      "command": "npm.cmd run dev -- --host 127.0.0.1 --port 5173 --strictPort",
+      "url": "http://127.0.0.1:5173",
+      "reuseExistingServer": true
+    }
+  },
+  "suites": [
+    {
+      "title": "ai-assistant.spec.js",
+      "file": "ai-assistant.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "simple endpoint requests work without preference controls or explanations",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "timedOut",
+                  "duration": 31329,
+                  "error": {
+                    "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
+                    "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                  },
+                  "errors": [
+                    {
+                      "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                    },
+                    {
+                      "location": {
+                        "file": "C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\frontend\\e2e\\ai-assistant.spec.js",
+                        "column": 64,
+                        "line": 9
+                      },
+                      "message": "Error: locator.click: Test timeout of 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Find Route', exact: true })\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"primary-button\">Find Route</button>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    - waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m    - element is visible, enabled and stable\u001b[22m\n\u001b[2m    - scrolling into view if needed\u001b[22m\n\n\n   7 | async function ask(page,message) {\n   8 |  await page.getByRole('textbox',{name:'Your journey request'}).fill(message);\n>  9 |  await page.getByRole('button',{name:'Find Route',exact:true}).click();\n     |                                                                ^\n  10 | }\n  11 |\n  12 | test('simple endpoint requests work without preference controls or explanations', async ({page}) => {\n    at ask (C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\frontend\\e2e\\ai-assistant.spec.js:9:64)\n    at C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\frontend\\e2e\\ai-assistant.spec.js:14:3"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:14:55.111Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\dissertation\\new_submission\\browser-artifacts\\ai-assistant-simple-endpoi-8832c-ce-controls-or-explanations\\error-context.md"
+                    }
+                  ]
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "76b9bce1b3571ffd8d92-7869fbc70e30dd596b7f",
+          "file": "ai-assistant.spec.js",
+          "line": 12,
+          "column": 1
+        },
+        {
+          "title": "natural language bus routes and missing origin/unknown destination",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 7,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3123,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:36.783Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "76b9bce1b3571ffd8d92-ddddaa6bc6ed67840b86",
+          "file": "ai-assistant.spec.js",
+          "line": 32,
+          "column": 1
+        },
+        {
+          "title": "bus-stop clarification automatically continues and Bhaktapur uses the main stop",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 7,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 2953,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:40.468Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "76b9bce1b3571ffd8d92-ecadf8855bf3131f0ca7",
+          "file": "ai-assistant.spec.js",
+          "line": 49,
+          "column": 1
+        },
+        {
+          "title": "location assistant and normal location search compare starts deterministically and show one recommendation",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 7,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 2343,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:43.491Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "76b9bce1b3571ffd8d92-61917be365e8ce7e99d1",
+          "file": "ai-assistant.spec.js",
+          "line": 70,
+          "column": 1
+        },
+        {
+          "title": "reset cancels an assistant location request without a stale recommendation",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 7,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3544,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:45.873Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "76b9bce1b3571ffd8d92-0de44f743bfc2972bd30",
+          "file": "ai-assistant.spec.js",
+          "line": 95,
+          "column": 1
+        },
+        {
+          "title": "travel infinitive does not hide Thankot destination",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 7,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 1370,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:49.470Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "76b9bce1b3571ffd8d92-d7e1d7010d5c53fb7940",
+          "file": "ai-assistant.spec.js",
+          "line": 107,
+          "column": 1
+        }
+      ]
+    },
+    {
+      "title": "autocomplete.spec.js",
+      "file": "autocomplete.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "keyboard selection, escape, unknown input and reset",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 29087,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:14:54.694Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "fb27336d16831a909831-ef947d3cb09a57d8ba5d",
+          "file": "autocomplete.spec.js",
+          "line": 8,
+          "column": 1
+        },
+        {
+          "title": "full dataset selection, independent fields, swap, and project route",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 6395,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:15:27.699Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "fb27336d16831a909831-e3877a24fccfb4c4c134",
+          "file": "autocomplete.spec.js",
+          "line": 29,
+          "column": 1
+        }
+      ]
+    },
+    {
+      "title": "compact-layout.spec.js",
+      "file": "compact-layout.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "compact planner fits target viewports and keeps secondary content accessible",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 2,
+                  "status": "timedOut",
+                  "duration": 30903,
+                  "error": {
+                    "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
+                    "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                  },
+                  "errors": [
+                    {
+                      "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                    },
+                    {
+                      "location": {
+                        "file": "C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\frontend\\e2e\\compact-layout.spec.js",
+                        "column": 76,
+                        "line": 41
+                      },
+                      "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator:  getByRole('textbox', { name: 'Your journey request' })\nExpected: visible\nReceived: undefined\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" getByRole('textbox', { name: 'Your journey request' }) with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for getByRole('textbox', { name: 'Your journey request' })\u001b[22m\n\u001b[2m  - Protocol error (Runtime.callFunctionOn): Internal server error, session closed.\u001b[22m\n\n\n  39 |     const closedHeight = await page.locator('.assistant-disclosure').evaluate(el => el.offsetHeight);\n  40 |     await page.locator('.assistant-disclosure > summary').click();\n> 41 |     await expect(page.getByRole('textbox', {name:'Your journey request'})).toBeVisible();\n     |                                                                            ^\n  42 |     const openHeight = await page.locator('.assistant-disclosure').evaluate(el => el.offsetHeight);\n  43 |     measurements.push({width,height,...boxes,assistantClosedHeight:closedHeight,assistantExpandedHeight:openHeight,savedByCollapsingAssistant:openHeight-closedHeight});\n  44 |     await page.locator('.assistant-disclosure > summary').click();\n    at C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\frontend\\e2e\\compact-layout.spec.js:41:76"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:14:54.566Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\dissertation\\new_submission\\browser-artifacts\\compact-layout-compact-pla-27bce-econdary-content-accessible\\error-context.md"
+                    }
+                  ]
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "a5a7528624a64a7054e6-eb93590060a10a14389a",
+          "file": "compact-layout.spec.js",
+          "line": 4,
+          "column": 1
+        }
+      ]
+    },
+    {
+      "title": "final-requirements.spec.js",
+      "file": "final-requirements.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "invalid, empty and identical stops recover without a reload",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 3,
+                  "parallelIndex": 3,
+                  "status": "timedOut",
+                  "duration": 30893,
+                  "error": {
+                    "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
+                    "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                  },
+                  "errors": [
+                    {
+                      "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                    },
+                    {
+                      "location": {
+                        "file": "C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\frontend\\e2e\\final-requirements.spec.js",
+                        "column": 68,
+                        "line": 26
+                      },
+                      "message": "Error: locator.click: Test timeout of 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('option', { name: 'Kapan', exact: true })\u001b[22m\n\u001b[2m    - locator resolved to <li class=\"\" role=\"option\" id=\"_r_0_-option-0\" aria-selected=\"false\">\u2026</li>\u001b[22m\n\n\n  24 |     await expect(page.locator('.result--journey')).toHaveCount(0);\n  25 |     await input.fill('Kapan');\n> 26 |     await page.getByRole('option', { name: 'Kapan', exact: true }).click();\n     |                                                                    ^\n  27 |   }\n  28 |   await destination.fill('Balaju');\n  29 |   await page.getByRole('option', { name: 'Balaju', exact: true }).click();\n    at C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\frontend\\e2e\\final-requirements.spec.js:26:68"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:14:54.624Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\dissertation\\new_submission\\browser-artifacts\\final-requirements-invalid-070ec-ps-recover-without-a-reload\\error-context.md"
+                    }
+                  ]
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "f6e82c083833f2b05f8c-0903b76f432d8c90611b",
+          "file": "final-requirements.spec.js",
+          "line": 3,
+          "column": 1
+        },
+        {
+          "title": "repeated searches are consistent and complete within a few seconds",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 6,
+                  "parallelIndex": 3,
+                  "status": "passed",
+                  "duration": 5549,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:36.205Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "search-durations-ms",
+                      "contentType": "application/json",
+                      "body": "Wzk5Nyw1NzYsNTk1LDcxOSw1Nzld"
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "f6e82c083833f2b05f8c-4e9604edce45270cf59d",
+          "file": "final-requirements.spec.js",
+          "line": 46,
+          "column": 1
+        }
+      ]
+    },
+    {
+      "title": "location-routing.spec.js",
+      "file": "location-routing.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "Denmark is rejected before nearby stops, pedestrian calls or location map layers",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 29302,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:14:54.922Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "fdba925bb64c61a81c54-bc2ea6f8a23135781dec",
+          "file": "location-routing.spec.js",
+          "line": 11,
+          "column": 3
+        },
+        {
+          "title": "India is rejected before nearby stops, pedestrian calls or location map layers",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 7048,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:15:28.007Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "fdba925bb64c61a81c54-57cdae27603daab012ff",
+          "file": "location-routing.spec.js",
+          "line": 11,
+          "column": 3
+        },
+        {
+          "title": "Pokhara passes country eligibility but has no bus dataset coverage",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 1862,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:15:35.367Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "fdba925bb64c61a81c54-48543978d27f08bbb9b0",
+          "file": "location-routing.spec.js",
+          "line": 30,
+          "column": 1
+        },
+        {
+          "title": "Kathmandu compares three pedestrian durations, draws returned geometry and uses provider totals",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 6053,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:15:37.498Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "fdba925bb64c61a81c54-3cf4bb06fcb5bc61f6c5",
+          "file": "location-routing.spec.js",
+          "line": 41,
+          "column": 1
+        },
+        {
+          "title": "provider failure keeps the stop and labels the approximate walking fallback",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 6133,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:15:43.752Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "fdba925bb64c61a81c54-131e9c58fe233ea83d5e",
+          "file": "location-routing.spec.js",
+          "line": 75,
+          "column": 1
+        },
+        {
+          "title": "reset cancels outstanding pedestrian routes without restoring location or origin",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 2413,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:15:50.082Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "fdba925bb64c61a81c54-85594beb3a32220fda0b",
+          "file": "location-routing.spec.js",
+          "line": 90,
+          "column": 1
+        }
+      ]
+    },
+    {
+      "title": "map-labels.spec.js",
+      "file": "map-labels.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "only endpoints and transfers have permanent labels, without duplicate markers",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 5,
+                  "parallelIndex": 5,
+                  "status": "timedOut",
+                  "duration": 30992,
+                  "error": {
+                    "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
+                    "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                  },
+                  "errors": [
+                    {
+                      "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
+                    },
+                    {
+                      "location": {
+                        "file": "C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\frontend\\e2e\\map-labels.spec.js",
+                        "column": 74,
+                        "line": 28
+                      },
+                      "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoHaveCount\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator:  locator('.stop-marker[title^=\"Kapan:\"]')\nExpected: \u001b[32m1\u001b[39m\nReceived: \u001b[31mundefined\u001b[39m\n\nCall log:\n\u001b[2m  - Expect \"toHaveCount\" locator('.stop-marker[title^=\"Kapan:\"]') with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('.stop-marker[title^=\"Kapan:\"]')\u001b[22m\n\u001b[2m  - Protocol error (Runtime.callFunctionOn): Internal server error, session closed.\u001b[22m\n\n\n  26 |     await expect(page.locator('.stop-marker.stop-marker--transfer')).toHaveCount(new Set(result.transfers).size);\n  27 |     for (const stop of unique.values()) {\n> 28 |       await expect(page.locator(`.stop-marker[title^=\"${stop.name}:\"]`)).toHaveCount(1);\n     |                                                                          ^\n  29 |     }\n  30 |     await expect(page.locator('.map .leaflet-overlay-pane path')).toHaveCount(result.legs.length);\n  31 |   }\n    at C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\frontend\\e2e\\map-labels.spec.js:28:74"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:14:55.560Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "C:\\Users\\HP\\Desktop\\fyp_ROUTEFINDER\\KathmanduRouteFinder\\dissertation\\new_submission\\browser-artifacts\\map-labels-only-endpoints--5d9e7-s-without-duplicate-markers\\error-context.md"
+                    }
+                  ]
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "93643db0569910b4b06e-e9cb6ec1dcc6bd2a9e38",
+          "file": "map-labels.spec.js",
+          "line": 11,
+          "column": 1
+        }
+      ],
+      "suites": [
+        {
+          "title": "mobile intermediate stops",
+          "file": "map-labels.spec.js",
+          "line": 34,
+          "column": 6,
+          "specs": [
+            {
+              "title": "small dots retain touch targets, popups and keyboard access",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "",
+                  "projectName": "",
+                  "results": [
+                    {
+                      "workerIndex": 8,
+                      "parallelIndex": 1,
+                      "status": "passed",
+                      "duration": 3898,
+                      "errors": [],
+                      "stdout": [],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2026-11-12T21:16:49.657Z",
+                      "annotations": [],
+                      "attachments": []
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "93643db0569910b4b06e-24ddf45cbdcafd20b1b7",
+              "file": "map-labels.spec.js",
+              "line": 36,
+              "column": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "my-places.spec.js",
+      "file": "my-places.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "save, reload, From/To, edit and delete a supported stop",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 8975,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:15:34.733Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8cdac2f0b82076df87d9-7b8698c8a71854d54995",
+          "file": "my-places.spec.js",
+          "line": 29,
+          "column": 1
+        },
+        {
+          "title": "dialog supports Escape, focus return and invalid-stop validation",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 5524,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:15:43.824Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8cdac2f0b82076df87d9-8d01532c738901ab278a",
+          "file": "my-places.spec.js",
+          "line": 56,
+          "column": 1
+        },
+        {
+          "title": "addresses support origin and destination walks, swap and reset without invoking GPS",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 11492,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:15:49.512Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8cdac2f0b82076df87d9-15656394c3710c9e370a",
+          "file": "my-places.spec.js",
+          "line": 71,
+          "column": 1
+        },
+        {
+          "title": "geocoding outside Nepal, missing addresses and Nepal without bus coverage show clear errors",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 4161,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:01.322Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8cdac2f0b82076df87d9-39703a0940d2b436a377",
+          "file": "my-places.spec.js",
+          "line": 118,
+          "column": 1
+        },
+        {
+          "title": "saved addresses retain the clearly labelled walking fallback",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 4490,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:05.592Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8cdac2f0b82076df87d9-f78e5a7d5daa9fd02907",
+          "file": "my-places.spec.js",
+          "line": 137,
+          "column": 1
+        },
+        {
+          "title": "saved-place limit and storage quota failures are handled without losing manual search",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 2710,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:10.170Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8cdac2f0b82076df87d9-0090f87e9223c832ff5b",
+          "file": "my-places.spec.js",
+          "line": 150,
+          "column": 1
+        },
+        {
+          "title": "quota failure leaves the dialog open and the entered place intact",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 3478,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:13.020Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8cdac2f0b82076df87d9-a4caaa1c3b980fa1dff3",
+          "file": "my-places.spec.js",
+          "line": 160,
+          "column": 1
+        },
+        {
+          "title": "GPS remains separate and does not add the current location to saved places",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 2575,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:16.606Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8cdac2f0b82076df87d9-567be3a298e3db71c19e",
+          "file": "my-places.spec.js",
+          "line": 172,
+          "column": 1
+        },
+        {
+          "title": "saved-place cards and the dialog fit a phone viewport",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 2208,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:19.231Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "8cdac2f0b82076df87d9-5eddfe4d9874efad915d",
+          "file": "my-places.spec.js",
+          "line": 187,
+          "column": 1
+        }
+      ]
+    },
+    {
+      "title": "nearest-stops.spec.js",
+      "file": "nearest-stops.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "location selects origin, offers three stops, and preserves journey search and reset",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 5890,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:15:52.712Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "87cd7e9eff1f0bdd0f63-12fa9dd5a678cc74a0cd",
+          "file": "nearest-stops.spec.js",
+          "line": 9,
+          "column": 1
+        },
+        {
+          "title": "location error 1 restores button and preserves manual input",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 3828,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:15:58.671Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "87cd7e9eff1f0bdd0f63-a45f9ade4aa28d2301fc",
+          "file": "nearest-stops.spec.js",
+          "line": 39,
+          "column": 3
+        },
+        {
+          "title": "location error 2 restores button and preserves manual input",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 2931,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:02.610Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "87cd7e9eff1f0bdd0f63-e6ad252a52a0f5a9cceb",
+          "file": "nearest-stops.spec.js",
+          "line": 39,
+          "column": 3
+        },
+        {
+          "title": "location error 3 restores button and preserves manual input",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 2346,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:05.687Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "87cd7e9eff1f0bdd0f63-35f2c9655badb712efd6",
+          "file": "nearest-stops.spec.js",
+          "line": 39,
+          "column": 3
+        },
+        {
+          "title": "reset ignores a pending location response",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 2707,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:08.320Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "87cd7e9eff1f0bdd0f63-04772cf13eb7b9caf949",
+          "file": "nearest-stops.spec.js",
+          "line": 55,
+          "column": 1
+        }
+      ]
+    },
+    {
+      "title": "pretest-cleanup.spec.js",
+      "file": "pretest-cleanup.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "main workflow has no browser errors or retired UI",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 5502,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:11.150Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "3f6fcb4c6277e0670fc3-16dde45db10e2ec3bd78",
+          "file": "pretest-cleanup.spec.js",
+          "line": 3,
+          "column": 1
+        }
+      ]
+    },
+    {
+      "title": "search.spec.js",
+      "file": "search.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "direct and transfer journeys, all stops and map focus",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 3642,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:16.723Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "9e6ea2b6d72fedbaa223-b835b81e0e88b7e2e6c9",
+          "file": "search.spec.js",
+          "line": 3,
+          "column": 1
+        },
+        {
+          "title": "validation, reset, swap and repeat search",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 3457,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:20.552Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "9e6ea2b6d72fedbaa223-bda8c6de6d54a65c463f",
+          "file": "search.spec.js",
+          "line": 18,
+          "column": 1
+        },
+        {
+          "title": "responsive layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 3280,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:24.124Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "9e6ea2b6d72fedbaa223-f65f1db1ca6cc11059b2",
+          "file": "search.spec.js",
+          "line": 30,
+          "column": 1
+        },
+        {
+          "title": "homepage has My Places instead of Quick Stops or journey alternatives",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 2199,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:27.593Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "9e6ea2b6d72fedbaa223-9c2a4a0277d17200e52c",
+          "file": "search.spec.js",
+          "line": 35,
+          "column": 1
+        },
+        {
+          "title": "two transfers keep segment details and map markers",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "parallelIndex": 4,
+                  "status": "passed",
+                  "duration": 2163,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:29.845Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "9e6ea2b6d72fedbaa223-c7349096a92cf5327955",
+          "file": "search.spec.js",
+          "line": 42,
+          "column": 1
+        }
+      ]
+    },
+    {
+      "title": "walking-time.spec.js",
+      "file": "walking-time.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "nearby selection adds walking and total; manual origin and swap remove it",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 7448,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-12T21:16:21.785Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "44483226f723e4522318-eecca75f7b50982e1724",
+          "file": "walking-time.spec.js",
+          "line": 6,
+          "column": 1
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-11-12T21:14:49.963Z",
+    "duration": 129451.79000000001,
+    "expected": 36,
+    "skipped": 0,
+    "unexpected": 4,
+    "flaky": 0
+  }
+}

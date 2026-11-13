@@ -1,0 +1,1 @@
+export const NEARBY_CANDIDATE_COUNT = 3;

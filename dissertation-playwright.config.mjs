@@ -1,0 +1,2 @@
+﻿import { defineConfig } from './frontend/node_modules/@playwright/test/index.mjs';
+export default defineConfig({testDir:'./frontend/e2e',outputDir:'./dissertation/testing/playwright-artifacts',reporter:[['json',{outputFile:'./dissertation/testing/execution-logs/browser-results.json'}],['line']],workers:2,use:{baseURL:'http://localhost:5173',channel:'chrome',headless:true,screenshot:'only-on-failure'},timeout:30000});

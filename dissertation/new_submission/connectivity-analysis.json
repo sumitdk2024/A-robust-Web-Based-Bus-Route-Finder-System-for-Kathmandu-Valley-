@@ -1,0 +1,7 @@
+{
+  "stops": 294,
+  "directionalRoutes": 40,
+  "orderedDistinctEndpointPairs": 86142,
+  "unreachablePairs": 0,
+  "method": "Directed breadth-first reachability from every supplied stop; no route-cost validation"
+}

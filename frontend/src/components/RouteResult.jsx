@@ -1,0 +1,13 @@
+import Icon from './Icon.jsx';
+import { journeyLabel } from '../utils/findJourney.js';
+import { Fragment } from 'react';
+import { stopsById } from '../data/network.js';
+import { getJourneyStops } from '../utils/journeyStops.js';
+import WalkingSegment from './WalkingSegment.jsx';
+import JourneySummary from './JourneySummary.jsx';
+import JourneySegment from './JourneySegment.jsx';
+import StopList from './StopList.jsx';
+export default function RouteResult({ result, walking, destinationWalking, originPlace, destinationPlace, loading, activeStop, onHighlight, onFocusStop }) {
+  const stops = result?.legs ? getJourneyStops(result) : [];
+  return <section tabIndex={-1} className={`result${result?.legs ? ' result--journey' : ''}`} data-state={loading ? 'loading' : result?.type || 'empty'} data-journey-type={result?.type} aria-busy={loading} aria-label="Route result">{!result?.legs && <div className="state-icon"><Icon name="route"/></div>}<div className="section-heading"><h2>{result?.legs ? 'Your journey' : loading ? 'Finding your journey' : result ? 'Journey search' : 'Ready when you are'}</h2></div><p className="muted" role="status">{loading ? 'Finding the best connection\u2026' : !result ? 'Search for a journey to get started.' : result.type === 'message' ? result.message : `${journeyLabel(result)} found. ${stops.length} stops.`}</p>{!loading && result?.legs && <><div className="journey-card-heading"><h3 className="result-badge"><Icon name="bus"/>{journeyLabel(result)}</h3><span className="muted">{result.legs.length === 1 ? result.legs[0].company : 'Bus connections'}</span></div><p className="journey-endpoints">{originPlace?.type === 'address' ? originPlace.label : walking ? 'Your location' : stops[0].name}<span aria-hidden="true"> &#8594; </span>{destinationPlace?.type === 'address' ? destinationPlace.label : stops.at(-1).name}</p><JourneySummary result={result} walking={walking} destinationWalking={destinationWalking}/><ol className="journey">{walking && <WalkingSegment walking={walking}/>}{result.legs.map((leg, index) => <Fragment key={`${index}-${leg.routeId}`}>{index > 0 && <li className="transfer"><Icon name="swap"/><div><strong>Change bus here</strong><p>Transfer at {stopsById[leg.stops[0]].name}</p></div></li>}<JourneySegment leg={leg} onFocusStop={onFocusStop}/></Fragment>)}{destinationWalking && <WalkingSegment walking={destinationWalking} arrival/>}</ol><details className="journey-details"><summary>View journey details</summary><StopList key={stops.map(stop => stop.id).join('-')} stops={stops} activeStop={activeStop} onHighlight={onHighlight} onFocusStop={onFocusStop}/></details></>}</section>;
+}

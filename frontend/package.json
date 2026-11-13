@@ -1,0 +1,31 @@
+{
+  "name": "kathmandu-route-finder-prototype",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test src/utils/*.test.js",
+    "test:ui": "playwright test",
+    "check:network": "node scripts/checkNetwork.js",
+    "predev": "node scripts/generateMainDataset.js",
+    "prebuild": "node scripts/generateMainDataset.js",
+    "pretest": "node scripts/generateMainDataset.js",
+    "precheck:network": "node scripts/generateMainDataset.js",
+    "pretest:ui": "node scripts/generateMainDataset.js",
+    "evaluate:assistant": "node scripts/evaluateJourneyAssistant.js"
+  },
+  "dependencies": {
+    "@turf/boolean-point-in-polygon": "^7.4.0",
+    "leaflet": "^1.9.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.0.0"
+  }
+}

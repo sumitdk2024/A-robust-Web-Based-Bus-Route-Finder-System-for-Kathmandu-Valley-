@@ -1,0 +1,18 @@
+{
+  "executionDate": "2026-11-05",
+  "timezone": "Europe/Paris",
+  "platform": "win32",
+  "node": "v24.11.0",
+  "chrome": "155.0.8059.85",
+  "baseURL": "http://localhost:5173",
+  "frontendUnit": 68,
+  "backend": 5,
+  "browser": 40,
+  "independentRoutes": 7,
+  "independentApi": 6,
+  "blockedChecks": 4,
+  "focusedEvidenceViews": 6,
+  "applicationScreenshotViews": 12,
+  "nativeReportScreenshotViews": 4,
+  "indexedEvidenceScreenshotViews": 16
+}

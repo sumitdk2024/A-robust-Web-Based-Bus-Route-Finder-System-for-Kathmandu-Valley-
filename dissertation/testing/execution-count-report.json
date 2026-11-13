@@ -1,0 +1,25 @@
+{
+  "distinct_existing_automated_test_cases": 113,
+  "distinct_additional_check_cases": 13,
+  "distinct_executed_test_and_check_cases": 126,
+  "distinct_passed": 126,
+  "distinct_failed": 0,
+  "planned_but_blocked_evaluations": 4,
+  "repeat_executions": {
+    "oracle_convergence_retest": 7,
+    "browser_report_rerun": 40
+  },
+  "total_recorded_case_executions_including_repeats": 173,
+  "total_passed_case_executions_including_repeats": 173,
+  "failed_case_executions": 0,
+  "screenshots": {
+    "application": 12,
+    "test_report": 2,
+    "total": 14
+  },
+  "embedded_screenshots": {
+    "application": 4,
+    "test_report": 2
+  },
+  "warning": "Do not sum CSV ledger rows or screenshot views as independent executed tests. Provider/GPS fixtures do not establish live-service or field accuracy."
+}

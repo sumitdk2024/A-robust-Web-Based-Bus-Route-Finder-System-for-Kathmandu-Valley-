@@ -1,0 +1,23 @@
+Execution: 5 November 2026; main Codex process. This file preserves the command output returned by exec_command in the session.
+Working directory: KathmanduRouteFinder/frontend
+Command: npm.cmd run build
+Exit code: 0
+
+> kathmandu-route-finder-prototype@0.1.0 prebuild
+> node scripts/generateMainDataset.js
+> kathmandu-route-finder-prototype@0.1.0 build
+> vite build
+
+vite v7.3.6 building client environment for production...
+transforming...
+79 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.62 kB | gzip: 0.37 kB
+dist/assets/index-Dh0jVwt_.css   40.10 kB | gzip: 11.85 kB
+dist/assets/index-e7h_JVFq.js   824.39 kB | gzip: 171.26 kB
+Warning: Some chunks are larger than 500 kB after minification.
+Suggested remedies from Vite: dynamic import, manualChunks, or review chunkSizeWarningLimit.
+built in 5.95s
+
+No application source or CSV was edited. The normal build hook regenerates the derived JSON and dist output.

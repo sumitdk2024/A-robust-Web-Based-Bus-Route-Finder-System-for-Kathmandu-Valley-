@@ -1,0 +1,8 @@
+import { useState } from 'react';
+import { estimateWalkingMinutes, formatWalkingTime } from '../utils/travelTime.js';
+import { formatDistance } from '../utils/distance.js';
+export default function NearestStops({ stops, origin, onSelect, accuracy }) {
+  const [showAll, setShowAll] = useState(false);
+  if (!stops.length) return null;
+  return <section className="nearest-stops" aria-label="Nearest stops"><div className="section-title"><h2>Stops near you</h2><span className="muted">{stops.length} nearby stops</span></div><p className="form-hint">Walking times use pedestrian directions where available.{Number.isFinite(accuracy) && ` Location accuracy: \u00b1${Math.round(accuracy)} m.`}</p><ol>{(showAll ? stops : stops.slice(0, 3)).map(stop => <li key={stop.id}><div><strong>{stop.name}</strong><span>{formatWalkingTime(stop.walking?.walkingMinutes ?? estimateWalkingMinutes(stop.distance))} &middot; Approx. {formatDistance(stop.walking?.distanceMetres ?? stop.distance)}</span><small>{stop.walking?.source === 'pedestrian' ? 'Pedestrian route' : 'Approximate walking estimate'}</small></div><button type="button" aria-pressed={origin === stop.id} onClick={() => onSelect(stop.id)}>{origin === stop.id ? 'Selected origin' : 'Use this stop'}</button></li>)}</ol>{stops.length > 3 && <button type="button" className="show-more" onClick={() => setShowAll(value => !value)}>{showAll ? 'Show fewer stops' : 'Show more nearby stops'}</button>}<p className="estimate-note">If walking directions are unavailable, distance uses a straight-line estimate. Actual walking distance and time may vary.</p></section>;
+}
